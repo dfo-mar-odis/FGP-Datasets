@@ -1,0 +1,7 @@
+name_nom,description_en,description_fr
+latitude,Latitude of sample site in decimal degrees (WGS84),Latitude du site d’échantillonnage en degrés décimaux (WGS84)
+longitude,Longitude of sample site in decimal degrees (WGS84),Longitude du site d’échantillonnage en degrés décimaux (WGS84)
+site,Site where observations occurred,Site où les observations ont été effectuées
+datetime_UTC,Datetime of observation in ISO standard format (YYYY-MM-DD HH:MM:SS),Datetime de l’observation en format standard ISO (AAAA-MM-JJ HH:MM:SS)
+temperature_température_°C,Water temperature in degrees Celsius (°C),Température de l'eau en degrés Celsius (°C)
+depth_profondeur_m,Measurement depth in meters (m),Profondeur de mesure en mètres (m)
