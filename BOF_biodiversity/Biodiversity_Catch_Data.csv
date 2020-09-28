@@ -1,0 +1,2629 @@
+UID,SCIENTIFIC_NAME,COMMON_NAME,NUMBER_CAUGHT,BIOMASS,COMMENTS
+BOF2009001.001.B,Osmerus mordax,smelt,2,NA,NA
+BOF2009001.002.B,Pseudopleuronectes americanus,winter flounder,46,NA,NA
+BOF2009001.003.B,Alosa pseudoharengus,alewife,1,NA,NA
+BOF2009001.004.B,Aurelia aurita,moon jelly,3408,75710,NA
+BOF2009001.005.B,Clupea harengus,herring,3,NA,NA
+BOF2009001.006.B,Cucumaria frondosa,orange-footed sea cucumber,264,NA,NA
+BOF2009001.007.B,Chloropyhta,Chloropyhta,1,NA,NA
+BOF2009001.001.B,Halichondria sp.,Halichondria sp.,1,NA,NA
+BOF2009001.002.B,Hemitripterus americanus,sea raven,1,NA,NA
+BOF2009001.003.B,Homarus americanus,American lobster,18,NA,NA
+BOF2009001.004.B,Isodictya palmata,palmate sponge,2,NA,NA
+BOF2009001.005.B,Leucoraja erinacea,little skate,3,NA,NA
+BOF2009001.006.B,Merluccius bilinearis,silver hake,30,NA,NA
+BOF2009001.007.B,Myoxocephalus octodecemspinosus,longhorn sculpin,6,NA,NA
+BOF2009001.008.B,Osmerus mordax,smelt,13,NA,NA
+BOF2009001.009.B,Pandalus borealis,northern shrimp,6125,NA,NA
+BOF2009001.001.B,Placopecten magellanicus,deep sea scallop,7,NA,NA
+BOF2009001.002.B,Pseudopleuronectes americanus,winter flounder,12,NA,NA
+BOF2009001.003.B,Rhodophyta,Rhodophyta,1,NA,NA
+BOF2009001.004.B,Scophthalmus aquosus,windowpane flounder,1,NA,NA
+BOF2009001.005.B,Solaster endeca,smooth sunstar,1,NA,NA
+BOF2009001.006.B,Strongylocentrotus droebachiensis,green sea urchin,9,NA,NA
+BOF2009001.007.C,Alosa pseudoharengus,alewife,13,NA,NA
+BOF2009001.008.C,Clupea harengus,herring,2,NA,NA
+BOF2009001.009.C,Cucumaria frondosa,orange-footed sea cucumber,10,NA,NA
+BOF2009001.01.C,Cyclopterus lumpus,lumpfish,2,NA,NA
+BOF2009001.011.C,Gadus morhua,Atlantic cod,4,NA,NA
+BOF2009001.012.C,Hemitripterus americanus,sea raven,2,NA,NA
+BOF2009001.001.C,Homarus americanus,American lobster,29,NA,NA
+BOF2009001.002.C,Leucoraja erinacea,little skate,20,NA,NA
+BOF2009001.003.C,Leucoraja ocellata,winter skate,2,NA,NA
+BOF2009001.004.C,Merluccius bilinearis,silver hake,47,NA,NA
+BOF2009001.005.C,Myoxocephalus octodecemspinosus,longhorn sculpin,1,NA,NA
+BOF2009001.006.C,Osmerus mordax,smelt,37,NA,NA
+BOF2009001.007.C,Pseudopleuronectes americanus,winter flounder,15,NA,NA
+BOF2009001.008.C,Solaster endeca,smooth sunstar,1,NA,NA
+BOF2009001.009.C,Strongylocentrotus droebachiensis,green sea urchin,3,NA,NA
+BOF2009001.01.C,Triglops sp.,triglops sp.,1,NA,NA
+BOF2009001.011.A,Alosa pseudoharengus,alewife,2,NA,NA
+BOF2009001.012.A,Amaroucium sp.,sea pork,3,NA,NA
+BOF2009001.013.A,Asterias vulgaris,northern sea star,5,NA,NA
+BOF2009001.014.A,Aurelia aurita,moon jelly,852,18927,NA
+BOF2009001.015.A,Boltenia ovifera,stalked sea squirt,464,NA,NA
+BOF2009001.016.A,Ciona intestinalis,sea vase,1,NA,NA
+BOF2009001.017.A,Clupea harengus,herring,1,NA,NA
+BOF2009001.018.A,Cucumaria frondosa,orange-footed sea cucumber,4,NA,NA
+BOF2009001.019.A,Cyclopterus lumpus,lumpfish,1,NA,NA
+BOF2009001.001.A,Didemnum sp.,colonial tunicate,1,NA,NA
+BOF2009001.002.A,Gadus morhua,Atlantic cod,1,NA,NA
+BOF2009001.003.A,Harmothoe imbricata,15-scale worm,1,NA,NA
+BOF2009001.004.A,Henricia sanguinolenta,blood star,1,NA,NA
+BOF2009001.005.A,Homarus americanus,American lobster,10,NA,NA
+BOF2009001.006.A,Isodictya palmata,palmate sponge,1,NA,NA
+BOF2009001.007.A,Lebbeus groenlandicus,Greenland shrimp,1,NA,NA
+BOF2009001.008.A,Leucoraja erinacea,little skate,3,NA,NA
+BOF2009001.009.A,Merluccius bilinearis,silver hake,13,NA,NA
+BOF2009001.01.A,Osmerus mordax,smelt,12,NA,NA
+BOF2009001.011.A,Pandalus montagui,Montague shrimp,155,NA,NA
+BOF2009001.012.A,Placopecten magellanicus,deep sea scallop,7,NA,NA
+BOF2009001.013.A,Pseudopleuronectes americanus,winter flounder,18,NA,NA
+BOF2009001.014.A,Urticina felina,northern red anemone,3,NA,NA
+BOF2009001.015.C,Asterias vulgaris,northern sea star,4,NA,NA
+BOF2009001.016.C,Boltenia ovifera,stalked sea squirt,32,NA,NA
+BOF2009001.017.C,Clupea harengus,herring,613,NA,NA
+BOF2009001.018.C,Cucumaria frondosa,orange-footed sea cucumber,1,NA,NA
+BOF2009001.019.C,Homarus americanus,American lobster,14,NA,NA
+BOF2009001.02.C,Merluccius bilinearis,silver hake,49,NA,NA
+BOF2009001.001.C,Myoxocephalus octodecemspinosus,longhorn sculpin,1,NA,NA
+BOF2009001.002.C,Osmerus mordax,smelt,110,NA,NA
+BOF2009001.003.C,Pandalus borealis,northern shrimp,5,NA,NA
+BOF2009001.004.C,Peprilus triacanthus,butterfish,1,NA,NA
+BOF2009001.005.C,Placopecten magellanicus,deep sea scallop,3,NA,NA
+BOF2009001.006.C,Pseudopleuronectes americanus,winter flounder,82,NA,NA
+BOF2009001.007.C,Urophycis tenuis,white hake,2,NA,NA
+BOF2009001.008.B,Alosa pseudoharengus,alewife,2,NA,NA
+BOF2009001.009.B,Aurelia aurita,moon jelly,74,1629,NA
+BOF2009001.01.B,Clupea harengus,herring,154,NA,NA
+BOF2009001.011.B,Homarus americanus,American lobster,83,NA,NA
+BOF2009001.012.B,Isodictya palmata,palmate sponge,4,NA,NA
+BOF2009001.013.B,Merluccius bilinearis,silver hake,1,NA,NA
+BOF2009001.014.B,Osmerus mordax,smelt,36,NA,NA
+BOF2009001.015.B,Pandalus borealis,northern shrimp,4,NA,NA
+BOF2009001.016.B,Peprilus triacanthus,butterfish,83,NA,NA
+BOF2009001.017.B,Placopecten magellanicus,deep sea scallop,3,NA,NA
+BOF2009001.018.B,Pseudopleuronectes americanus,winter flounder,31,NA,NA
+BOF2009001.019.B,Strongylocentrotus droebachiensis,green sea urchin,1,NA,NA
+BOF2009001.02.B,Urophycis tenuis,white hake,4,NA,NA
+BOF2009001.021.B,Alosa pseudoharengus,alewife,6,NA,NA
+BOF2009001.022.B,Aurelia aurita,moon jelly,20,444,NA
+BOF2009001.001.B,Cucumaria frondosa,orange-footed sea cucumber,345,NA,NA
+BOF2009001.002.B,Hemitripterus americanus,sea raven,7,NA,NA
+BOF2009001.003.B,Homarus americanus,American lobster,74,NA,NA
+BOF2009001.004.B,Doryteuthis pealeii,longfin inshore squid,1,NA,NA
+BOF2009001.005.B,Lebbeus groenlandicus,Greenland shrimp,1,NA,NA
+BOF2009001.006.B,Leucoraja erinacea,little skate,18,NA,NA
+BOF2009001.007.B,Leucoraja ocellata,winter skate,1,NA,NA
+BOF2009001.008.B,Merluccius bilinearis,silver hake,91,NA,NA
+BOF2009001.009.B,Myoxocephalus octodecemspinosus,longhorn sculpin,14,NA,NA
+BOF2009001.01.B,Osmerus mordax,smelt,32,NA,NA
+BOF2009001.011.B,Pandalus borealis,northern shrimp,9187,NA,NA
+BOF2009001.012.B,Pandalus montagui,Montague shrimp,279,NA,NA
+BOF2009001.013.B,Peprilus triacanthus,butterfish,5,NA,NA
+BOF2009001.014.B,Placopecten magellanicus,deep sea scallop,82,NA,NA
+BOF2009001.015.B,Pseudopleuronectes americanus,winter flounder,35,NA,NA
+BOF2009001.016.B,Rhodophyta,Rhodophyta,1,NA,NA
+BOF2009001.017.B,Scophthalmus aquosus,windowpane flounder,1,NA,NA
+BOF2009001.018.B,Solaster endeca,smooth sunstar,1,NA,NA
+BOF2009001.019.B,Strongylocentrotus droebachiensis,green sea urchin,14,NA,NA
+BOF2009001.02.B,Urophycis tenuis,white hake,13,NA,NA
+BOF2011001.021.B,Ctenodiscus crispatus,mud star,4,4,NA
+BOF2011001.022.B,Cucumaria frondosa,orange-footed sea cucumber,4,1650,NA
+BOF2011001.023.B,Glyptocephalus cynoglossus,witch flounder,1,13,NA
+BOF2011001.024.B,Hippoglossoides platessoides,American plaice,1,77,NA
+BOF2011001.025.B,Homarus americanus,American lobster,76,37188,NA
+BOF2011001.026.B,Doryteuthis pealeii,longfin inshore squid,3,76,NA
+BOF2011001.001.B,Isodictya palmata,palmate sponge,1,281,NA
+BOF2011001.002.B,Leucoraja erinacea,little skate,1,850,NA
+BOF2011001.003.B,Lunatia heros,northern moon snail,1,68,NA
+BOF2011001.004.B,Merluccius bilinearis,silver hake,50,2824,NA
+BOF2011001.005.B,Myoxocephalus octodecemspinosus,longhorn sculpin,39,7585,NA
+BOF2011001.006.B,Osmerus mordax,smelt,100,3648,NA
+BOF2011001.007.B,Pandalus borealis,northern shrimp,3104,41750,NA
+BOF2011001.008.B,Peprilus triacanthus,butterfish,6,211,NA
+BOF2011001.009.B,Placopecten magellanicus,deep sea scallop,4,15,NA
+BOF2011001.01.B,Pseudopleuronectes americanus,winter flounder,156,14131,NA
+BOF2011001.011.B,Scophthalmus aquosus,windowpane flounder,2,322,NA
+BOF2011001.012.B,Urophycis tenuis,white hake,8,372,NA
+BOF2011001.013.C,Alosa pseudoharengus,alewife,2,136,NA
+BOF2011001.014.C,Asterias vulgaris,northern sea star,13,684,NA
+BOF2011001.015.C,Aurelia aurita,moon jelly,1,89,NA
+BOF2011001.016.C,Clinocardium ciliatum,Iceland cockle,1,10,NA
+BOF2011001.017.C,Clupea harengus,herring,408,14770,NA
+BOF2011001.018.C,Ctenodiscus crispatus,mud star,6,45,NA
+BOF2011001.019.C,Cuaudina arenata,rat-tailed sea cucumber,1,25,NA
+BOF2011001.02.C,Cucumaria frondosa,orange-footed sea cucumber,1,280,NA
+BOF2011001.021.C,Phaeophyta,Phaeophyta,1,27,NA
+BOF2011001.022.C,Henricia sanguinolenta,blood star,1,11,NA
+BOF2011001.001.C,Homarus americanus,American lobster,41,20362,NA
+BOF2011001.002.C,Isodictya palmata,palmate sponge,7,501,NA
+BOF2011001.003.C,Leucoraja erinacea,little skate,4,1850,NA
+BOF2011001.004.C,Melanogrammus aeglefinus,haddock,10,75,NA
+BOF2011001.005.C,Mercenaria mercenaria,quahog,1,20,NA
+BOF2011001.006.C,Merluccius bilinearis,silver hake,24,1269,NA
+BOF2011001.007.C,Metridium senile,frilled anemone,8,198,NA
+BOF2011001.001.C,Myoxocephalus octodecemspinosus,longhorn sculpin,5,662,NA
+BOF2011001.002.C,Osmerus mordax,smelt,16,591,NA
+BOF2011001.003.C,Pandalus borealis,northern shrimp,2,33,NA
+BOF2011001.004.C,Pandalus montagui,Montague shrimp,38,122,NA
+BOF2011001.005.C,Peprilus triacanthus,butterfish,2,17,NA
+BOF2011001.006.C,Placopecten magellanicus,deep sea scallop,6,162,NA
+BOF2011001.007.C,Pseudopleuronectes americanus,winter flounder,165,6112,NA
+BOF2011001.008.C,Scophthalmus aquosus,windowpane flounder,2,144,NA
+BOF2011001.009.C,Urophycis tenuis,white hake,1,159,NA
+BOF2011001.001.A,Alosa pseudoharengus,alewife,1,59,NA
+BOF2011001.002.A,Aurelia aurita,moon jelly,6,519,NA
+BOF2011001.003.A,Bathypolypus arcticus,deep sea octopus,1,98,NA
+BOF2011001.004.A,Boltenia ovifera,stalked sea squirt,10,109,NA
+BOF2011001.005.A,Clinocardium ciliatum,Iceland cockle,2,14,NA
+BOF2011001.006.A,Clupea harengus,herring,17,581,NA
+BOF2011001.007.A,Cucumaria frondosa,orange-footed sea cucumber,29,10775,NA
+BOF2011001.008.A,Phaeophyta,Phaeophyta,1,28,NA
+BOF2011001.009.A,Halocynthia pyriformis,sea peach,2,8,NA
+BOF2011001.01.A,Homarus americanus,American lobster,21,14398,NA
+BOF2011001.011.A,Isodictya palmata,palmate sponge,1,815,NA
+BOF2011001.012.A,Lebbeus groenlandicus,Greenland shrimp,1,1,NA
+BOF2011001.001.A,Leucoraja erinacea,little skate,4,32,NA
+BOF2011001.002.A,Melanogrammus aeglefinus,haddock,6,57,NA
+BOF2011001.003.A,Mercenaria mercenaria,quahog,8,128,NA
+BOF2011001.004.A,Merluccius bilinearis,silver hake,7,301,NA
+BOF2011001.005.A,Metridium senile,frilled anemone,9,117,NA
+BOF2011001.006.A,Microgadus tomcod,Atlantic tomcod,1,12,NA
+BOF2011001.007.A,Myoxocephalus octodecemspinosus,longhorn sculpin,28,3336,NA
+BOF2011001.008.A,Ophiopholis aculeata,daisy brittle star,2,6,NA
+BOF2011001.009.A,Osmerus mordax,smelt,23,818,NA
+BOF2011001.01.A,Ostreidae sp.,Ostreidae sp.,1,8,NA
+BOF2011001.011.A,Pandalus montagui,Montague shrimp,40,124,NA
+BOF2011001.012.A,Peprilus triacanthus,butterfish,6,83,NA
+BOF2011001.013.A,Placopecten magellanicus,deep sea scallop,29,451,NA
+BOF2011001.014.A,Pseudopleuronectes americanus,winter flounder,122,5536,NA
+BOF2011001.015.A,Scomber scombrus,mackerel,7,915,NA
+BOF2011001.016.A,Strongylocentrotus droebachiensis,green sea urchin,3,136,NA
+BOF2011001.017.A,Styela clava,club tunicate,2,23,NA
+BOF2011001.018.A,Triglops murrayi,moustache sculpin,6,74,NA
+BOF2011001.019.A,Urophycis tenuis,white hake,1,12,NA
+BOF2011001.001.A,Alosa pseudoharengus,alewife,1,29,NA
+BOF2011001.002.A,Aurelia aurita,moon jelly,3,248,NA
+BOF2011001.003.A,Boltenia ovifera,stalked sea squirt,5,20,NA
+BOF2011001.004.A,Clupea harengus,herring,5,210,NA
+BOF2011001.005.A,Cucumaria frondosa,orange-footed sea cucumber,2,820,NA
+BOF2011001.006.A,Homarus americanus,American lobster,1,200,NA
+BOF2011001.007.A,Metridium senile,frilled anemone,1,13,NA
+BOF2011001.008.A,Pandalus montagui,Montague shrimp,8,21,NA
+BOF2011001.009.A,Placopecten magellanicus,deep sea scallop,16,312,NA
+BOF2011001.01.A,Pseudopleuronectes americanus,winter flounder,6,155,NA
+BOF2011001.011.A,Scomber scombrus,mackerel,2,281,NA
+BOF2011001.012.B,Alosa pseudoharengus,alewife,171,11751,NA
+BOF2011001.013.B,Alosa sapidissima,shad,3,350,NA
+BOF2011001.014.B,Asterias vulgaris,northern sea star,5,50,NA
+BOF2011001.015.B,Cancer irroratus,rock crab,3,150,NA
+BOF2011001.016.B,Clinocardium ciliatum,Iceland cockle,1,102,NA
+BOF2011001.017.B,Clupea harengus,herring,5,258,NA
+BOF2011001.018.B,Gadus morhua,Atlantic cod,1,172,NA
+BOF2011001.019.B,Hemitripterus americanus,sea raven,2,741,NA
+BOF2011001.02.B,Hippoglossoides platessoides,American plaice,1,28,NA
+BOF2011001.001.B,Hippoglossus hippoglossus,Atlantic halibut,1,3110,NA
+BOF2011001.002.B,Homarus americanus,American lobster,177,129880,NA
+BOF2011001.003.B,Doryteuthis pealeii,longfin inshore squid,5,328,NA
+BOF2011001.004.B,Isodictya palmata,palmate sponge,1,158,NA
+BOF2011001.005.B,Leucoraja erinacea,little skate,1,306,NA
+BOF2011001.006.B,Merluccius bilinearis,silver hake,41,3871,NA
+BOF2011001.007.B,Microgadus tomcod,Atlantic tomcod,1,14,NA
+BOF2011001.008.B,Myoxocephalus octodecemspinosus,longhorn sculpin,43,6172,NA
+BOF2011001.009.B,Osmerus mordax,smelt,225,7794,NA
+BOF2011001.01.B,Pandalus borealis,northern shrimp,854,11490,NA
+BOF2011001.011.B,Peprilus triacanthus,butterfish,23,910,NA
+BOF2011001.012.B,Placopecten magellanicus,deep sea scallop,4,14,NA
+BOF2011001.013.B,Pollachius virens,pollock,1,23,NA
+BOF2011001.014.B,Pseudopleuronectes americanus,winter flounder,253,20068,NA
+BOF2011001.015.B,Scomber scombrus,mackerel,2,392,NA
+BOF2011001.016.B,Scophthalmus aquosus,windowpane flounder,6,896,NA
+BOF2011001.017.B,Strongylocentrotus droebachiensis,green sea urchin,5,75,NA
+BOF2011001.018.B,Urophycis tenuis,white hake,37,1411,NA
+BOF2011001.019.D,Alosa pseudoharengus,alewife,103,10819,NA
+BOF2011001.02.D,Alosa sapidissima,shad,5,638,NA
+BOF2011001.021.D,Clupea harengus,herring,34,1967,NA
+BOF2011001.022.D,Ctenodiscus crispatus,mud star,39,214,NA
+BOF2011001.001.D,Enchelyopus cimbrius,fourbeard rockling,1,52,NA
+BOF2011001.002.D,Glyptocephalus cynoglossus,witch flounder,24,772,NA
+BOF2011001.003.D,Hippoglossoides platessoides,American plaice,24,2573,NA
+BOF2011001.004.D,Homarus americanus,American lobster,10,8594,NA
+BOF2011001.005.D,Doryteuthis pealeii,longfin inshore squid,3,150,NA
+BOF2011001.006.D,Isodictya palmata,palmate sponge,1,45,NA
+BOF2011001.007.D,Merluccius bilinearis,silver hake,2,155,NA
+BOF2011001.008.D,Myoxocephalus octodecemspinosus,longhorn sculpin,5,1300,NA
+BOF2011001.009.D,Osmerus mordax,smelt,26,366,NA
+BOF2011001.01.D,Pandalus borealis,northern shrimp,145,1945,NA
+BOF2011001.011.D,Pandalus montagui,Montague shrimp,928,2980,NA
+BOF2011001.012.D,Peprilus triacanthus,butterfish,3,182,NA
+BOF2011001.013.D,Placopecten magellanicus,deep sea scallop,13,109,NA
+BOF2011001.014.D,Pseudopleuronectes americanus,winter flounder,50,10796,NA
+BOF2011001.015.D,Rajella bathyphilus,deepwater ray,1,6,NA
+BOF2011001.016.D,Reinhardtius hippoglossoides,Greenland halibut,1,639,NA
+BOF2011001.017.D,Urophycis tenuis,white hake,14,3382,NA
+BOF2011001.018.B,Asterias forbesi,Forbes sea star,17,76,NA
+BOF2011001.019.B,Asterias vulgaris,northern sea star,1,170,NA
+BOF2011001.02.B,Clupea harengus,herring,807,8829,NA
+BOF2011001.021.B,Ctenodiscus crispatus,mud star,1,22,NA
+BOF2011001.022.B,Gadus morhua,Atlantic cod,2,16,NA
+BOF2011001.023.B,Hemitripterus americanus,sea raven,1,316,NA
+BOF2011001.024.B,Hippoglossoides platessoides,American plaice,3,302,NA
+BOF2011001.025.B,Homarus americanus,American lobster,77,42938,NA
+BOF2011001.026.B,Isodictya palmata,palmate sponge,9,760,NA
+BOF2011001.001.B,Lebbeus groenlandicus,Greenland shrimp,2,3,NA
+BOF2011001.002.B,Lepiodonotus squamatus,scale worm,1,1,NA
+BOF2011001.003.B,Melanogrammus aeglefinus,haddock,33,422,NA
+BOF2011001.004.B,Merluccius bilinearis,silver hake,1,84,NA
+BOF2011001.005.B,Osmerus mordax,smelt,222,3623,NA
+BOF2011001.006.B,Peprilus triacanthus,butterfish,3,20,NA
+BOF2011001.007.B,Placopecten magellanicus,deep sea scallop,1343,6272,NA
+BOF2011001.008.B,Pseudopleuronectes americanus,winter flounder,134,7223,NA
+BOF2011001.009.B,Urophycis tenuis,white hake,6,110,NA
+BOF2011001.01.B,Urticina felina,northern red anemone,1,12,NA
+BOF2011001.011.C,Alosa pseudoharengus,alewife,24,697,NA
+BOF2011001.012.C,Ascidiacea sp.,Ascidiacea sp.,4,48,NA
+BOF2011001.013.C,Astarte castanea,chestnut astarte,47,470,NA
+BOF2011001.014.C,Asterias forbesi,Forbes sea star,1,10,NA
+BOF2011001.015.C,Asterias vulgaris,northern sea star,6,346,NA
+BOF2011001.016.C,Clinocardium ciliatum,Iceland cockle,3,27,NA
+BOF2011001.017.C,Clupea harengus,herring,928,12361,NA
+BOF2011001.018.C,Cryptacanthodes maculatus,wrymouth,1,54,NA
+BOF2011001.019.C,Homarus americanus,American lobster,57,36049,NA
+BOF2011001.02.C,Doryteuthis pealeii,longfin inshore squid,1,71,NA
+BOF2011001.021.C,Isodictya palmata,palmate sponge,2,97,NA
+BOF2011001.022.C,Leucoraja erinacea,little skate,1,415,NA
+BOF2011001.001.C,Leucoraja ocellata,winter skate,2,1190,NA
+BOF2011001.002.C,Melanogrammus aeglefinus,haddock,2,18,NA
+BOF2011001.003.C,Merluccius bilinearis,silver hake,10,868,NA
+BOF2011001.004.C,Myoxocephalus octodecemspinosus,longhorn sculpin,6,1004,NA
+BOF2011001.005.C,Osmerus mordax,smelt,24,557,NA
+BOF2011001.006.C,Peprilus triacanthus,butterfish,10,630,NA
+BOF2011001.007.C,Placopecten magellanicus,deep sea scallop,41,1401,NA
+BOF2011001.001.C,Pseudopleuronectes americanus,winter flounder,148,4946,NA
+BOF2011001.002.C,Scomber scombrus,mackerel,2,314,NA
+BOF2011001.003.C,Scophthalmus aquosus,windowpane flounder,6,532,NA
+BOF2011001.004.C,Urophycis tenuis,white hake,12,708,NA
+BOF2011001.005.B,Agarum cribrosum,sea colander,1,10,NA
+BOF2011001.006.B,Alosa pseudoharengus,alewife,378,20556,NA
+BOF2011001.007.B,Ctenodiscus crispatus,mud star,18,108,NA
+BOF2011001.008.B,Cucumaria frondosa,orange-footed sea cucumber,570,195700,NA
+BOF2011001.009.B,Hemitripterus americanus,sea raven,14,9187,NA
+BOF2011001.001.B,Hippoglossoides platessoides,American plaice,3,84,NA
+BOF2011001.002.B,Homarus americanus,American lobster,366,298963,NA
+BOF2011001.003.B,Doryteuthis pealeii,longfin inshore squid,2,216,NA
+BOF2011001.004.B,Isodictya palmata,palmate sponge,1,50,NA
+BOF2011001.005.B,Phaeophyta,Phaeophyta,1,30,NA
+BOF2011001.006.B,Leucoraja erinacea,little skate,15,1473,NA
+BOF2011001.007.B,Melanogrammus aeglefinus,haddock,8,293,NA
+BOF2011001.008.B,Merluccius bilinearis,silver hake,56,6060,NA
+BOF2011001.009.B,Myoxocephalus octodecemspinosus,longhorn sculpin,243,28917,NA
+BOF2011001.01.B,Osmerus mordax,smelt,229,7264,NA
+BOF2011001.011.B,Pandalus borealis,northern shrimp,187,2495,NA
+BOF2011001.012.B,Pandalus montagui,Montague shrimp,279,1425,NA
+BOF2011001.001.B,Peprilus triacanthus,butterfish,32,1323,NA
+BOF2011001.002.B,Placopecten magellanicus,deep sea scallop,808,4557,NA
+BOF2011001.003.B,Pseudopleuronectes americanus,winter flounder,412,14956,NA
+BOF2011001.004.B,Scophthalmus aquosus,windowpane flounder,22,2202,NA
+BOF2011001.005.B,Sebastes mentella,red fish,1,137,NA
+BOF2011001.006.B,Strongylocentrotus droebachiensis,green sea urchin,36,360,NA
+BOF2011001.007.B,Triglops murrayi,moustache sculpin,1,15,NA
+BOF2011001.008.B,Urophycis tenuis,white hake,310,15748,NA
+BOF2011001.009.B,Zoarces americanus,ocean pout,8,620,NA
+BOF2012001.01.D,Hippoglossus hippoglossus,Atlantic halibut,1,3650,NA
+BOF2012001.011.D,Homarus americanus,American lobster,10,5725,NA
+BOF2012001.012.D,Hyas coarctatus,Atlantic lyre crab,1,20,NA
+BOF2012001.013.D,Doryteuthis pealeii,longfin inshore squid,1,24,NA
+BOF2012001.014.D,Lophius americanus,monkfish,1,906,NA
+BOF2012001.015.D,Merluccius bilinearis,silver hake,2506,152164,NA
+BOF2012001.016.D,Myoxocephalus octodecemspinosus,longhorn sculpin,5,956,NA
+BOF2012001.017.D,Ophiopholis aculeata,daisy brittle star,7,20,NA
+BOF2012001.018.D,Pandalus borealis,northern shrimp,167,1460,NA
+BOF2012001.019.D,Pandalus montagui,Montague shrimp,332,1330,NA
+BOF2012001.001.D,Placopecten magellanicus,deep sea scallop,23,173,NA
+BOF2012001.002.D,Pseudopleuronectes americanus,winter flounder,65,13514,NA
+BOF2012001.003.D,Urophycis tenuis,white hake,21,3203,NA
+BOF2012001.004.C,Alosa pseudoharengus,alewife,199,29349,NA
+BOF2012001.005.C,Asterias vulgaris,northern sea star,3,107,NA
+BOF2012001.006.C,Aurelia aurita,moon jelly,24,535,NA
+BOF2012001.007.C,Boltenia ovifera,stalked sea squirt,9,147,NA
+BOF2012001.008.C,Cancer irroratus,rock crab,2,100,NA
+BOF2012001.009.C,Clupea harengus,herring,181,6371,NA
+BOF2012001.01.C,Ctenodiscus crispatus,mud star,53,306,NA
+BOF2012001.011.C,Cucumaria frondosa,orange-footed sea cucumber,4,1772,NA
+BOF2012001.012.C,Glyptocephalus cynoglossus,witch flounder,1,4,NA
+BOF2012001.013.C,Hippoglossoides platessoides,American plaice,6,564,NA
+BOF2012001.014.C,Homarus americanus,American lobster,17,19496,NA
+BOF2012001.015.C,Doryteuthis pealeii,longfin inshore squid,13,715,NA
+BOF2012001.016.C,Isodictya palmata,palmate sponge,1,31,NA
+BOF2012001.017.C,Leucoraja erinacea,little skate,1,492,NA
+BOF2012001.018.C,Lophius americanus,monkfish,1,16,NA
+BOF2012001.019.C,Merluccius bilinearis,silver hake,698,38111,NA
+BOF2012001.02.C,Microgadus tomcod,Atlantic tomcod,1,172,NA
+BOF2012001.001.C,Myoxocephalus octodecemspinosus,longhorn sculpin,2,458,NA
+BOF2012001.002.C,Mytilus edulis,blue mussel,1,10,NA
+BOF2012001.003.C,Ophiopholis aculeata,daisy brittle star,67,201,NA
+BOF2012001.004.C,Osmerus mordax,smelt,21,1176,NA
+BOF2012001.005.C,Pandalus borealis,northern shrimp,3,36,NA
+BOF2012001.006.C,Pandalus montagui,Montague shrimp,33,158,NA
+BOF2012001.007.C,Peprilus triacanthus,butterfish,2,72,NA
+BOF2012001.008.C,Placopecten magellanicus,deep sea scallop,20,281,NA
+BOF2012001.009.C,Pseudopleuronectes americanus,winter flounder,248,16755,NA
+BOF2012001.01.C,Strongylocentrotus droebachiensis,green sea urchin,7,280,NA
+BOF2012001.011.C,Urophycis tenuis,white hake,1,234,NA
+BOF2012001.012.B,Alosa pseudoharengus,alewife,17,1937,NA
+BOF2012001.013.B,Aurelia aurita,moon jelly,1330,29550,NA
+BOF2012001.014.B,Boltenia ovifera,stalked sea squirt,1,31,NA
+BOF2012001.015.B,Clupea harengus,herring,3,46,NA
+BOF2012001.016.B,Cucumaria frondosa,orange-footed sea cucumber,285,26780,NA
+BOF2012001.017.B,Hippoglossoides platessoides,American plaice,1,30,NA
+BOF2012001.018.B,Homarus americanus,American lobster,157,65300,NA
+BOF2012001.019.B,Doryteuthis pealeii,longfin inshore squid,80,3016,NA
+BOF2012001.02.B,Isodictya palmata,palmate sponge,2,399,NA
+BOF2012001.021.B,Merluccius bilinearis,silver hake,98,5184,NA
+BOF2012001.022.B,Metridium senile,frilled anemone,5,180,NA
+BOF2012001.001.B,Myoxocephalus octodecemspinosus,longhorn sculpin,9,1734,NA
+BOF2012001.002.B,Osmerus mordax,smelt,122,2955,NA
+BOF2012001.003.B,Pandalus borealis,northern shrimp,1328,11060,NA
+BOF2012001.004.B,Pandalus montagui,Montague shrimp,261,1325,NA
+BOF2012001.005.B,Peprilus triacanthus,butterfish,2,63,NA
+BOF2012001.006.B,Pseudopleuronectes americanus,winter flounder,44,2388,NA
+BOF2012001.007.B,Urticina felina,northern red anemone,6,372,NA
+BOF2012001.008.A,Alosa pseudoharengus,alewife,18,1334,NA
+BOF2012001.009.A,Asterias vulgaris,northern sea star,16,570,NA
+BOF2012001.01.A,Boltenia ovifera,stalked sea squirt,1,8,NA
+BOF2012001.011.A,Buccinum undatum,waved whelk,4,80,NA
+BOF2012001.012.A,Campanularia sp.,wine glass hydroid,1,3,NA
+BOF2012001.013.A,Ciona intestinalis,sea vase,1,6,NA
+BOF2012001.014.A,Clinocardium ciliatum,Iceland cockle,6,55,NA
+BOF2012001.015.A,Crangon septemspinosa,sand shrimp,36,144,NA
+BOF2012001.016.A,Cucumaria frondosa,orange-footed sea cucumber,12,1128,NA
+BOF2012001.017.A,Didemnum sp.,northern white crust,1,5,NA
+BOF2012001.018.A,Halichondria sp.,Halichondria sp.,1,41,NA
+BOF2012001.019.A,Halocynthia pyriformis,sea peach,1,4,NA
+BOF2012001.02.A,Henricia sanguinolenta,blood star,5,25,NA
+BOF2012001.021.A,Homarus americanus,American lobster,10,5216,NA
+BOF2012001.022.A,Hyas coarctatus,Atlantic lyre crab,1,5,NA
+BOF2012001.023.A,Doryteuthis pealeii,longfin inshore squid,355,30835,NA
+BOF2012001.024.A,Myoxocephalus octodecemspinosus,longhorn sculpin,7,119,NA
+BOF2012001.025.A,Pagurus acadianus,Acadian hermit crab,1,15,NA
+BOF2012001.026.A,Peprilus triacanthus,butterfish,5,318,NA
+BOF2012001.001.A,Placopecten magellanicus,deep sea scallop,88,2235,NA
+BOF2012001.002.A,Pseudopleuronectes americanus,winter flounder,6,330,NA
+BOF2012001.003.A,Scomber scombrus,mackerel,9,1183,NA
+BOF2012001.004.A,Strongylocentrotus droebachiensis,green sea urchin,418,2110,NA
+BOF2012001.005.A,Tubularia sp.,tubularia hydroid,1,2,NA
+BOF2012001.006.A,Urophycis tenuis,white hake,27,2115,NA
+BOF2012001.007.A,Urticina felina,northern red anemone,1,25,NA
+BOF2012001.008.A,Zoarces americanus,ocean pout,1,408,NA
+BOF2012001.009.A,Alosa pseudoharengus,alewife,11,649,NA
+BOF2012001.01.A,Asterias vulgaris,northern sea star,2,285,NA
+BOF2012001.011.A,Boltenia ovifera,stalked sea squirt,6,127,NA
+BOF2012001.012.A,Carcinus maenas,green crab,1,10,NA
+BOF2012001.013.A,Ciona intestinalis,sea vase,21,147,NA
+BOF2012001.014.A,Cucumaria frondosa,orange-footed sea cucumber,18,5800,NA
+BOF2012001.015.A,Didemnum sp.,northern white crust,1,5,NA
+BOF2012001.016.A,Halocynthia pyriformis,sea peach,4,16,NA
+BOF2012001.017.A,Henricia sanguinolenta,blood star,1,10,NA
+BOF2012001.018.A,Homarus americanus,American lobster,51,30722,NA
+BOF2012001.019.A,Hyas coarctatus,Atlantic lyre crab,1,15,NA
+BOF2012001.02.A,Doryteuthis pealeii,longfin inshore squid,422,28899,NA
+BOF2012001.021.A,Isodictya palmata,palmate sponge,2,132,NA
+BOF2012001.022.A,Lebbeus groenlandicus,Greenland shrimp,19,31,NA
+BOF2012001.001.A,Lepiodonotus squamatus,scale worm,2,2,NA
+BOF2012001.002.A,Leucoraja erinacea,little skate,6,119,NA
+BOF2012001.003.A,Merluccius bilinearis,silver hake,20,1106,NA
+BOF2012001.004.A,Metridium senile,frilled anemone,4,68,NA
+BOF2012001.005.A,Molgula sp.,sea grape,6,18,NA
+BOF2012001.006.A,Myoxocephalus octodecemspinosus,longhorn sculpin,2,12,NA
+BOF2012001.007.A,Mytilus edulis,blue mussel,1,5,NA
+BOF2012001.001.A,Peprilus triacanthus,butterfish,31,775,NA
+BOF2012001.002.A,Placopecten magellanicus,deep sea scallop,17,239,NA
+BOF2012001.003.A,Pseudopleuronectes americanus,winter flounder,54,2154,NA
+BOF2012001.004.A,Scomber scombrus,mackerel,8,895,NA
+BOF2012001.005.A,Scophthalmus aquosus,windowpane flounder,1,46,NA
+BOF2012001.006.A,Spisula solidissima,surf clam,2,20,NA
+BOF2012001.007.A,Strongylocentrotus droebachiensis,green sea urchin,6,102,NA
+BOF2012001.008.B,Alosa pseudoharengus,alewife,6,672,NA
+BOF2012001.009.B,Asterias vulgaris,northern sea star,2,57,NA
+BOF2012001.001.B,Ciona intestinalis,sea vase,1,8,NA
+BOF2012001.002.B,Homarus americanus,American lobster,182,74798,NA
+BOF2012001.003.B,Doryteuthis pealeii,longfin inshore squid,474,36005,NA
+BOF2012001.004.B,Isodictya palmata,palmate sponge,12,1875,NA
+BOF2012001.005.B,Leucoraja erinacea,little skate,1,193,NA
+BOF2012001.006.B,Merluccius bilinearis,silver hake,5,353,NA
+BOF2012001.007.B,Peprilus triacanthus,butterfish,50,1395,NA
+BOF2012001.008.B,Placopecten magellanicus,deep sea scallop,30,1157,NA
+BOF2012001.009.B,Pseudopleuronectes americanus,winter flounder,29,1412,NA
+BOF2012001.01.B,Scomber scombrus,mackerel,1,113,NA
+BOF2012001.011.B,Strongylocentrotus droebachiensis,green sea urchin,1,15,NA
+BOF2012001.012.B,Tautogolabrus adspersus,cunner,1,421,NA
+BOF2012001.001.B,Alosa pseudoharengus,alewife,4,691,NA
+BOF2012001.002.B,Alosa sapidissima,shad,1,77,NA
+BOF2012001.003.B,Asterias vulgaris,northern sea star,2,41,NA
+BOF2012001.004.B,Cucumaria frondosa,orange-footed sea cucumber,57,13045,NA
+BOF2012001.005.B,Hemitripterus americanus,sea raven,1,768,NA
+BOF2012001.006.B,Hippoglossoides platessoides,American plaice,1,31,NA
+BOF2012001.007.B,Homarus americanus,American lobster,241,257988,NA
+BOF2012001.008.B,Doryteuthis pealeii,longfin inshore squid,146,7967,NA
+BOF2012001.009.B,Isodictya palmata,palmate sponge,1,150,NA
+BOF2012001.01.B,Leucoraja erinacea,little skate,6,1444,NA
+BOF2012001.011.B,Merluccius bilinearis,silver hake,245,16444,NA
+BOF2012001.012.B,Myoxocephalus octodecemspinosus,longhorn sculpin,61,8619,NA
+BOF2012001.013.B,Pandalus borealis,northern shrimp,2,34,NA
+BOF2012001.014.B,Pandalus montagui,Montague shrimp,39,190,NA
+BOF2012001.015.B,Peprilus triacanthus,butterfish,72,4080,NA
+BOF2012001.016.B,Placopecten magellanicus,deep sea scallop,2,49,NA
+BOF2012001.017.B,Pseudopleuronectes americanus,winter flounder,117,9580,NA
+BOF2012001.018.B,Scomber scombrus,mackerel,1,118,NA
+BOF2012001.019.B,Scophthalmus aquosus,windowpane flounder,15,1425,NA
+BOF2012001.001.B,Spisula solidissima,surf clam,1,20,NA
+BOF2012001.002.B,Squalus acanthias,spiny dogfish,2,4294,NA
+BOF2012001.003.B,Urophycis tenuis,white hake,9,1892,NA
+BOF2012001.004.B,Zoarces americanus,ocean pout,1,78,NA
+BOF2012001.005.D,Alosa pseudoharengus,alewife,6,510,NA
+BOF2012001.006.D,Clupea harengus,herring,24,1674,NA
+BOF2012001.007.D,Homarus americanus,American lobster,19,9630,NA
+BOF2012001.008.D,Doryteuthis pealeii,longfin inshore squid,3,214,NA
+BOF2012001.009.D,Merluccius bilinearis,silver hake,6711,546091,NA
+BOF2012001.01.D,Myoxocephalus octodecemspinosus,longhorn sculpin,4,794,NA
+BOF2012001.011.D,Pandalus borealis,northern shrimp,2,20,NA
+BOF2012001.012.D,Pandalus montagui,Montague shrimp,33,164,NA
+BOF2012001.013.D,Peprilus triacanthus,butterfish,20,1672,NA
+BOF2012001.014.D,Placopecten magellanicus,deep sea scallop,3,15,NA
+BOF2012001.015.D,Pseudopleuronectes americanus,winter flounder,49,3868,NA
+BOF2012001.016.D,Scomber scombrus,mackerel,2,292,NA
+BOF2012001.017.D,Urophycis tenuis,white hake,1,20,NA
+BOF2012001.018.D,Alosa pseudoharengus,alewife,74,3719,NA
+BOF2012001.019.D,Alosa sapidissima,shad,2,178,NA
+BOF2012001.02.D,Clupea harengus,herring,22,1460,NA
+BOF2012001.001.D,Crossaster papposus,spiny sun star,1,26,NA
+BOF2012001.002.D,Glyptocephalus cynoglossus,witch flounder,1,66,NA
+BOF2012001.003.D,Hippoglossoides platessoides,American plaice,12,886,NA
+BOF2012001.004.D,Homarus americanus,American lobster,4,5616,NA
+BOF2012001.005.D,Doryteuthis pealeii,longfin inshore squid,3,234,NA
+BOF2012001.006.D,Merluccius bilinearis,silver hake,252,22710,NA
+BOF2012001.007.D,Pandalus borealis,northern shrimp,111,951,NA
+BOF2012001.008.D,Pandalus montagui,Montague shrimp,17,70,NA
+BOF2012001.009.D,Placopecten magellanicus,deep sea scallop,18,192,NA
+BOF2012001.01.D,Pseudopleuronectes americanus,winter flounder,16,4078,NA
+BOF2012001.011.D,Scomber scombrus,mackerel,1,172,NA
+BOF2012001.012.D,Urophycis tenuis,white hake,2,166,NA
+BOF2012001.013.D,Alosa pseudoharengus,alewife,21,1187,NA
+BOF2012001.014.D,Alosa sapidissima,shad,5,532,NA
+BOF2012001.015.D,Clupea harengus,herring,80,1691,NA
+BOF2012001.016.D,Ctenodiscus crispatus,mud star,13,75,NA
+BOF2012001.017.D,Cuaudina arenata,rat-tailed sea cucumber,1,75,NA
+BOF2012001.018.D,Glyptocephalus cynoglossus,witch flounder,7,180,NA
+BOF2012001.019.D,Hippoglossoides platessoides,American plaice,22,2342,NA
+BOF2012001.02.D,Hippoglossoides platessoides,American plaice,2,42,NA
+BOF2012001.021.D,Homarus americanus,American lobster,6,8696,NA
+BOF2012001.022.D,Doryteuthis pealeii,longfin inshore squid,1,32,NA
+BOF2012001.001.D,Melanogrammus aeglefinus,haddock,2,32,NA
+BOF2012001.002.D,Merluccius bilinearis,silver hake,438,42168,NA
+BOF2012001.003.D,Pandalus borealis,northern shrimp,375,3215,NA
+BOF2012001.004.D,Pandalus montagui,Montague shrimp,69,285,NA
+BOF2012001.005.D,Placopecten magellanicus,deep sea scallop,15,147,NA
+BOF2012001.006.D,Pseudopleuronectes americanus,winter flounder,43,12502,NA
+BOF2012001.007.D,Urophycis tenuis,white hake,3,754,NA
+BOF2012001.008.B,Alosa pseudoharengus,alewife,11,918,NA
+BOF2012001.009.B,Alosa sapidissima,shad,5,547,NA
+BOF2012001.01.B,Clupea harengus,herring,1,32,NA
+BOF2012001.011.B,Ctenodiscus crispatus,mud star,8,44,NA
+BOF2012001.012.B,Cucumaria frondosa,orange-footed sea cucumber,103,22403,NA
+BOF2012001.013.B,Homarus americanus,American lobster,293,290366,NA
+BOF2012001.014.B,Doryteuthis pealeii,longfin inshore squid,50,3141,NA
+BOF2012001.015.B,Leucoraja erinacea,little skate,1,730,NA
+BOF2012001.016.B,Merluccius bilinearis,silver hake,188,16644,NA
+BOF2012001.017.B,Myoxocephalus octodecemspinosus,longhorn sculpin,16,2736,NA
+BOF2012001.018.B,Osmerus mordax,smelt,1,55,NA
+BOF2012001.019.B,Pandalus montagui,Montague shrimp,156,658,NA
+BOF2012001.02.B,Peprilus triacanthus,butterfish,204,9515,NA
+BOF2012001.021.B,Placopecten magellanicus,deep sea scallop,7,57,NA
+BOF2012001.022.B,Pseudopleuronectes americanus,winter flounder,49,3653,NA
+BOF2012001.023.B,Scomber scombrus,mackerel,9,1297,NA
+BOF2012001.024.B,Scophthalmus aquosus,windowpane flounder,2,159,NA
+BOF2012001.025.B,Strongylocentrotus droebachiensis,green sea urchin,6,155,NA
+BOF2012001.026.B,Urophycis chuss,red hake,1,78,NA
+BOF2012001.001.C,Alosa pseudoharengus,alewife,5,586,NA
+BOF2012001.002.C,Asterias vulgaris,northern sea star,1,46,NA
+BOF2012001.003.C,Ctenodiscus crispatus,mud star,1,8,NA
+BOF2012001.004.C,Hippoglossus hippoglossus,Atlantic halibut,1,1320,NA
+BOF2012001.005.C,Homarus americanus,American lobster,40,42014,NA
+BOF2012001.006.C,Doryteuthis pealeii,longfin inshore squid,50,3666,NA
+BOF2012001.007.C,Merluccius bilinearis,silver hake,14,1242,NA
+BOF2012001.008.C,Myoxocephalus octodecemspinosus,longhorn sculpin,1,196,NA
+BOF2012001.009.C,Osmerus mordax,smelt,1,76,NA
+BOF2012001.01.C,Peprilus triacanthus,butterfish,33,1810,NA
+BOF2012001.011.C,Placopecten magellanicus,deep sea scallop,60,1525,NA
+BOF2012001.012.C,Pseudopleuronectes americanus,winter flounder,90,7207,NA
+BOF2012001.013.C,Scomber scombrus,mackerel,9,1136,NA
+BOF2012001.014.C,Scophthalmus aquosus,windowpane flounder,1,94,NA
+BOF2013001.015.A,Clinocardium ciliatum,Iceland cockle,1,9,NA
+BOF2013001.016.A,Crangon septemspinosa,sand shrimp,20,110,NA
+BOF2013001.017.A,Cucumaria frondosa,orange-footed sea cucumber,10,3348,NA
+BOF2013001.018.A,Cyclopterus lumpus,lumpfish,1,180,NA
+BOF2013001.019.A,Halichondria sp.,Halichondria sp.,1,56,NA
+BOF2013001.02.A,Homarus americanus,American lobster,60,13679,NA
+BOF2013001.021.A,Doryteuthis pealeii,longfin inshore squid,7,261,NA
+BOF2013001.022.A,Lepiodonotus squamatus,scale worm,1,1,NA
+BOF2013001.001.A,Leucoraja ocellata,winter skate,1,8.7,NA
+BOF2013001.002.A,Merluccius bilinearis,silver hake,15,505,NA
+BOF2013001.003.A,Metridium senile,frilled anemone,15,418,NA
+BOF2013001.004.A,Myoxocephalus octodecemspinosus,longhorn sculpin,2,201,NA
+BOF2013001.005.A,Pagurus acadianus,Acadian hermit crab,2,86,NA
+BOF2013001.006.A,Pandalus montagui,Montague shrimp,3,12,NA
+BOF2013001.007.A,Placopecten magellanicus,deep sea scallop,15,688,NA
+BOF2013001.001.A,Pseudopleuronectes americanus,winter flounder,25,899,NA
+BOF2013001.002.A,Scomber scombrus,mackerel,1,160,NA
+BOF2013001.003.A,Spisula solidissima,surf clam,1,7,NA
+BOF2013001.004.A,Strongylocentrotus droebachiensis,green sea urchin,38,558,NA
+BOF2013001.005.A,Urophycis chuss,red hake,1,40,NA
+BOF2013001.006.A,Urticina felina,northern red anemone,1,13,NA
+BOF2013001.007.A,Zoarces americanus,ocean pout,1,50,NA
+BOF2013001.008.D,Alosa pseudoharengus,alewife,21,1452,NA
+BOF2013001.009.D,Alosa sapidissima,shad,1,83,NA
+BOF2013001.001.D,Aphrodita aculeata,sea mouse,1,12,NA
+BOF2013001.002.D,Aurelia aurita,moon jelly,15,1158,NA
+BOF2013001.003.D,Bolinopsis infundibulum,comb jelly,14,40,NA
+BOF2013001.004.D,Clupea harengus,herring,96,5710.08,NA
+BOF2013001.005.D,Ctenodiscus crispatus,mud star,188,1420,NA
+BOF2013001.006.D,Enchelyopus cimbrius,fourbeard rockling,1,58,NA
+BOF2013001.007.D,Henricia sanguinolenta,blood star,1,1,NA
+BOF2013001.008.D,Hippoglossoides platessoides,American plaice,13,833,NA
+BOF2013001.009.D,Homarus americanus,American lobster,22,13418,NA
+BOF2013001.01.D,Leucoraja erinacea,little skate,1,518,NA
+BOF2013001.011.D,Merluccius bilinearis,silver hake,148,6541.019608,NA
+BOF2013001.012.D,Ophiopholis aculeata,daisy brittle star,7,6,NA
+BOF2013001.001.D,Pandalus borealis,northern shrimp,57,539,NA
+BOF2013001.002.D,Pandalus montagui,Montague shrimp,78,280,NA
+BOF2013001.003.D,Placopecten magellanicus,deep sea scallop,13,367,NA
+BOF2013001.004.D,Pseudopleuronectes americanus,winter flounder,41,8215,NA
+BOF2013001.005.D,Alosa pseudoharengus,alewife,3,461,NA
+BOF2013001.006.D,Aurelia aurita,moon jelly,2,121,NA
+BOF2013001.007.D,Bolinopsis infundibulum,comb jelly,4,8,NA
+BOF2013001.008.D,Chlamys islandica,Iceland scallop,5,13,NA
+BOF2013001.009.D,Ciona intestinalis,sea vase,1,7,NA
+BOF2013001.01.D,Clupea harengus,herring,9,220,NA
+BOF2013001.011.D,Ctenodiscus crispatus,mud star,66,378,NA
+BOF2013001.012.D,Halichondria sp.,Halichondria sp.,1,515,NA
+BOF2013001.013.D,Hippoglossoides platessoides,American plaice,3,55,NA
+BOF2013001.014.D,Homarus americanus,American lobster,5,2265,NA
+BOF2013001.015.D,Lebbeus groenlandicus,Greenland shrimp,1,4,NA
+BOF2013001.016.D,Melanogrammus aeglefinus,haddock,9,40,NA
+BOF2013001.017.D,Merluccius bilinearis,silver hake,46,3610,NA
+BOF2013001.018.D,Ophiopholis aculeata,daisy brittle star,491,444,NA
+BOF2013001.019.D,Pandalus montagui,Montague shrimp,43,230,NA
+BOF2013001.001.D,Placopecten magellanicus,deep sea scallop,5,55,NA
+BOF2013001.002.D,Pseudopleuronectes americanus,winter flounder,5,747,NA
+BOF2013001.003.D,Solamen glandula,fragile crenella,10,26.3,NA
+BOF2013001.004.D,Urophycis chuss,red hake,5,510,NA
+BOF2013001.005.D,Alosa pseudoharengus,alewife,1,50,NA
+BOF2013001.006.D,Clupea harengus,herring,9,302,NA
+BOF2013001.007.D,Ctenodiscus crispatus,mud star,57,309,NA
+BOF2013001.008.D,Cyclopterus lumpus,lumpfish,1,460,NA
+BOF2013001.009.D,Gadus morhua,Atlantic cod,2,13.7,NA
+BOF2013001.01.D,Glyptocephalus cynoglossus,witch flounder,4,322,NA
+BOF2013001.011.D,Hippoglossoides platessoides,American plaice,14,1241,NA
+BOF2013001.012.D,Homarus americanus,American lobster,6,5706,NA
+BOF2013001.013.D,Melanogrammus aeglefinus,haddock,1,8,NA
+BOF2013001.014.D,Merluccius bilinearis,silver hake,580,27247,NA
+BOF2013001.015.D,Microgadus tomcod,Atlantic tomcod,3,22,NA
+BOF2013001.016.D,Myoxocephalus octodecemspinosus,longhorn sculpin,1,210,NA
+BOF2013001.017.D,Pandalus borealis,northern shrimp,265,2318,NA
+BOF2013001.018.D,Pandalus montagui,Montague shrimp,309,1358,NA
+BOF2013001.019.D,Placopecten magellanicus,deep sea scallop,3,8,NA
+BOF2013001.02.D,Pseudopleuronectes americanus,winter flounder,76,16570.98039,NA
+BOF2013001.001.D,Urophycis chuss,red hake,4,754,NA
+BOF2013001.002.D,Alosa pseudoharengus,alewife,2,166,NA
+BOF2013001.003.D,Aspidophoroides monopterygius,Atlantic alligatorfish,21,59.3,NA
+BOF2013001.004.D,Bolinopsis infundibulum,comb jelly,13,15,NA
+BOF2013001.005.D,Clupea harengus,herring,5,303,NA
+BOF2013001.006.D,Crangon septemspinosa,sand shrimp,1,2,NA
+BOF2013001.007.D,Ctenodiscus crispatus,mud star,19,122,NA
+BOF2013001.008.D,Hemitripterus americanus,sea raven,2,1019,NA
+BOF2013001.009.D,Hippoglossoides platessoides,American plaice,1,58,NA
+BOF2013001.01.D,Homarus americanus,American lobster,8,6778,NA
+BOF2013001.011.D,Lebbeus groenlandicus,Greenland shrimp,2,5,NA
+BOF2013001.012.D,Lithodes maja,northern stone crab,1,18,NA
+BOF2013001.013.D,Lophius americanus,monkfish,1,250,NA
+BOF2013001.014.D,Melanogrammus aeglefinus,haddock,20,209,NA
+BOF2013001.015.D,Merluccius bilinearis,silver hake,129,6774,NA
+BOF2013001.016.D,Myoxocephalus octodecemspinosus,longhorn sculpin,2,133,NA
+BOF2013001.017.D,Ophiopholis aculeata,daisy brittle star,50,40,NA
+BOF2013001.018.D,Pandalus montagui,Montague shrimp,18,70,NA
+BOF2013001.019.D,Placopecten magellanicus,deep sea scallop,1,8,NA
+BOF2013001.02.D,Pseudopleuronectes americanus,winter flounder,33,2404,NA
+BOF2013001.021.D,Semirossia tenera,lesser bobtail squid,2,36,NA
+BOF2013001.022.D,Urophycis chuss,red hake,2,141,NA
+BOF2013001.001.D,Alosa pseudoharengus,alewife,6,757,NA
+BOF2013001.002.D,Aspidophoroides monopterygius,Atlantic alligatorfish,3,11,NA
+BOF2013001.003.D,Clupea harengus,herring,8,422,NA
+BOF2013001.004.D,Ctenodiscus crispatus,mud star,1,7,NA
+BOF2013001.005.D,Hemitripterus americanus,sea raven,5,3482,NA
+BOF2013001.006.D,Homarus americanus,American lobster,90,44142.45,NA
+BOF2013001.007.D,Doryteuthis pealeii,longfin inshore squid,2,52,NA
+BOF2013001.008.D,Melanogrammus aeglefinus,haddock,22,282,NA
+BOF2013001.009.D,Merluccius bilinearis,silver hake,1183,40929,NA
+BOF2013001.01.D,Microgadus tomcod,Atlantic tomcod,1,18,NA
+BOF2013001.011.D,Myoxocephalus octodecemspinosus,longhorn sculpin,2,75,NA
+BOF2013001.012.D,Pandalus montagui,Montague shrimp,107,443,NA
+BOF2013001.013.D,Placopecten magellanicus,deep sea scallop,2,16,NA
+BOF2013001.014.D,Pseudopleuronectes americanus,winter flounder,137,12e3,NA
+BOF2013001.015.D,Urophycis chuss,red hake,5,423,NA
+BOF2013001.016.B,Asterias vulgaris,northern sea star,1,5,NA
+BOF2013001.017.B,Aurelia aurita,moon jelly,7,176,NA
+BOF2013001.018.B,Ciona intestinalis,sea vase,1,7,NA
+BOF2013001.019.B,Crangon septemspinosa,sand shrimp,1,1,NA
+BOF2013001.02.B,Cucumaria frondosa,orange-footed sea cucumber,331,67786.04167,NA
+BOF2013001.021.B,Hemitripterus americanus,sea raven,3,2756,NA
+BOF2013001.022.B,Homarus americanus,American lobster,131,30310.78,NA
+BOF2013001.023.B,Doryteuthis pealeii,longfin inshore squid,2,94,NA
+BOF2013001.024.B,Lebbeus groenlandicus,Greenland shrimp,1,2,NA
+BOF2013001.025.B,Lepiodonotus squamatus,scale worm,1,1,NA
+BOF2013001.026.B,Leucoraja erinacea,little skate,5,1345.2,NA
+BOF2013001.001.B,Leucoraja ocellata,winter skate,1,1249,NA
+BOF2013001.002.B,Melanogrammus aeglefinus,haddock,3,76,NA
+BOF2013001.003.B,Merluccius bilinearis,silver hake,132,4442,NA
+BOF2013001.004.B,Microgadus tomcod,Atlantic tomcod,1,8,NA
+BOF2013001.005.B,Myoxocephalus octodecemspinosus,longhorn sculpin,55,3173.958333,NA
+BOF2013001.006.B,Myoxocephalus scorpius,shorthorn sculpin,1,1.5,NA
+BOF2013001.007.B,Pandalus borealis,northern shrimp,74,720,NA
+BOF2013001.008.B,Pandalus montagui,Montague shrimp,4476,24976.08,NA
+BOF2013001.009.B,Placopecten magellanicus,deep sea scallop,7,23,NA
+BOF2013001.01.B,Pseudopleuronectes americanus,winter flounder,25,1193,NA
+BOF2013001.011.B,Scophthalmus aquosus,windowpane flounder,2,58,NA
+BOF2013001.012.B,Sebastes fasciatus,Acadian redfish,2,385,NA
+BOF2013001.013.B,Squalus acanthias,spiny dogfish,1,1882,NA
+BOF2013001.014.B,Strongylocentrotus droebachiensis,green sea urchin,212,1970,NA
+BOF2013001.015.B,Urophycis chuss,red hake,106,6050.48,NA
+BOF2013001.016.B,Urophycis tenuis,white hake,1,11,NA
+BOF2013001.017.B,Zoarces americanus,ocean pout,1,34,NA
+BOF2013001.018.B,Crangon septemspinosa,sand shrimp,1,2,NA
+BOF2013001.019.B,Gadus morhua,Atlantic cod,1,2.6,NA
+BOF2013001.02.B,Homarus americanus,American lobster,371,240393.16,NA
+BOF2013001.021.B,Doryteuthis pealeii,longfin inshore squid,6,240,NA
+BOF2013001.022.B,Isodictya palmata,palmate sponge,5,285,NA
+BOF2013001.001.B,Leucoraja erinacea,little skate,8,477,NA
+BOF2013001.002.B,Leucoraja ocellata,winter skate,1,212,NA
+BOF2013001.003.B,Limanda ferruginea,yellowtail flounder,1,192,NA
+BOF2013001.004.B,Melanogrammus aeglefinus,haddock,2,15,NA
+BOF2013001.005.B,Merluccius bilinearis,silver hake,277,11845.82353,NA
+BOF2013001.006.B,Myoxocephalus octodecemspinosus,longhorn sculpin,10,858,NA
+BOF2013001.007.B,Placopecten magellanicus,deep sea scallop,12,72,NA
+BOF2013001.001.B,Pseudopleuronectes americanus,winter flounder,95,6923.6,NA
+BOF2013001.002.B,Scophthalmus aquosus,windowpane flounder,38,2138,NA
+BOF2013001.003.B,Spisula solidissima,surf clam,1,10,NA
+BOF2013001.004.B,Strongylocentrotus droebachiensis,green sea urchin,17,305,NA
+BOF2013001.005.B,Urophycis chuss,red hake,4,210,NA
+BOF2013001.006.B,Urophycis tenuis,white hake,28,369,NA
+BOF2013001.007.C,Amblyraja radiata,thorny skate,2,380,NA
+BOF2013001.008.C,Aspidophoroides monopterygius,Atlantic alligatorfish,1,10,NA
+BOF2013001.009.C,Boltenia ovifera,stalked sea squirt,10,293,NA
+BOF2013001.001.C,Cancer irroratus,rock crab,6,374,NA
+BOF2013001.002.C,Cucumaria frondosa,orange-footed sea cucumber,14,5020,NA
+BOF2013001.003.C,Hemitripterus americanus,sea raven,5,2906,NA
+BOF2013001.004.C,Homarus americanus,American lobster,120,59258,NA
+BOF2013001.005.C,Doryteuthis pealeii,longfin inshore squid,2,66,NA
+BOF2013001.006.C,Leucoraja erinacea,little skate,2,1216,NA
+BOF2013001.007.C,Leucoraja ocellata,winter skate,2,1075,NA
+BOF2013001.008.C,Melanogrammus aeglefinus,haddock,2,67,NA
+BOF2013001.009.C,Merluccius bilinearis,silver hake,230,14717,NA
+BOF2013001.01.C,Myoxocephalus octodecemspinosus,longhorn sculpin,18,1481,NA
+BOF2013001.011.C,Pagurus acadianus,Acadian hermit crab,1,4,NA
+BOF2013001.012.C,Pandalus montagui,Montague shrimp,204,900,NA
+BOF2013001.001.C,Peprilus triacanthus,butterfish,7,399,NA
+BOF2013001.002.C,Placopecten magellanicus,deep sea scallop,14,100,NA
+BOF2013001.003.C,Pseudopleuronectes americanus,winter flounder,54,4552,NA
+BOF2013001.004.C,Scophthalmus aquosus,windowpane flounder,1,35,NA
+BOF2013001.005.C,Sebastes fasciatus,Acadian redfish,1,84,NA
+BOF2013001.006.C,Squalus acanthias,spiny dogfish,2,4368,NA
+BOF2013001.007.C,Stenotomus chrysops,scup,1,146,NA
+BOF2013001.008.C,Strongylocentrotus droebachiensis,green sea urchin,128,4146,NA
+BOF2013001.009.C,Urophycis chuss,red hake,133,10886,NA
+BOF2013001.01.C,Urophycis tenuis,white hake,5,1487,NA
+BOF2013001.011.C,Zoarces americanus,ocean pout,2,224,NA
+BOF2013001.012.C,Alosa pseudoharengus,alewife,119,14890,NA
+BOF2013001.013.C,Boltenia ovifera,stalked sea squirt,1,39,NA
+BOF2013001.014.C,Cancer irroratus,rock crab,5,193,NA
+BOF2013001.015.C,Ciona intestinalis,sea vase,8,85,NA
+BOF2013001.016.C,Clupea harengus,herring,3,120,NA
+BOF2013001.017.C,Ctenodiscus crispatus,mud star,2,13,NA
+BOF2013001.018.C,Homarus americanus,American lobster,55,40729,NA
+BOF2013001.019.C,Doryteuthis pealeii,longfin inshore squid,1,58,NA
+BOF2013001.001.C,Leucoraja erinacea,little skate,1,128,NA
+BOF2013001.002.C,Melanogrammus aeglefinus,haddock,19,424,NA
+BOF2013001.003.C,Merluccius bilinearis,silver hake,428,29640,NA
+BOF2013001.004.C,Myoxocephalus octodecemspinosus,longhorn sculpin,5,519,NA
+BOF2013001.005.C,Pandalus montagui,Montague shrimp,13,67,NA
+BOF2013001.006.C,Peprilus triacanthus,butterfish,31,1695,NA
+BOF2013001.007.C,Placopecten magellanicus,deep sea scallop,51,1171,NA
+BOF2013001.008.C,Pseudopleuronectes americanus,winter flounder,265,11266,NA
+BOF2013001.009.C,Scophthalmus aquosus,windowpane flounder,5,251,NA
+BOF2013001.01.C,Spisula solidissima,surf clam,10,136,NA
+BOF2013001.011.C,Suberites ficus,fig sponge,16,928,NA
+BOF2013001.012.C,Urophycis chuss,red hake,15,770,NA
+BOF2013001.013.B,Alosa pseudoharengus,alewife,2,168,NA
+BOF2013001.014.B,Asterias vulgaris,northern sea star,3,6,NA
+BOF2013001.015.B,Bathypolypus arcticus,deep sea octopus,1,66,NA
+BOF2013001.016.B,Cancer irroratus,rock crab,3,485,NA
+BOF2013001.017.B,Ctenodiscus crispatus,mud star,2,14,NA
+BOF2013001.018.B,Cucumaria frondosa,orange-footed sea cucumber,610,221738,NA
+BOF2013001.019.B,Enchelyopus cimbrius,fourbeard rockling,1,66,NA
+BOF2013001.02.B,Hemitripterus americanus,sea raven,1,730,NA
+BOF2013001.001.B,Homarus americanus,American lobster,252,94256,NA
+BOF2013001.002.B,Lepiodonotus squamatus,scale worm,1,2,NA
+BOF2013001.003.B,Leucoraja erinacea,little skate,3,828,NA
+BOF2013001.004.B,Leucoraja ocellata,winter skate,1,38,NA
+BOF2013001.005.B,Melanogrammus aeglefinus,haddock,2,66,NA
+BOF2013001.006.B,Merluccius bilinearis,silver hake,340,18696,NA
+BOF2013001.007.B,Myoxocephalus octodecemspinosus,longhorn sculpin,57,3565,NA
+BOF2013001.008.B,Pandalus borealis,northern shrimp,109,1505,NA
+BOF2013001.009.B,Pandalus montagui,Montague shrimp,752,3835,NA
+BOF2013001.01.B,Peprilus triacanthus,butterfish,4,212,NA
+BOF2013001.011.B,Placopecten magellanicus,deep sea scallop,64,305,NA
+BOF2013001.012.B,Pseudopleuronectes americanus,winter flounder,51,1892,NA
+BOF2013001.013.B,Scophthalmus aquosus,windowpane flounder,5,166,NA
+BOF2013001.014.B,Sclerocrangon boreas,sculptured shrimp,1,8,NA
+BOF2013001.015.B,Strongylocentrotus droebachiensis,green sea urchin,413,5838,NA
+BOF2013001.016.B,Ulvaria subbifurcata,radiated shanny,1,21,NA
+BOF2013001.017.B,Urophycis chuss,red hake,21,1584,NA
+BOF2013001.018.B,Urophycis tenuis,white hake,4,156,NA
+BOF2013001.019.D,Alosa pseudoharengus,alewife,3,145,NA
+BOF2013001.02.D,Alosa sapidissima,shad,1,181,NA
+BOF2013001.021.D,Chlamys islandica,Iceland scallop,1,2,NA
+BOF2013001.022.D,Ctenodiscus crispatus,mud star,1,7,NA
+BOF2013001.001.D,Hippoglossoides platessoides,American plaice,1,29,NA
+BOF2013001.002.D,Homarus americanus,American lobster,83,84175,NA
+BOF2013001.003.D,Doryteuthis pealeii,longfin inshore squid,2,67,NA
+BOF2013001.004.D,Melanogrammus aeglefinus,haddock,1,13,NA
+BOF2013001.005.D,Merluccius bilinearis,silver hake,140,11388,NA
+BOF2013001.006.D,Myoxocephalus octodecemspinosus,longhorn sculpin,3,1327,NA
+BOF2013001.007.D,Pandalus borealis,northern shrimp,1,12,NA
+BOF2013001.008.D,Pandalus montagui,Montague shrimp,1,7,NA
+BOF2013001.009.D,Peprilus triacanthus,butterfish,3,307,NA
+BOF2013001.01.D,Pseudopleuronectes americanus,winter flounder,119,23025,NA
+BOF2013001.011.D,Scomber scombrus,mackerel,6,900,NA
+BOF2013001.012.D,Urophycis chuss,red hake,1,36,NA
+BOF2013001.013.D,Urophycis tenuis,white hake,4,928,NA
+BOF2013001.014.D,Amblyraja radiata,thorny skate,2,1364,NA
+BOF2013001.015.D,Bathypolypus arcticus,deep sea octopus,1,18,NA
+BOF2013001.016.D,Astarte castanea,chestnut astarte,1,2,NA
+BOF2013001.017.D,Ctenodiscus crispatus,mud star,4,26,NA
+BOF2013001.018.D,Enchelyopus cimbrius,fourbeard rockling,2,138,NA
+BOF2013001.019.D,Hemitripterus americanus,sea raven,3,2312,NA
+BOF2013001.02.D,Homarus americanus,American lobster,8,3410,NA
+BOF2013001.021.D,Doryteuthis pealeii,longfin inshore squid,3,134,NA
+BOF2013001.022.D,Melanogrammus aeglefinus,haddock,1,38,NA
+BOF2013001.023.D,Melanogrammus aeglefinus,haddock,1,24,NA
+BOF2013001.024.D,Merluccius bilinearis,silver hake,1062,70137,NA
+BOF2013001.025.D,Myoxocephalus octodecemspinosus,longhorn sculpin,14,3363,NA
+BOF2013001.026.D,Pandalus borealis,northern shrimp,2,36,NA
+BOF2013001.001.D,Pandalus montagui,Montague shrimp,110,638,NA
+BOF2013001.002.D,Peprilus triacanthus,butterfish,1,129,NA
+BOF2013001.003.D,Placopecten magellanicus,deep sea scallop,4,14,NA
+BOF2013001.004.D,Pseudopleuronectes americanus,winter flounder,77,14697,NA
+BOF2013001.005.D,Rajella bathyphilus,deepwater ray,4,164,NA
+BOF2013001.006.D,Sebastes fasciatus,Acadian redfish,3,377,NA
+BOF2013001.007.D,Suberites ficus,fig sponge,1,70,NA
+BOF2013001.008.D,Triglops murrayi,moustache sculpin,1,2,NA
+BOF2013001.009.D,Urophycis chuss,red hake,61,5350,NA
+BOF2013001.01.D,Urophycis tenuis,white hake,10,2612,NA
+BOF2013001.011.C,Alosa pseudoharengus,alewife,3,309,NA
+BOF2013001.012.C,Alosa sapidissima,shad,1,150,NA
+BOF2013001.013.C,Cancer irroratus,rock crab,3,194,NA
+BOF2013001.014.C,Clupea harengus,herring,1,50,NA
+BOF2013001.015.C,Homarus americanus,American lobster,41,32282,NA
+BOF2013001.016.C,Doryteuthis pealeii,longfin inshore squid,2,145,NA
+BOF2013001.017.C,Melanogrammus aeglefinus,haddock,23,958,NA
+BOF2013001.018.C,Merluccius bilinearis,silver hake,156,10603,NA
+BOF2013001.019.C,Pandalus montagui,Montague shrimp,1,4,NA
+BOF2013001.02.C,Peprilus triacanthus,butterfish,20,1512,NA
+BOF2013001.021.C,Placopecten magellanicus,deep sea scallop,29,1056,NA
+BOF2013001.022.C,Pseudopleuronectes americanus,winter flounder,450,18922,NA
+BOF2013001.001.C,Scophthalmus aquosus,windowpane flounder,1,42,NA
+BOF2013001.002.C,Spisula solidissima,surf clam,4,99,NA
+BOF2013001.003.C,Strongylocentrotus droebachiensis,green sea urchin,3,16,NA
+BOF2013001.004.C,Suberites ficus,fig sponge,8,500,NA
+BOF2013001.005.C,Urophycis chuss,red hake,2,181,NA
+BOF2013001.006.C,Urophycis tenuis,white hake,23,1305,NA
+BOF2013001.007.C,Alosa pseudoharengus,alewife,9,574,NA
+BOF2013001.001.C,Cancer irroratus,rock crab,1,72,NA
+BOF2013001.002.C,Clupea harengus,herring,6,316,NA
+BOF2013001.003.C,Crangon septemspinosa,sand shrimp,1,4,NA
+BOF2013001.004.C,Homarus americanus,American lobster,127,112546,NA
+BOF2013001.005.C,Doryteuthis pealeii,longfin inshore squid,14,1074,NA
+BOF2013001.006.C,Melanogrammus aeglefinus,haddock,6,178,NA
+BOF2013001.007.C,Merluccius bilinearis,silver hake,226,9602,NA
+BOF2013001.008.C,Myoxocephalus octodecemspinosus,longhorn sculpin,2,540,NA
+BOF2013001.009.C,Pandalus borealis,northern shrimp,1,16,NA
+BOF2013001.001.C,Pandalus montagui,Montague shrimp,2,2,NA
+BOF2013001.002.C,Peprilus triacanthus,butterfish,45,3367,NA
+BOF2013001.003.C,Placopecten magellanicus,deep sea scallop,50,798,NA
+BOF2013001.004.C,Pseudopleuronectes americanus,winter flounder,230,12223,NA
+BOF2013001.005.C,Scophthalmus aquosus,windowpane flounder,12,664,NA
+BOF2013001.006.C,Spisula solidissima,surf clam,5,74,NA
+BOF2013001.007.C,Suberites ficus,fig sponge,12,740,NA
+BOF2013001.008.C,Urophycis chuss,red hake,5,366,NA
+BOF2013001.009.C,Urophycis tenuis,white hake,18,956,NA
+BOF2013001.01.C,Zoarces americanus,ocean pout,1,58,NA
+BOF2013001.011.D,Amblyraja radiata,thorny skate,1,332,NA
+BOF2013001.012.D,Aphrodita aculeata,sea mouse,1,12,NA
+BOF2013001.001.D,Aspidophoroides monopterygius,Atlantic alligatorfish,2,6,NA
+BOF2013001.002.D,Ciona intestinalis,sea vase,1,2,NA
+BOF2013001.003.D,Cucumaria frondosa,orange-footed sea cucumber,1,5,NA
+BOF2013001.004.D,Enchelyopus cimbrius,fourbeard rockling,9,589,NA
+BOF2013001.005.D,Hemitripterus americanus,sea raven,2,1494,NA
+BOF2013001.006.D,Homarus americanus,American lobster,203,146143,NA
+BOF2013001.007.D,Hyas araneus,Atlantic lyre crab,2,28,NA
+BOF2013001.008.D,Doryteuthis pealeii,longfin inshore squid,1,77,NA
+BOF2013001.009.D,Lepiodonotus squamatus,scale worm,2,30,NA
+BOF2013001.01.D,Melanogrammus aeglefinus,haddock,2,104,NA
+BOF2013001.011.D,Merluccius bilinearis,silver hake,1365,106505,NA
+BOF2013001.012.D,Myoxocephalus octodecemspinosus,longhorn sculpin,21,3913,NA
+BOF2013001.013.D,Pandalus borealis,northern shrimp,1,8,NA
+BOF2013001.014.D,Pandalus montagui,Montague shrimp,239,1340,NA
+BOF2013001.015.D,Placopecten magellanicus,deep sea scallop,274,896,NA
+BOF2013001.016.D,Pseudopleuronectes americanus,winter flounder,127,19124,NA
+BOF2013001.017.D,Rajella bathyphilus,deepwater ray,2,391,NA
+BOF2013001.018.D,Sebastes fasciatus,Acadian redfish,4,207,NA
+BOF2013001.019.D,Solamen glandula,fragile crenella,1,2,NA
+BOF2013001.001.D,Spisula solidissima,surf clam,3,32,NA
+BOF2013001.002.D,Suberites ficus,fig sponge,1,740,NA
+BOF2013001.003.D,Urophycis chuss,red hake,81,9388,NA
+BOF2013001.004.D,Urophycis tenuis,white hake,36,5819,NA
+BOF2013001.005.D,Alosa pseudoharengus,alewife,160,8471,NA
+BOF2013001.006.D,Boltenia ovifera,stalked sea squirt,1,30,NA
+BOF2013001.007.D,Cancer irroratus,rock crab,2,420,NA
+BOF2013001.008.D,Clupea harengus,herring,3,34,NA
+BOF2013001.009.D,Ctenodiscus crispatus,mud star,9,44,NA
+BOF2013001.01.D,Enchelyopus cimbrius,fourbeard rockling,1,116,NA
+BOF2013001.011.D,Hippoglossoides platessoides,American plaice,20,612,NA
+BOF2013001.012.D,Homarus americanus,American lobster,250,232496,NA
+BOF2013001.013.D,Melanogrammus aeglefinus,haddock,4,222,NA
+BOF2013001.014.D,Merluccius bilinearis,silver hake,639,63274,NA
+BOF2013001.015.D,Myoxocephalus octodecemspinosus,longhorn sculpin,1,276,NA
+BOF2013001.016.D,Pandalus borealis,northern shrimp,3,24,NA
+BOF2013001.017.D,Pandalus montagui,Montague shrimp,27,116,NA
+BOF2013001.018.D,Peprilus triacanthus,butterfish,18,1152,NA
+BOF2013001.019.D,Placopecten magellanicus,deep sea scallop,36,266,NA
+BOF2013001.02.D,Pseudopleuronectes americanus,winter flounder,193,31762,NA
+BOF2013001.001.D,Scophthalmus aquosus,windowpane flounder,2,158,NA
+BOF2013001.002.D,Urophycis chuss,red hake,6,482,NA
+BOF2013001.003.D,Urophycis tenuis,white hake,62,5124,NA
+BOF2013001.004.C,Alosa pseudoharengus,alewife,21,1053,NA
+BOF2013001.005.C,Cancer irroratus,rock crab,3,149,NA
+BOF2013001.006.C,Halichondria sp.,Halichondria sp.,1,2,NA
+BOF2013001.007.C,Hippoglossoides platessoides,American plaice,2,60,NA
+BOF2013001.008.C,Homarus americanus,American lobster,51,56939,NA
+BOF2013001.009.C,Hyas araneus,Atlantic lyre crab,1,28,NA
+BOF2013001.01.C,Doryteuthis pealeii,longfin inshore squid,2,156,NA
+BOF2013001.011.C,Leucoraja erinacea,little skate,1,24,NA
+BOF2013001.012.C,Leucoraja ocellata,winter skate,1,152,NA
+BOF2013001.013.C,Lycodes lavalaei,Laval's eelpout,1,63,NA
+BOF2013001.014.C,Melanogrammus aeglefinus,haddock,17,860,NA
+BOF2013001.015.C,Merluccius bilinearis,silver hake,372,21994,NA
+BOF2013001.016.C,Myoxocephalus octodecemspinosus,longhorn sculpin,2,112,NA
+BOF2013001.017.C,Pandalus montagui,Montague shrimp,12,34,NA
+BOF2013001.018.C,Peprilus triacanthus,butterfish,3,262,NA
+BOF2013001.019.C,Placopecten magellanicus,deep sea scallop,23,217,NA
+BOF2013001.02.C,Pseudopleuronectes americanus,winter flounder,353,18687,NA
+BOF2013001.021.C,Scomber scombrus,mackerel,2,416,NA
+BOF2013001.022.C,Scophthalmus aquosus,windowpane flounder,7,304,NA
+BOF2013001.001.C,Spisula solidissima,surf clam,6,111,NA
+BOF2013001.002.C,Strongylocentrotus droebachiensis,green sea urchin,13,541,NA
+BOF2013001.003.C,Filograna sp.,Filograna sp.,1,5,NA
+BOF2013001.004.C,Urophycis chuss,red hake,33,2542,NA
+BOF2013001.005.C,Urophycis tenuis,white hake,2,204,NA
+BOF2013001.006.B,Alosa pseudoharengus,alewife,1085,48879,NA
+BOF2013001.007.B,Clupea harengus,herring,108,4192,NA
+BOF2013001.008.B,Ctenodiscus crispatus,mud star,1,4,NA
+BOF2013001.009.B,Cuaudina arenata,rat-tailed sea cucumber,1,56,NA
+BOF2013001.01.B,Homarus americanus,American lobster,209,169914,NA
+BOF2013001.011.B,Doryteuthis pealeii,longfin inshore squid,1,58,NA
+BOF2013001.012.B,Mercenaria mercenaria,quahog,17,398,NA
+BOF2013001.013.B,Merluccius bilinearis,silver hake,129,8662,NA
+BOF2013001.014.B,Myoxocephalus octodecemspinosus,longhorn sculpin,1,81,NA
+BOF2013001.015.B,Pandalus montagui,Montague shrimp,5,24,NA
+BOF2013001.016.B,Peprilus triacanthus,butterfish,33,1724,NA
+BOF2013001.017.B,Placopecten magellanicus,deep sea scallop,3,10,NA
+BOF2013001.018.B,Pseudopleuronectes americanus,winter flounder,135,5524,NA
+BOF2013001.019.B,Scophthalmus aquosus,windowpane flounder,7,273,NA
+BOF2013001.02.B,Strongylocentrotus droebachiensis,green sea urchin,1,6,NA
+BOF2013001.021.B,Suberites ficus,fig sponge,1,324,NA
+BOF2013001.022.B,Urophycis chuss,red hake,9,778,NA
+BOF2013001.023.B,Urophycis tenuis,white hake,5,444,NA
+BOF2014001.024.B,Merluccius bilinearis,silver hake,35,955,NA
+BOF2014001.025.B,Zoarces americanus,ocean pout,4,1040,NA
+BOF2014001.026.B,Triglops murrayi,moustache sculpin,2,43,NA
+BOF2014001.001.B,Doryteuthis pealeii,longfin inshore squid,134,4375,NA
+BOF2014001.002.B,Pandalus montagui,Montague shrimp,1758,8440,NA
+BOF2014001.003.B,Homarus americanus,American lobster,210,75837,NA
+BOF2014001.004.B,Alosa pseudoharengus,alewife,5,868,NA
+BOF2014001.005.B,Gadus morhua,Atlantic cod,1,150,NA
+BOF2014001.006.B,Aspidophoroides monopterygius,Atlantic alligatorfish,2,10,NA
+BOF2014001.007.B,Hippoglossoides platessoides,American plaice,2,19,NA
+BOF2014001.008.B,Scophthalmus aquosus,windowpane flounder,2,80,NA
+BOF2014001.009.B,Osmerus mordax,smelt,1,21,NA
+BOF2014001.01.B,Melanogrammus aeglefinus,haddock,1,6,NA
+BOF2014001.011.B,Urophycis chuss,red hake,5,168,NA
+BOF2014001.012.B,Pandalus borealis,northern shrimp,5,74,NA
+BOF2014001.013.B,Placopecten magellanicus,deep sea scallop,4,22,NA
+BOF2014001.014.B,Aurelia aurita,moon jelly,17,774,NA
+BOF2014001.015.B,Strongylocentrotus droebachiensis,green sea urchin,166,3118,NA
+BOF2014001.016.D,Homarus americanus,American lobster,28,21544,NA
+BOF2014001.017.D,Cancer irroratus,rock crab,32,4493,NA
+BOF2014001.018.D,Placopecten magellanicus,deep sea scallop,64,1111,NA
+BOF2014001.019.D,Ophiopholis aculeata,daisy brittle star,812000,406e3,NA
+BOF2014001.02.D,Ctenodiscus crispatus,mud star,5829,48090,NA
+BOF2014001.021.D,Merluccius bilinearis,silver hake,57,1813,NA
+BOF2014001.022.D,Pseudopleuronectes americanus,winter flounder,135,22524,NA
+BOF2014001.001.D,Hippoglossoides platessoides,American plaice,64,4036,NA
+BOF2014001.002.D,Leucoraja ocellata,winter skate,1,694,NA
+BOF2014001.003.D,Myoxocephalus octodecemspinosus,longhorn sculpin,6,954,NA
+BOF2014001.004.D,Scophthalmus aquosus,windowpane flounder,5,383,NA
+BOF2014001.005.D,Zoarces americanus,ocean pout,1,205,NA
+BOF2014001.006.D,Peprilus triacanthus,butterfish,2,77,NA
+BOF2014001.007.D,Glyptocephalus cynoglossus,witch flounder,2,15,NA
+BOF2014001.001.D,Asterias vulgaris,northern sea star,1,26,NA
+BOF2014001.002.D,Semirossia tenera,lesser bobtail squid,1,9,NA
+BOF2014001.003.D,Lophius americanus,monkfish,1,45,NA
+BOF2014001.004.D,Aphrodita aculeata,sea mouse,2,14,NA
+BOF2014001.005.D,Cucumaria frondosa,orange-footed sea cucumber,1,15,NA
+BOF2014001.006.D,Spisula solidissima,surf clam,3,12,NA
+BOF2014001.007.D,Homarus americanus,American lobster,146,116082,NA
+BOF2014001.008.D,Cancer irroratus,rock crab,2,420,NA
+BOF2014001.009.D,Clupea harengus,herring,12,724,NA
+BOF2014001.001.D,Aspidophoroides monopterygius,Atlantic alligatorfish,3,8,NA
+BOF2014001.002.D,Aurelia aurita,moon jelly,3,144,NA
+BOF2014001.003.D,Astarte castanea,chestnut astarte,1,18,NA
+BOF2014001.004.D,Osmerus mordax,smelt,1,22,NA
+BOF2014001.005.D,Sebastes fasciatus,Acadian redfish,1,2,NA
+BOF2014001.006.D,Peprilus triacanthus,butterfish,3,233,NA
+BOF2014001.007.D,Urophycis chuss,red hake,6,234,NA
+BOF2014001.008.D,Gadus morhua,Atlantic cod,1,1319,NA
+BOF2014001.009.D,Hemitripterus americanus,sea raven,3,3203,NA
+BOF2014001.01.D,Cryptacanthodes maculatus,wrymouth,1,183,NA
+BOF2014001.011.D,Myoxocephalus octodecemspinosus,longhorn sculpin,22,2577,NA
+BOF2014001.012.D,Doryteuthis pealeii,longfin inshore squid,15,680,NA
+BOF2014001.001.D,Pandalus montagui,Montague shrimp,3315,13729,NA
+BOF2014001.002.D,Pseudopleuronectes americanus,winter flounder,9,5959,NA
+BOF2014001.003.D,Merluccius bilinearis,silver hake,55,2083,NA
+BOF2014001.004.D,Enchelyopus cimbrius,fourbeard rockling,22,1032,NA
+BOF2014001.005.D,Melanogrammus aeglefinus,haddock,3,303,NA
+BOF2014001.006.D,Halichondria sp.,Halichondria sp.,1,28,NA
+BOF2014001.007.C,Melanogrammus aeglefinus,haddock,203,31279,NA
+BOF2014001.008.C,Pseudopleuronectes americanus,winter flounder,59,3573,NA
+BOF2014001.009.C,Amblyraja radiata,thorny skate,1,254,NA
+BOF2014001.01.C,Leucoraja erinacea,little skate,5,2033,NA
+BOF2014001.011.C,Urophycis chuss,red hake,85,4451,NA
+BOF2014001.012.C,Pandalus borealis,northern shrimp,1,8,NA
+BOF2014001.013.C,Pandalus montagui,Montague shrimp,27,87,NA
+BOF2014001.014.C,Homarus americanus,American lobster,5,8263,NA
+BOF2014001.015.C,Cancer irroratus,rock crab,2,436,NA
+BOF2014001.016.C,Strongylocentrotus droebachiensis,green sea urchin,26,584,NA
+BOF2014001.017.C,Placopecten magellanicus,deep sea scallop,4,38,NA
+BOF2014001.018.C,Hemitripterus americanus,sea raven,1,760,NA
+BOF2014001.019.C,Aurelia aurita,moon jelly,45,2938,NA
+BOF2014001.001.C,Cucumaria frondosa,orange-footed sea cucumber,1,47,NA
+BOF2014001.002.C,Myoxocephalus octodecemspinosus,longhorn sculpin,18,1213,NA
+BOF2014001.003.C,Merluccius bilinearis,silver hake,10,334,NA
+BOF2014001.004.C,Scophthalmus aquosus,windowpane flounder,2,117,NA
+BOF2014001.005.C,Styela montereyensis,stalked tunicate,4,61,NA
+BOF2014001.006.D,Pandalus montagui,Montague shrimp,324,2718,NA
+BOF2014001.007.D,Pseudopleuronectes americanus,winter flounder,58,9676,NA
+BOF2014001.008.D,Clupea harengus,herring,36,1369,NA
+BOF2014001.009.D,Alosa pseudoharengus,alewife,41,3510,NA
+BOF2014001.01.D,Placopecten magellanicus,deep sea scallop,7,122,NA
+BOF2014001.011.D,Homarus americanus,American lobster,16,17536,NA
+BOF2014001.012.D,Cancer irroratus,rock crab,8,762,NA
+BOF2014001.013.D,Glyptocephalus cynoglossus,witch flounder,2,18,NA
+BOF2014001.014.D,Peprilus triacanthus,butterfish,3,124,NA
+BOF2014001.015.D,Doryteuthis pealeii,longfin inshore squid,2,28,NA
+BOF2014001.016.D,Hippoglossoides platessoides,American plaice,11,128,NA
+BOF2014001.017.D,Myoxocephalus octodecemspinosus,longhorn sculpin,1,452,NA
+BOF2014001.018.D,Ctenodiscus crispatus,mud star,16,100,NA
+BOF2014001.019.D,Aurelia aurita,moon jelly,3,256,NA
+BOF2014001.02.D,Hippoglossus hippoglossus,Atlantic halibut,1,2779,NA
+BOF2014001.001.D,Homarus americanus,American lobster,44,15978,NA
+BOF2014001.002.D,Cancer irroratus,rock crab,4,290,NA
+BOF2014001.003.D,Pseudopleuronectes americanus,winter flounder,7,694,NA
+BOF2014001.004.D,Alosa pseudoharengus,alewife,1,177,NA
+BOF2014001.005.D,Peprilus triacanthus,butterfish,1,58,NA
+BOF2014001.006.D,Hippoglossoides platessoides,American plaice,5,24,NA
+BOF2014001.007.D,Doryteuthis pealeii,longfin inshore squid,5,119,NA
+BOF2014001.008.D,Aurelia aurita,moon jelly,2,221,NA
+BOF2014001.009.D,Merluccius bilinearis,silver hake,186,6106,NA
+BOF2014001.01.D,Pandalus montagui,Montague shrimp,1115,992,NA
+BOF2014001.011.D,Melanogrammus aeglefinus,haddock,115,12109,NA
+BOF2014001.012.D,Clupea harengus,herring,378,32995,NA
+BOF2014001.013.A,Cyclopterus lumpus,lumpfish,1,219,NA
+BOF2014001.014.A,Hippoglossus hippoglossus,Atlantic halibut,1,185,NA
+BOF2014001.015.A,Aurelia aurita,moon jelly,79,11985,NA
+BOF2014001.016.A,Alosa pseudoharengus,alewife,40,1537,NA
+BOF2014001.017.A,Merluccius bilinearis,silver hake,19,798,NA
+BOF2014001.018.A,Pseudopleuronectes americanus,winter flounder,34,1134,NA
+BOF2014001.019.A,Clupea harengus,herring,2,44,NA
+BOF2014001.02.A,Myoxocephalus octodecemspinosus,longhorn sculpin,2,172,NA
+BOF2014001.021.A,Hemitripterus americanus,sea raven,1,108,NA
+BOF2014001.022.A,Doryteuthis pealeii,longfin inshore squid,2,108,NA
+BOF2014001.001.A,Melanogrammus aeglefinus,haddock,1,4,NA
+BOF2014001.002.A,Homarus americanus,American lobster,34,15674,NA
+BOF2014001.003.A,Cancer irroratus,rock crab,3,576,NA
+BOF2014001.004.A,Placopecten magellanicus,deep sea scallop,6,135,NA
+BOF2014001.005.A,Strongylocentrotus droebachiensis,green sea urchin,18,672,NA
+BOF2014001.006.A,Cucumaria frondosa,orange-footed sea cucumber,5,873,NA
+BOF2014001.007.A,Pandalus montagui,Montague shrimp,5,14,NA
+BOF2014001.008.A,Sclerocrangon boreas,sculptured shrimp,4,25,NA
+BOF2014001.009.C,Pseudopleuronectes americanus,winter flounder,53,2953,NA
+BOF2014001.01.C,Urophycis chuss,red hake,24,1417,NA
+BOF2014001.011.C,Merluccius bilinearis,silver hake,49,3103,NA
+BOF2014001.012.C,Alosa pseudoharengus,alewife,7,548,NA
+BOF2014001.013.C,Aurelia aurita,moon jelly,55,3862,NA
+BOF2014001.014.C,Homarus americanus,American lobster,28,23506,NA
+BOF2014001.015.C,Cancer irroratus,rock crab,9,1386,NA
+BOF2014001.016.C,Placopecten magellanicus,deep sea scallop,19,887,NA
+BOF2014001.017.C,Spisula solidissima,surf clam,21,223,NA
+BOF2014001.018.C,Clinocardium ciliatum,Iceland cockle,10,77,NA
+BOF2014001.019.C,Clupea harengus,herring,1,34,NA
+BOF2014001.02.C,Hippoglossoides platessoides,American plaice,3,39,NA
+BOF2014001.021.C,Scophthalmus aquosus,windowpane flounder,2,219,NA
+BOF2014001.022.C,Myoxocephalus octodecemspinosus,longhorn sculpin,1,36,NA
+BOF2014001.023.C,Pandalus montagui,Montague shrimp,6,22,NA
+BOF2014001.024.D,Homarus americanus,American lobster,267,159797,NA
+BOF2014001.025.D,Myoxocephalus octodecemspinosus,longhorn sculpin,35,3143,NA
+BOF2014001.026.D,Cancer irroratus,rock crab,9,967,NA
+BOF2014001.001.D,Osmerus mordax,smelt,16,448,NA
+BOF2014001.002.D,Melanogrammus aeglefinus,haddock,6,26,NA
+BOF2014001.003.D,Clupea harengus,herring,5,101,NA
+BOF2014001.004.D,Doryteuthis pealeii,longfin inshore squid,6,175,NA
+BOF2014001.005.D,Placopecten magellanicus,deep sea scallop,3,160,NA
+BOF2014001.006.D,Spisula solidissima,surf clam,30,533,NA
+BOF2014001.007.D,Pandalus borealis,northern shrimp,1,16,NA
+BOF2014001.008.D,Pandalus montagui,Montague shrimp,2,20,NA
+BOF2014001.009.D,Clinocardium ciliatum,Iceland cockle,1,6,NA
+BOF2014001.01.D,Ctenodiscus crispatus,mud star,1,11,NA
+BOF2014001.011.D,Aurelia aurita,moon jelly,15,1429,NA
+BOF2014001.012.D,Cryptacanthodes maculatus,wrymouth,1,73,NA
+BOF2014001.013.D,Cyclopterus lumpus,lumpfish,1,439,NA
+BOF2014001.014.D,Pseudopleuronectes americanus,winter flounder,362,20598,NA
+BOF2014001.015.D,Alosa pseudoharengus,alewife,28,218,NA
+BOF2014001.016.D,Merluccius bilinearis,silver hake,427,27294,NA
+BOF2014001.017.D,Peprilus triacanthus,butterfish,12,962,NA
+BOF2014001.018.D,Scophthalmus aquosus,windowpane flounder,23,1866,NA
+BOF2014001.019.D,Urophycis chuss,red hake,19,608,NA
+BOF2014001.02.A,Homarus americanus,American lobster,21,8671,NA
+BOF2014001.021.A,Cancer irroratus,rock crab,3,353,NA
+BOF2014001.022.A,Strongylocentrotus droebachiensis,green sea urchin,13,415,NA
+BOF2014001.001.A,Melanogrammus aeglefinus,haddock,8,139,NA
+BOF2014001.002.A,Doryteuthis pealeii,longfin inshore squid,3,109,NA
+BOF2014001.003.A,Crangon septemspinosa,sand shrimp,2,8,NA
+BOF2014001.004.A,Cucumaria frondosa,orange-footed sea cucumber,4,750,NA
+BOF2014001.005.A,Cyclopterus lumpus,lumpfish,3,570,NA
+BOF2014001.006.A,Alosa pseudoharengus,alewife,61,2603,NA
+BOF2014001.007.A,Merluccius bilinearis,silver hake,20,913,NA
+BOF2014001.001.A,Pseudopleuronectes americanus,winter flounder,12,363,NA
+BOF2014001.002.A,Myoxocephalus aenaeus,little sculpin,1,67,NA
+BOF2014001.003.A,Pandalus montagui,Montague shrimp,12,30,NA
+BOF2014001.004.A,Henricia sanguinolenta,blood star,1,1,NA
+BOF2014001.005.A,Bolinopsis infundibulum,comb jelly,9,12,NA
+BOF2014001.006.B,Placopecten magellanicus,deep sea scallop,2,7,NA
+BOF2014001.007.B,Mercenaria mercenaria,quahog,8,116,NA
+BOF2014001.008.B,Styela montereyensis,stalked tunicate,4,180,NA
+BOF2014001.009.B,Asterias vulgaris,northern sea star,6,430,NA
+BOF2014001.001.B,Cancer irroratus,rock crab,1,120,NA
+BOF2014001.002.B,Strongylocentrotus droebachiensis,green sea urchin,8,182,NA
+BOF2014001.003.B,Pandalus borealis,northern shrimp,10,114,NA
+BOF2014001.004.B,Doryteuthis pealeii,longfin inshore squid,1,48,NA
+BOF2014001.005.B,Alosa pseudoharengus,alewife,10,647,NA
+BOF2014001.006.B,Clupea harengus,herring,1,27,NA
+BOF2014001.007.B,Osmerus mordax,smelt,4,134,NA
+BOF2014001.008.B,Pollachius virens,pollock,1,13,NA
+BOF2014001.009.B,Melanogrammus aeglefinus,haddock,2,19,NA
+BOF2014001.01.B,Hippoglossoides platessoides,American plaice,4,79,NA
+BOF2014001.011.B,Crangon septemspinosa,sand shrimp,1,3,NA
+BOF2014001.012.B,Pandalus montagui,Montague shrimp,118,414,NA
+BOF2014001.001.B,Aurelia aurita,moon jelly,5,111,NA
+BOF2014001.002.B,Cyclopterus lumpus,lumpfish,1,165,NA
+BOF2014001.003.B,Pseudopleuronectes americanus,winter flounder,419,19079,NA
+BOF2014001.004.B,Peprilus triacanthus,butterfish,24,1311,NA
+BOF2014001.005.B,Scophthalmus aquosus,windowpane flounder,19,1112,NA
+BOF2014001.006.B,Merluccius bilinearis,silver hake,268,16369,NA
+BOF2014001.007.B,Urophycis chuss,red hake,45,1649,NA
+BOF2014001.008.B,Homarus americanus,American lobster,480,320582,NA
+BOF2014001.009.B,Cancer irroratus,rock crab,8,950,NA
+BOF2014001.01.B,Cancer borealis,Jonah crab,2,199,NA
+BOF2014001.011.B,Placopecten magellanicus,deep sea scallop,29,1234,NA
+BOF2014001.012.B,Scomber scombrus,mackerel,1,260,NA
+BOF2014001.013.B,Myoxocephalus octodecemspinosus,longhorn sculpin,22,2044,NA
+BOF2014001.014.B,Doryteuthis pealeii,longfin inshore squid,5,228,NA
+BOF2014001.015.A,Homarus americanus,American lobster,11,7087,NA
+BOF2014001.016.A,Cancer irroratus,rock crab,3,353,NA
+BOF2014001.017.A,Placopecten magellanicus,deep sea scallop,6,228,NA
+BOF2014001.018.A,Cucumaria frondosa,orange-footed sea cucumber,2,622,NA
+BOF2014001.019.A,Crangon septemspinosa,sand shrimp,5,21,NA
+BOF2014001.001.A,Urophycis tenuis,white hake,2,197,NA
+BOF2014001.002.A,Peprilus triacanthus,butterfish,2,87,NA
+BOF2014001.003.A,Clupea harengus,herring,1,39,NA
+BOF2014001.004.A,Mercenaria mercenaria,quahog,1,4,NA
+BOF2014001.005.A,Pandalus montagui,Montague shrimp,1,4,NA
+BOF2014001.006.A,Urophycis chuss,red hake,11,429,NA
+BOF2014001.007.A,Pseudopleuronectes americanus,winter flounder,63,2498,NA
+BOF2014001.008.A,Alosa pseudoharengus,alewife,34,2374,NA
+BOF2014001.009.A,Myoxocephalus octodecemspinosus,longhorn sculpin,1,330,NA
+BOF2014001.01.A,Merluccius bilinearis,silver hake,195,10546,NA
+BOF2014001.011.C,Homarus americanus,American lobster,49,55529,NA
+BOF2014001.012.C,Cancer irroratus,rock crab,1,396,NA
+BOF2014001.013.C,Cancer borealis,Jonah crab,1,118,NA
+BOF2014001.014.C,Placopecten magellanicus,deep sea scallop,8,426,NA
+BOF2014001.015.C,Mercenaria mercenaria,quahog,13,182,NA
+BOF2014001.016.C,Clinocardium ciliatum,Iceland cockle,1,0.5,NA
+BOF2014001.017.C,Styela montereyensis,stalked tunicate,5,88,NA
+BOF2014001.018.C,Leucoraja erinacea,little skate,1,728,NA
+BOF2014001.019.C,Osmerus mordax,smelt,2,48,NA
+BOF2014001.02.C,Alosa pseudoharengus,alewife,6,254,NA
+BOF2014001.001.C,Scophthalmus aquosus,windowpane flounder,5,219,NA
+BOF2014001.002.C,Urophycis chuss,red hake,11,597,NA
+BOF2014001.003.C,Doryteuthis pealeii,longfin inshore squid,3,123,NA
+BOF2014001.004.C,Myoxocephalus octodecemspinosus,longhorn sculpin,2,176,NA
+BOF2014001.005.C,Peprilus triacanthus,butterfish,1,71,NA
+BOF2014001.006.C,Asterias vulgaris,northern sea star,4,193,NA
+BOF2014001.007.C,Crangon septemspinosa,sand shrimp,4,12,NA
+BOF2014001.008.C,Merluccius bilinearis,silver hake,90,4495,NA
+BOF2014001.009.C,Clupea harengus,herring,356,8279,NA
+BOF2014001.01.C,Pseudopleuronectes americanus,winter flounder,215,7998,NA
+BOF2014001.011.B,Cucumaria frondosa,orange-footed sea cucumber,38,9732,NA
+BOF2014001.012.B,Homarus americanus,American lobster,292,63113,NA
+BOF2014001.013.B,Cancer irroratus,rock crab,2,197,NA
+BOF2014001.014.B,Strongylocentrotus droebachiensis,green sea urchin,52,1159,NA
+BOF2014001.015.B,Hyas araneus,Atlantic lyre crab,1,4,NA
+BOF2014001.016.B,Pandalus montagui,Montague shrimp,53,191,NA
+BOF2014001.017.B,Asterias vulgaris,northern sea star,2,74,NA
+BOF2014001.018.B,Scomber scombrus,mackerel,2,416,NA
+BOF2014001.019.B,Doryteuthis pealeii,longfin inshore squid,1,100,NA
+BOF2014001.02.B,Osmerus mordax,smelt,4,236,NA
+BOF2014001.021.B,Alosa pseudoharengus,alewife,1,25,NA
+BOF2014001.022.B,Myoxocephalus octodecemspinosus,longhorn sculpin,2,109,NA
+BOF2014001.001.B,Triglops murrayi,moustache sculpin,1,15,NA
+BOF2014001.002.B,Aurelia aurita,moon jelly,1,21,NA
+BOF2014001.003.B,Merluccius bilinearis,silver hake,6,390,NA
+BOF2014001.004.B,Pseudopleuronectes americanus,winter flounder,42,1574,NA
+BOF2014001.005.B,Clupea harengus,herring,114,2989,NA
+BOF2014001.006.D,Alosa pseudoharengus,alewife,148,4262,NA
+BOF2014001.007.D,Pseudopleuronectes americanus,winter flounder,454,41439,NA
+BOF2014001.008.D,Urophycis chuss,red hake,3,136,NA
+BOF2014001.009.D,Melanogrammus aeglefinus,haddock,5,56,NA
+BOF2014001.01.D,Urophycis tenuis,white hake,22,1182,NA
+BOF2014001.011.D,Myoxocephalus octodecemspinosus,longhorn sculpin,1,204,NA
+BOF2014001.012.D,Scophthalmus aquosus,windowpane flounder,1,70,NA
+BOF2014001.013.D,Doryteuthis pealeii,longfin inshore squid,1,102,NA
+BOF2014001.014.D,Aurelia aurita,moon jelly,1,34,NA
+BOF2014001.015.D,Pandalus montagui,Montague shrimp,44,128,NA
+BOF2014001.016.D,Ctenodiscus crispatus,mud star,2,16,NA
+BOF2014001.017.D,Homarus americanus,American lobster,151,116847,NA
+BOF2014001.018.D,Clupea harengus,herring,98,2586,NA
+BOF2014001.019.D,Merluccius bilinearis,silver hake,111,23493,NA
+BOF2014001.02.D,Cancer irroratus,rock crab,5,484,NA
+BOF2014001.021.D,Peprilus triacanthus,butterfish,6,412,NA
+BOF2014001.022.D,Placopecten magellanicus,deep sea scallop,2,16,NA
+BOF2014001.023.D,Hippoglossoides platessoides,American plaice,37,482,NA
+BOF2014001.024.D,Glyptocephalus cynoglossus,witch flounder,4,70,NA
+BOF2014001.025.D,Merluccius bilinearis,silver hake,1897,117004,NA
+BOF2014001.026.D,Homarus americanus,American lobster,3,6670,NA
+BOF2014001.001.D,Clupea harengus,herring,11,332,NA
+BOF2014001.002.D,Peprilus triacanthus,butterfish,4,386,NA
+BOF2014001.003.D,Hippoglossoides platessoides,American plaice,15,592,NA
+BOF2014001.004.D,Scophthalmus aquosus,windowpane flounder,1,192,NA
+BOF2014001.005.D,Alosa pseudoharengus,alewife,9,316,NA
+BOF2014001.006.D,Melanogrammus aeglefinus,haddock,3,302,NA
+BOF2014001.007.D,Urophycis tenuis,white hake,8,708,NA
+BOF2014001.008.D,Cancer irroratus,rock crab,2,120,NA
+BOF2014001.009.D,Pseudopleuronectes americanus,winter flounder,62,16759,NA
+BOF2014001.01.D,Pandalus montagui,Montague shrimp,301,1476,NA
+BOF2014001.011.D,Pandalus borealis,northern shrimp,16,182,NA
+BOF2014001.012.D,Enchelyopus cimbrius,fourbeard rockling,2,138,NA
+BOF2014001.013.D,Ctenodiscus crispatus,mud star,5,40,NA
+BOF2014001.014.D,Crangon septemspinosa,sand shrimp,1,1,NA
+BOF2014001.015.D,Placopecten magellanicus,deep sea scallop,5,27,NA
+BOF2014001.016.D,Gadus morhua,Atlantic cod,1,228,NA
+BOF2014001.017.C,Merluccius bilinearis,silver hake,1095,82425,NA
+BOF2014001.018.C,Peprilus triacanthus,butterfish,51,4048,NA
+BOF2014001.019.C,Alosa pseudoharengus,alewife,160,12818,NA
+BOF2014001.02.C,Glyptocephalus cynoglossus,witch flounder,1,20,NA
+BOF2014001.021.C,Scophthalmus aquosus,windowpane flounder,2,139,NA
+BOF2014001.022.C,Urophycis tenuis,white hake,9,308,NA
+BOF2014001.001.C,Urophycis chuss,red hake,18,1552,NA
+BOF2014001.002.C,Aurelia aurita,moon jelly,2,122,NA
+BOF2014001.003.C,Spisula solidissima,surf clam,2,43,NA
+BOF2014001.004.C,Pseudopleuronectes americanus,winter flounder,110,45403,NA
+BOF2014001.005.C,Clupea harengus,herring,3,75,NA
+BOF2014001.006.C,Homarus americanus,American lobster,26,25255,NA
+BOF2014001.007.C,Cancer irroratus,rock crab,12,1432,NA
+BOF2014001.001.C,Placopecten magellanicus,deep sea scallop,16,514,NA
+BOF2014001.002.C,Ctenodiscus crispatus,mud star,5,26,NA
+BOF2014001.003.C,Doryteuthis pealeii,longfin inshore squid,5,216,NA
+BOF2014001.004.C,Osmerus mordax,smelt,1,55,NA
+BOF2014001.005.C,Lycodes lavalaei,Laval's eelpout,1,163,NA
+BOF2014001.006.C,Prionotus corolinus,northern sea robin,1,235,NA
+BOF2014001.007.C,Pandalus montagui,Montague shrimp,13,52,NA
+BOF2014001.008.B,Pseudopleuronectes americanus,winter flounder,60,2781,NA
+BOF2014001.009.B,Osmerus mordax,smelt,19,6073,NA
+BOF2014001.001.B,Scophthalmus aquosus,windowpane flounder,2,69,NA
+BOF2014001.002.B,Urophycis chuss,red hake,2,102,NA
+BOF2014001.003.B,Urophycis tenuis,white hake,2,120,NA
+BOF2014001.004.B,Alosa sapidissima,shad,2,219,NA
+BOF2014001.005.B,Alosa pseudoharengus,alewife,390,11849,NA
+BOF2014001.006.B,Cyclopterus lumpus,lumpfish,1,423,NA
+BOF2014001.007.B,Peprilus triacanthus,butterfish,15,1323,NA
+BOF2014001.008.B,Clupea harengus,herring,89,2202,NA
+BOF2014001.009.B,Merluccius bilinearis,silver hake,70,5381,NA
+BOF2014001.01.B,Homarus americanus,American lobster,136,76307,NA
+BOF2014001.011.B,Cancer irroratus,rock crab,4,468,NA
+BOF2014001.012.B,Asterias vulgaris,northern sea star,6,433,NA
+BOF2014001.001.B,Placopecten magellanicus,deep sea scallop,1,26,NA
+BOF2014001.002.B,Myoxocephalus octodecemspinosus,longhorn sculpin,3,248,NA
+BOF2014001.003.B,Spisula solidissima,surf clam,1,14,NA
+BOF2014001.004.B,Strongylocentrotus droebachiensis,green sea urchin,1,34,NA
+BOF2014001.005.B,Glyptocephalus cynoglossus,witch flounder,1,38,NA
+BOF2014001.006.B,Hippoglossoides platessoides,American plaice,4,68,NA
+BOF2014001.007.C,Urophycis chuss,red hake,46,4424,NA
+BOF2014001.008.C,Urophycis tenuis,white hake,159,13868,NA
+BOF2014001.009.C,Homarus americanus,American lobster,189,51262,NA
+BOF2014001.01.C,Myoxocephalus octodecemspinosus,longhorn sculpin,329,21334,NA
+BOF2014001.011.C,Hemitripterus americanus,sea raven,1,1154,NA
+BOF2014001.012.C,Cancer irroratus,rock crab,9,1213,NA
+BOF2014001.013.C,Placopecten magellanicus,deep sea scallop,5,171,NA
+BOF2014001.014.C,Melanogrammus aeglefinus,haddock,3,212,NA
+BOF2014001.015.C,Zoarces americanus,ocean pout,4,267,NA
+BOF2014001.016.C,Scophthalmus aquosus,windowpane flounder,9,776,NA
+BOF2014001.017.C,Peprilus triacanthus,butterfish,19,1682,NA
+BOF2014001.018.C,Alosa pseudoharengus,alewife,28,1185,NA
+BOF2014001.019.C,Sebastes fasciatus,Acadian redfish,3,118,NA
+BOF2014001.001.C,Hippoglossoides platessoides,American plaice,3,146,NA
+BOF2014001.002.C,Strongylocentrotus droebachiensis,green sea urchin,3,151,NA
+BOF2014001.003.C,Styela montereyensis,stalked tunicate,3,151,NA
+BOF2014001.004.C,Pandalus montagui,Montague shrimp,3,25,NA
+BOF2014001.005.C,Aphrodita aculeata,sea mouse,3,79,NA
+BOF2014001.006.C,Cucumaria frondosa,orange-footed sea cucumber,42,11176,NA
+BOF2014001.007.C,Amblyraja radiata,thorny skate,3,278,NA
+BOF2014001.008.C,Leucoraja erinacea,little skate,20,1751,NA
+BOF2014001.009.C,Pollachius virens,pollock,1,72,NA
+BOF2014001.01.C,Merluccius bilinearis,silver hake,611,69680,NA
+BOF2014001.011.C,Pseudopleuronectes americanus,winter flounder,1514,114309,NA
+BOF2014001.012.C,Pseudopleuronectes americanus,winter flounder,211,9771,NA
+BOF2014001.013.C,Placopecten magellanicus,deep sea scallop,6,216,NA
+BOF2014001.014.C,Melanogrammus aeglefinus,haddock,12,474,NA
+BOF2014001.015.C,Osmerus mordax,smelt,2,81,NA
+BOF2014001.016.C,Peprilus triacanthus,butterfish,4,361,NA
+BOF2014001.017.C,Hemitripterus americanus,sea raven,1,49,NA
+BOF2014001.018.C,Urophycis tenuis,white hake,1,53,NA
+BOF2014001.019.C,Urophycis chuss,red hake,1,94,NA
+BOF2014001.02.C,Clupea harengus,herring,1,32,NA
+BOF2014001.001.C,Hippoglossoides platessoides,American plaice,2,65,NA
+BOF2014001.002.C,Leucoraja erinacea,little skate,3,148,NA
+BOF2014001.003.C,Pandalus montagui,Montague shrimp,11,40,NA
+BOF2014001.004.C,Asterias vulgaris,northern sea star,1,48,NA
+BOF2014001.005.C,Pseudopleuronectes americanus,winter flounder,38,1721,NA
+BOF2014001.006.C,Homarus americanus,American lobster,256,134712,NA
+BOF2014001.007.C,Cancer borealis,Jonah crab,1,186,NA
+BOF2014001.008.C,Urophycis tenuis,white hake,6,439,NA
+BOF2014001.009.C,Myoxocephalus octodecemspinosus,longhorn sculpin,11,911,NA
+BOF2014001.01.C,Alosa pseudoharengus,alewife,87,3632,NA
+BOF2014001.011.C,Merluccius bilinearis,silver hake,61,6025,NA
+BOF2015001.012.C,Crangon septemspinosa,sand shrimp,10,28,NA
+BOF2015001.013.C,Asterias vulgaris,northern sea star,1,122,NA
+BOF2015001.014.C,Doryteuthis pealeii,longfin inshore squid,2,16,NA
+BOF2015001.015.C,Mercenaria mercenaria,quahog,6,50,NA
+BOF2015001.016.C,Homarus americanus,American lobster,21,10877,NA
+BOF2015001.017.C,Alosa pseudoharengus,alewife,30,780,NA
+BOF2015001.018.C,Osmerus mordax,smelt,48,1182,NA
+BOF2015001.019.C,Myoxocephalus octodecemspinosus,longhorn sculpin,1,82,NA
+BOF2015001.02.D,Merluccius bilinearis,silver hake,124,4685,NA
+BOF2015001.021.D,Hemitripterus americanus,sea raven,3,2475,NA
+BOF2015001.022.D,Enchelyopus cimbrius,fourbeard rockling,10,465,NA
+BOF2015001.001.D,Myoxocephalus octodecemspinosus,longhorn sculpin,3,337,NA
+BOF2015001.002.D,Urophycis chuss,red hake,4,274,NA
+BOF2015001.003.D,Doryteuthis pealeii,longfin inshore squid,1,8,NA
+BOF2015001.004.D,Alosa pseudoharengus,alewife,1,76,NA
+BOF2015001.005.D,Zoarces americanus,ocean pout,1,341,NA
+BOF2015001.006.D,Cancer irroratus,rock crab,1,191,NA
+BOF2015001.007.D,Melanogrammus aeglefinus,haddock,4,240,NA
+BOF2015001.008.D,Sebastes fasciatus,Acadian redfish,1,291,NA
+BOF2015001.009.D,Aspidophoroides monopterygius,Atlantic alligatorfish,3,7,NA
+BOF2015001.01.D,Pandalus montagui,Montague shrimp,913,4291,NA
+BOF2015001.011.D,Aurelia aurita,moon jelly,5,393,NA
+BOF2015001.012.D,Bathypolypus arcticus,deep sea octopus,1,58,NA
+BOF2015001.013.D,Homarus americanus,American lobster,155,96087,NA
+BOF2015001.014.D,Pseudopleuronectes americanus,winter flounder,15,1474,NA
+BOF2015001.015.D,Clupea harengus,herring,8,254,NA
+BOF2015001.016.A,Cyclopterus lumpus,lumpfish,2,229,NA
+BOF2015001.017.A,Alosa pseudoharengus,alewife,3,85,NA
+BOF2015001.018.A,Merluccius bilinearis,silver hake,2,59,NA
+BOF2015001.019.A,Myoxocephalus octodecemspinosus,longhorn sculpin,1,71,NA
+BOF2015001.02.A,Cucumaria frondosa,orange-footed sea cucumber,5,938,NA
+BOF2015001.021.A,Metridium senile,frilled anemone,1,22,NA
+BOF2015001.022.A,Strongylocentrotus droebachiensis,green sea urchin,3,125,NA
+BOF2015001.023.A,Crangon septemspinosa,sand shrimp,1,1,NA
+BOF2015001.024.A,Aurelia aurita,moon jelly,946,86014,NA
+BOF2015001.025.A,Homarus americanus,American lobster,5,2602,NA
+BOF2015001.026.A,Osmerus mordax,smelt,5,141,NA
+BOF2015001.001.A,Pseudopleuronectes americanus,winter flounder,8,242,NA
+BOF2015001.002.B,Homarus americanus,American lobster,58,30506,NA
+BOF2015001.003.B,Pseudopleuronectes americanus,winter flounder,31,1629,NA
+BOF2015001.004.B,Merluccius bilinearis,silver hake,10,404,NA
+BOF2015001.005.B,Scomber scombrus,mackerel,1,136,NA
+BOF2015001.006.B,Peprilus triacanthus,butterfish,2,89,NA
+BOF2015001.007.B,Asterias vulgaris,northern sea star,3,208,NA
+BOF2015001.008.B,Clupea harengus,herring,327,4661,NA
+BOF2015001.009.B,Aurelia aurita,moon jelly,72,6575,NA
+BOF2015001.01.B,Alosa pseudoharengus,alewife,50,4681,NA
+BOF2015001.011.B,Osmerus mordax,smelt,139,3228,NA
+BOF2015001.012.B,Doryteuthis pealeii,longfin inshore squid,113,1919,NA
+BOF2015001.013.B,Myoxocephalus octodecemspinosus,longhorn sculpin,1,68,NA
+BOF2015001.014.B,Scophthalmus aquosus,windowpane flounder,1,84,NA
+BOF2015001.015.B,Crangon septemspinosa,sand shrimp,47,157,NA
+BOF2015001.016.B,Pandalus montagui,Montague shrimp,8,29,NA
+BOF2015001.017.B,Melanogrammus aeglefinus,haddock,1,6,NA
+BOF2015001.018.B,Glyptocephalus cynoglossus,witch flounder,1,18,NA
+BOF2015001.019.B,Urophycis tenuis,white hake,4,162,NA
+BOF2015001.02.B,Boltenia ovifera,stalked sea squirt,1,20,NA
+BOF2015001.021.D,Lophius americanus,monkfish,1,502,NA
+BOF2015001.022.D,Alosa pseudoharengus,alewife,66,6390,NA
+BOF2015001.001.D,Bolinopsis infundibulum,comb jelly,2,3,NA
+BOF2015001.002.D,Aurelia aurita,moon jelly,7,608,NA
+BOF2015001.003.D,Pseudopleuronectes americanus,winter flounder,50,8749,NA
+BOF2015001.004.D,Urophycis chuss,red hake,5,653,NA
+BOF2015001.005.D,Asterias vulgaris,northern sea star,12,1125,NA
+BOF2015001.006.D,Ctenodiscus crispatus,mud star,49,317,NA
+BOF2015001.007.D,Ophiopholis aculeata,daisy brittle star,36,39,NA
+BOF2015001.001.D,Doryteuthis pealeii,longfin inshore squid,8,63,NA
+BOF2015001.002.D,Urophycis tenuis,white hake,2,10,NA
+BOF2015001.003.D,Melanogrammus aeglefinus,haddock,1,5,NA
+BOF2015001.004.D,Osmerus mordax,smelt,1,13,NA
+BOF2015001.005.D,Cancer irroratus,rock crab,1,39,NA
+BOF2015001.006.D,Pandalus montagui,Montague shrimp,98,380,NA
+BOF2015001.007.D,Cyclopterus lumpus,lumpfish,2,1273,NA
+BOF2015001.008.D,Homarus americanus,American lobster,5,1856,NA
+BOF2015001.009.D,Clupea harengus,herring,66,1064,NA
+BOF2015001.001.A,Homarus americanus,American lobster,24,15370,NA
+BOF2015001.002.A,Merluccius bilinearis,silver hake,15,651,NA
+BOF2015001.003.A,Melanogrammus aeglefinus,haddock,5,153,NA
+BOF2015001.004.A,Zoarces americanus,ocean pout,1,93,NA
+BOF2015001.005.A,Scomber scombrus,mackerel,1,173,NA
+BOF2015001.006.A,Peprilus triacanthus,butterfish,26,755,NA
+BOF2015001.007.A,Pseudopleuronectes americanus,winter flounder,17,564,NA
+BOF2015001.008.A,Cyclopterus lumpus,lumpfish,2,270,NA
+BOF2015001.009.A,Cancer irroratus,rock crab,1,42,NA
+BOF2015001.01.A,Placopecten magellanicus,deep sea scallop,4,25,NA
+BOF2015001.011.A,Hyas araneus,Atlantic lyre crab,2,43,NA
+BOF2015001.012.A,Clinocardium ciliatum,Iceland cockle,8,28,NA
+BOF2015001.001.A,Pandalus montagui,Montague shrimp,49,175,NA
+BOF2015001.002.A,Strongylocentrotus droebachiensis,green sea urchin,9,265,NA
+BOF2015001.003.A,Urticina felina,northern red anemone,7,217,NA
+BOF2015001.004.A,Sclerocrangon boreas,sculptured shrimp,9,70,NA
+BOF2015001.005.A,Cucumaria frondosa,orange-footed sea cucumber,17,3565,NA
+BOF2015001.006.A,Aurelia aurita,moon jelly,3,68,NA
+BOF2015001.007.A,Crangon septemspinosa,sand shrimp,8,40,NA
+BOF2015001.008.A,Osmerus mordax,smelt,285,6578,NA
+BOF2015001.009.A,Clupea harengus,herring,163,2927,NA
+BOF2015001.01.A,Alosa pseudoharengus,alewife,315,11014,NA
+BOF2015001.011.A,Doryteuthis pealeii,longfin inshore squid,11,366,NA
+BOF2015001.012.A,Halocynthia pyriformis,sea peach,1,6,NA
+BOF2015001.013.D,Gadus morhua,Atlantic cod,1,1448,NA
+BOF2015001.014.D,Pseudopleuronectes americanus,winter flounder,25,2187,NA
+BOF2015001.015.D,Merluccius bilinearis,silver hake,189,8176,NA
+BOF2015001.016.D,Urophycis tenuis,white hake,14,1521,NA
+BOF2015001.017.D,Urophycis chuss,red hake,8,831,NA
+BOF2015001.018.D,Myoxocephalus octodecemspinosus,longhorn sculpin,7,962,NA
+BOF2015001.019.D,Isodictya sp.,palmate sponge,1,52,NA
+BOF2015001.001.D,Homarus americanus,American lobster,37,15022,NA
+BOF2015001.002.D,Alosa pseudoharengus,alewife,11,590,NA
+BOF2015001.003.D,Osmerus mordax,smelt,7,178,NA
+BOF2015001.004.D,Clupea harengus,herring,9,196,NA
+BOF2015001.005.D,Peprilus triacanthus,butterfish,3,72,NA
+BOF2015001.006.D,Enchelyopus cimbrius,fourbeard rockling,12,502,NA
+BOF2015001.007.D,Hyas araneus,Atlantic lyre crab,5,30,NA
+BOF2015001.008.D,Placopecten magellanicus,deep sea scallop,2,10,NA
+BOF2015001.009.D,unidentified bivalve sp.,unidentified bivalve,2,10,NA
+BOF2015001.01.D,Microgadus tomcod,Atlantic tomcod,1,6,NA
+BOF2015001.011.D,Melanogrammus aeglefinus,haddock,1,10,NA
+BOF2015001.012.D,Pandalus montagui,Montague shrimp,667,3734,NA
+BOF2015001.013.D,Boltenia ovifera,stalked sea squirt,1,54,NA
+BOF2015001.014.D,Unidentified tunicate,Unidentified tunicate,2,42,NA
+BOF2015001.015.D,Bolinopsis infundibulum,comb jelly,3,12,NA
+BOF2015001.016.D,Aurelia aurita,moon jelly,3,86,NA
+BOF2015001.017.D,Staurostoma mertensii,whitecross jelly,10,198,NA
+BOF2015001.018.D,Homarus americanus,American lobster,10,7886,NA
+BOF2015001.019.D,Placopecten magellanicus,deep sea scallop,2,32,NA
+BOF2015001.02.D,Peprilus triacanthus,butterfish,44,1491,NA
+BOF2015001.001.D,Alosa pseudoharengus,alewife,17,726,NA
+BOF2015001.002.D,Lophius americanus,monkfish,1,442,NA
+BOF2015001.003.D,Hyas araneus,Atlantic lyre crab,2,88,NA
+BOF2015001.004.D,Cancer irroratus,rock crab,1,52,NA
+BOF2015001.005.D,Urophycis chuss,red hake,12,720,NA
+BOF2015001.006.D,Urophycis tenuis,white hake,3,55,NA
+BOF2015001.007.D,Alosa sapidissima,shad,1,62,NA
+BOF2015001.008.D,Doryteuthis pealeii,longfin inshore squid,3,159,NA
+BOF2015001.009.D,Pandalus montagui,Montague shrimp,116,629,NA
+BOF2015001.01.D,Ctenodiscus crispatus,mud star,23,190,NA
+BOF2015001.011.D,Aurelia aurita,moon jelly,3,110,NA
+BOF2015001.012.D,Staurostoma mertensii,whitecross jelly,2,55,NA
+BOF2015001.013.D,Hippoglossus hippoglossus,Atlantic halibut,1,4180,NA
+BOF2015001.014.D,Cyanea capillata,lion's mane jelly,3,5985,NA
+BOF2015001.015.D,Hippoglossoides platessoides,American plaice,46,3105,NA
+BOF2015001.016.D,Pseudopleuronectes americanus,winter flounder,21,4668,NA
+BOF2015001.017.D,Merluccius bilinearis,silver hake,32,2754,NA
+BOF2015001.018.D,Clupea harengus,herring,312,7509,NA
+BOF2015001.019.C,Scomber scombrus,mackerel,26,4234,NA
+BOF2015001.02.C,Merluccius bilinearis,silver hake,28,1423,NA
+BOF2015001.021.C,Clupea harengus,herring,551,7690,NA
+BOF2015001.022.C,Myoxocephalus octodecemspinosus,longhorn sculpin,3,309,NA
+BOF2015001.001.C,Peprilus triacanthus,butterfish,5,151,NA
+BOF2015001.002.C,Doryteuthis pealeii,longfin inshore squid,9,302,NA
+BOF2015001.003.C,Melanogrammus aeglefinus,haddock,1,15,NA
+BOF2015001.004.C,Urophycis chuss,red hake,4,283,NA
+BOF2015001.005.C,Homarus americanus,American lobster,36,27646,NA
+BOF2015001.006.C,Osmerus mordax,smelt,18,515,NA
+BOF2015001.007.C,Alosa pseudoharengus,alewife,157,9605,NA
+BOF2015001.008.C,Pseudopleuronectes americanus,winter flounder,73,3805,NA
+BOF2015001.009.C,Urophycis tenuis,white hake,3,80,NA
+BOF2015001.01.C,Crangon septemspinosa,sand shrimp,1,2,NA
+BOF2015001.011.C,Ophiopholis aculeata,daisy brittle star,4,4,NA
+BOF2015001.012.C,unidentified encrusting sponge,unidentified encrusting sponge,21,1815,NA
+BOF2015001.013.C,Aurelia aurita,moon jelly,2,58,NA
+BOF2015001.014.C,Mercenaria mercenaria,quahog,6,79,NA
+BOF2015001.015.C,Clinocardium ciliatum,Iceland cockle,2,15,NA
+BOF2015001.016.C,Cancer borealis,Jonah crab,1,315,NA
+BOF2015001.017.C,Cancer irroratus,rock crab,5,548,NA
+BOF2015001.018.C,Homarus americanus,American lobster,28,30668,NA
+BOF2015001.019.C,Alosa pseudoharengus,alewife,13,635,NA
+BOF2015001.02.C,Clupea harengus,herring,503,8074,NA
+BOF2015001.021.C,Pseudopleuronectes americanus,winter flounder,191,9154,NA
+BOF2015001.022.C,Peprilus triacanthus,butterfish,5,176,NA
+BOF2015001.023.C,Scomber scombrus,mackerel,4,682,NA
+BOF2015001.024.C,Paralichthys dentatus,summer flounder,2,347,NA
+BOF2015001.025.C,Scophthalmus aquosus,windowpane flounder,2,199,NA
+BOF2015001.026.C,Melanogrammus aeglefinus,haddock,2,15,NA
+BOF2015001.001.C,Hippoglossoides platessoides,American plaice,1,28,NA
+BOF2015001.002.C,Urophycis chuss,red hake,2,382,NA
+BOF2015001.003.C,Crangon septemspinosa,sand shrimp,3,11,NA
+BOF2015001.004.C,Aurelia aurita,moon jelly,12,329,NA
+BOF2015001.005.C,Merluccius bilinearis,silver hake,49,2801,NA
+BOF2015001.006.C,Osmerus mordax,smelt,44,1471,NA
+BOF2015001.007.C,Doryteuthis pealeii,longfin inshore squid,1,43,NA
+BOF2015001.008.C,Myoxocephalus octodecemspinosus,longhorn sculpin,1,160,NA
+BOF2015001.009.C,Asterias vulgaris,northern sea star,5,542,NA
+BOF2015001.01.C,unidentified encrusting sponge,unidentified encrusting sponge,1,95,NA
+BOF2015001.011.C,Clinocardium ciliatum,Iceland cockle,1,8,NA
+BOF2015001.012.C,Cancer irroratus,rock crab,8,890,NA
+BOF2015001.013.B,Scomber scombrus,mackerel,24,3860,NA
+BOF2015001.014.B,Clupea harengus,herring,60,1129,NA
+BOF2015001.015.B,Peprilus triacanthus,butterfish,205,6535,NA
+BOF2015001.016.B,Doryteuthis pealeii,longfin inshore squid,63,2439,NA
+BOF2015001.017.B,Pseudopleuronectes americanus,winter flounder,50,3617,NA
+BOF2015001.018.B,Asterias vulgaris,northern sea star,4,412,NA
+BOF2015001.019.B,Cuaudina arenata,rat-tailed sea cucumber,1,19,NA
+BOF2015001.02.B,Crangon septemspinosa,sand shrimp,14,41,NA
+BOF2015001.021.B,Pandalus montagui,Montague shrimp,2,5,NA
+BOF2015001.022.B,Mercenaria mercenaria,quahog,6,90,NA
+BOF2015001.001.B,Placopecten magellanicus,deep sea scallop,1,250,NA
+BOF2015001.002.B,Cancer irroratus,rock crab,2,110,NA
+BOF2015001.003.B,Aurelia aurita,moon jelly,6,120,NA
+BOF2015001.004.B,Alosa sapidissima,shad,2,305,NA
+BOF2015001.005.B,Urophycis tenuis,white hake,1,151,NA
+BOF2015001.006.B,Urophycis chuss,red hake,1,260,NA
+BOF2015001.007.B,Merluccius bilinearis,silver hake,5,609,NA
+BOF2015001.001.B,Homarus americanus,American lobster,107,53811,NA
+BOF2015001.002.B,Osmerus mordax,smelt,28,857,NA
+BOF2015001.003.B,Alosa pseudoharengus,alewife,255,24732,NA
+BOF2015001.004.B,Homarus americanus,American lobster,290,100607,NA
+BOF2015001.005.B,Alosa pseudoharengus,alewife,200,25238,NA
+BOF2015001.006.B,Pseudopleuronectes americanus,winter flounder,233,11906,NA
+BOF2015001.007.B,Urophycis tenuis,white hake,104,2179,NA
+BOF2015001.008.B,Cancer irroratus,rock crab,4,882,NA
+BOF2015001.009.B,Urophycis chuss,red hake,31,735,NA
+BOF2015001.001.B,Peprilus triacanthus,butterfish,38,1695,NA
+BOF2015001.002.B,Osmerus mordax,smelt,77,1463,NA
+BOF2015001.003.B,Myoxocephalus octodecemspinosus,longhorn sculpin,88,6797,NA
+BOF2015001.004.B,Pandalus montagui,Montague shrimp,1568,6585,NA
+BOF2015001.005.B,Scophthalmus aquosus,windowpane flounder,5,91,NA
+BOF2015001.006.B,Hippoglossoides platessoides,American plaice,7,289,NA
+BOF2015001.007.B,Sebastes fasciatus,Acadian redfish,1,22,NA
+BOF2015001.008.B,Zoarces americanus,ocean pout,1,32,NA
+BOF2015001.009.B,Doryteuthis pealeii,longfin inshore squid,25,828,NA
+BOF2015001.01.B,Cucumaria frondosa,orange-footed sea cucumber,1936,85475,NA
+BOF2015001.011.B,Pandalus borealis,northern shrimp,9,107,NA
+BOF2015001.012.B,Henricia sanguinolenta,blood star,2,3,NA
+BOF2015001.001.B,Strongylocentrotus droebachiensis,green sea urchin,25,933,NA
+BOF2015001.002.B,Asterias vulgaris,northern sea star,2,155,NA
+BOF2015001.003.B,Aurelia aurita,moon jelly,5,210,NA
+BOF2015001.004.B,Mercenaria mercenaria,quahog,1,16,NA
+BOF2015001.005.B,Crangon septemspinosa,sand shrimp,33,100,NA
+BOF2015001.006.B,Placopecten magellanicus,deep sea scallop,25,74,NA
+BOF2015001.007.A,Homarus americanus,American lobster,3,617,NA
+BOF2015001.008.A,Cancer irroratus,rock crab,1,77,NA
+BOF2015001.009.A,Alosa pseudoharengus,alewife,179,8656,NA
+BOF2015001.01.A,Cucumaria frondosa,orange-footed sea cucumber,2,325,NA
+BOF2015001.011.A,Triglops murrayi,moustache sculpin,1,6,NA
+BOF2015001.012.A,Osmerus mordax,smelt,431,11500,NA
+BOF2015001.013.A,Pseudopleuronectes americanus,winter flounder,4,133,NA
+BOF2015001.014.A,Merluccius bilinearis,silver hake,6,248,NA
+BOF2015001.015.A,Sclerocrangon boreas,sculptured shrimp,1,9,NA
+BOF2015001.016.A,Metridium senile,frilled anemone,3,98,NA
+BOF2015001.017.A,Doryteuthis pealeii,longfin inshore squid,17,675,NA
+BOF2015001.018.A,Urticina felina,northern red anemone,1,8,NA
+BOF2015001.019.A,Strongylocentrotus droebachiensis,green sea urchin,9,250,NA
+BOF2015001.001.D,Pandalus montagui,Montague shrimp,115,367,NA
+BOF2015001.002.D,Alosa pseudoharengus,alewife,100,2585,NA
+BOF2015001.003.D,Clupea harengus,herring,48,880,NA
+BOF2015001.004.D,Hippoglossoides platessoides,American plaice,4,173,NA
+BOF2015001.005.D,Scophthalmus aquosus,windowpane flounder,1,78,NA
+BOF2015001.006.D,Melanogrammus aeglefinus,haddock,3,35,NA
+BOF2015001.007.D,Alosa sapidissima,shad,1,79,NA
+BOF2015001.008.D,Scomber scombrus,mackerel,1,186,NA
+BOF2015001.009.D,Urophycis tenuis,white hake,3,306,NA
+BOF2015001.01.D,Glyptocephalus cynoglossus,witch flounder,1,12,NA
+BOF2015001.011.D,Doryteuthis pealeii,longfin inshore squid,1,62,NA
+BOF2015001.012.D,Merluccius bilinearis,silver hake,17,1289,NA
+BOF2015001.013.D,Clupea harengus,herring,20,566,NA
+BOF2015001.014.D,Peprilus triacanthus,butterfish,34,1169,NA
+BOF2015001.015.D,Urophycis tenuis,white hake,36,1766,NA
+BOF2015001.016.D,Pandalus montagui,Montague shrimp,2021,7530,NA
+BOF2015001.017.D,Cuaudina arenata,rat-tailed sea cucumber,1,7,NA
+BOF2015001.018.D,Pandalus borealis,northern shrimp,27,187,NA
+BOF2015001.019.D,Homarus americanus,American lobster,13,19312,NA
+BOF2015001.02.D,Merluccius bilinearis,silver hake,39,2417,NA
+BOF2015001.001.D,Pseudopleuronectes americanus,winter flounder,15,3326,NA
+BOF2015001.002.D,Cancer borealis,Jonah crab,2,328,NA
+BOF2015001.003.D,Cancer irroratus,rock crab,2,398,NA
+BOF2015001.004.D,Myoxocephalus octodecemspinosus,longhorn sculpin,1,241,NA
+BOF2015001.005.D,Melanogrammus aeglefinus,haddock,7,472,NA
+BOF2015001.006.D,Enchelyopus cimbrius,fourbeard rockling,1,38,NA
+BOF2015001.007.D,Alosa pseudoharengus,alewife,6,247,NA
+BOF2015001.008.D,Reinhardtius hippoglossoides,Greenland halibut,1,165,NA
+BOF2015001.009.D,Hippoglossoides platessoides,American plaice,27,994,NA
+BOF2015001.01.D,Placopecten magellanicus,deep sea scallop,2,3,NA
+BOF2015001.011.D,Ophiopholis aculeata,daisy brittle star,1,2,NA
+BOF2015001.012.D,Ctenodiscus crispatus,mud star,2,6,NA
+BOF2015001.013.D,Microgadus tomcod,Atlantic tomcod,1,25,NA
+BOF2015001.014.D,Merluccius bilinearis,silver hake,537,33844,NA
+BOF2015001.015.D,Urophycis tenuis,white hake,32,1825,NA
+BOF2015001.016.D,Clupea harengus,herring,11,933,NA
+BOF2015001.017.D,Pandalus borealis,northern shrimp,24,202,NA
+BOF2015001.018.D,Pandalus montagui,Montague shrimp,376,1864,NA
+BOF2015001.019.D,Ctenodiscus crispatus,mud star,2,9,NA
+BOF2015001.02.D,Ophiopholis aculeata,daisy brittle star,45,44,NA
+BOF2015001.021.D,Placopecten magellanicus,deep sea scallop,5,30,NA
+BOF2015001.022.D,Bolinopsis infundibulum,comb jelly,1,1,NA
+BOF2015001.001.D,Cyclopterus lumpus,lumpfish,2,251,NA
+BOF2015001.002.D,Homarus americanus,American lobster,10,13985,NA
+BOF2015001.003.D,Myoxocephalus octodecemspinosus,longhorn sculpin,13,2422,NA
+BOF2015001.004.D,Hemitripterus americanus,sea raven,1,246,NA
+BOF2015001.005.D,Peprilus triacanthus,butterfish,6,722,NA
+BOF2015001.006.D,Hippoglossoides platessoides,American plaice,7,340,NA
+BOF2015001.007.D,Alosa sapidissima,shad,1,146,NA
+BOF2015001.008.D,Doryteuthis pealeii,longfin inshore squid,1,120,NA
+BOF2015001.009.D,Cancer irroratus,rock crab,2,89,NA
+BOF2015001.01.D,Hyas coarctatus,Atlantic lyre crab,1,3,NA
+BOF2015001.011.D,Sebastes fasciatus,Acadian redfish,2,509,NA
+BOF2015001.012.D,Alosa pseudoharengus,alewife,31,2084,NA
+BOF2015001.013.D,Melanogrammus aeglefinus,haddock,3,61,NA
+BOF2015001.014.D,Urophycis chuss,red hake,2,163,NA
+BOF2015001.015.D,Glyptocephalus cynoglossus,witch flounder,1,89,NA
+BOF2015001.016.D,Zoarces americanus,ocean pout,1,160,NA
+BOF2015001.017.D,Microgadus tomcod,Atlantic tomcod,1,7,NA
+BOF2015001.018.D,Pseudopleuronectes americanus,winter flounder,67,9661,NA
+BOF2015001.019.A,Homarus americanus,American lobster,28,14286,NA
+BOF2015001.02.A,Cancer irroratus,rock crab,3,362,NA
+BOF2015001.021.A,Cancer borealis,Jonah crab,1,160,NA
+BOF2015001.022.A,Hyas coarctatus,Atlantic lyre crab,2,21,NA
+BOF2015001.023.A,Placopecten magellanicus,deep sea scallop,2,363,NA
+BOF2015001.024.A,Cucumaria frondosa,orange-footed sea cucumber,5,870,NA
+BOF2015001.025.A,Strongylocentrotus droebachiensis,green sea urchin,14,488,NA
+BOF2015001.026.A,Metridium senile,frilled anemone,2,61,NA
+BOF2015001.001.A,Urticina felina,northern red anemone,2,68,NA
+BOF2015001.002.A,Myoxocephalus octodecemspinosus,longhorn sculpin,1,25,NA
+BOF2015001.003.A,Zoarces americanus,ocean pout,1,77,NA
+BOF2015001.004.A,Urophycis tenuis,white hake,1,58,NA
+BOF2015001.005.A,Urophycis chuss,red hake,1,31,NA
+BOF2015001.006.A,Peprilus triacanthus,butterfish,1,41,NA
+BOF2015001.007.A,Melanogrammus aeglefinus,haddock,1,36,NA
+BOF2015001.008.A,Pseudopleuronectes americanus,winter flounder,3,67,NA
+BOF2015001.009.A,Sclerocrangon boreas,sculptured shrimp,19,180,NA
+BOF2015001.01.A,Pollachius virens,pollock,1,26,NA
+BOF2015001.011.A,Microgadus tomcod,Atlantic tomcod,1,26,NA
+BOF2015001.012.A,Crangon septemspinosa,sand shrimp,1,4,NA
+BOF2015001.013.A,Pandalus montagui,Montague shrimp,4,12,NA
+BOF2015001.014.A,Lepiodonotus squamatus,scale worm,1,1,NA
+BOF2015001.015.A,unidentified polychaete,unidentified polychaete,1,1,NA
+BOF2015001.016.A,Pseudopleuronectes americanus,winter flounder,6,167,NA
+BOF2015001.017.A,Doryteuthis pealeii,longfin inshore squid,42,1984,NA
+BOF2015001.018.A,Alosa pseudoharengus,alewife,320,11852,NA
+BOF2015001.019.A,Osmerus mordax,smelt,597,20701,NA
+BOF2015001.02.A,Merluccius bilinearis,silver hake,67,4605,NA
+BOF2015001.021.C,Scomber scombrus,mackerel,7,1351,NA
+BOF2015001.022.C,Pseudopleuronectes americanus,winter flounder,124,8195,NA
+BOF2015001.001.C,Merluccius bilinearis,silver hake,202,17409,NA
+BOF2015001.002.C,Alosa pseudoharengus,alewife,894,71531,NA
+BOF2015001.003.C,Cyclopterus lumpus,lumpfish,1,338,NA
+BOF2015001.004.C,Homarus americanus,American lobster,47,41456,NA
+BOF2015001.005.C,Cancer irroratus,rock crab,4,604,NA
+BOF2015001.006.C,Cancer borealis,Jonah crab,1,216,NA
+BOF2015001.007.C,Placopecten magellanicus,deep sea scallop,1,92,NA
+BOF2015001.001.C,Hyas coarctatus,Atlantic lyre crab,2,18,NA
+BOF2015001.002.C,Peprilus triacanthus,butterfish,10,488,NA
+BOF2015001.003.C,Osmerus mordax,smelt,18,626,NA
+BOF2015001.004.C,Scophthalmus aquosus,windowpane flounder,1,69,NA
+BOF2015001.005.C,Doryteuthis pealeii,longfin inshore squid,7,325,NA
+BOF2015001.006.C,Clupea harengus,herring,1,22,NA
+BOF2015001.007.C,Melanogrammus aeglefinus,haddock,1,38,NA
+BOF2015001.008.C,Urophycis chuss,red hake,19,1073,NA
+BOF2015001.009.C,Urophycis tenuis,white hake,12,621,NA
+BOF2015001.001.C,Halichondria sp.,Halichondria sp.,4,278,NA
+BOF2015001.002.C,Ctenodiscus crispatus,mud star,2,7,NA
+BOF2015001.003.C,Sclerocrangon boreas,sculptured shrimp,1,3,NA
+BOF2015001.004.B,Homarus americanus,American lobster,117,76300,NA
+BOF2015001.005.B,Cancer irroratus,rock crab,3,259,NA
+BOF2015001.006.B,Myoxocephalus octodecemspinosus,longhorn sculpin,8,852,NA
+BOF2015001.007.B,Alosa sapidissima,shad,4,371,NA
+BOF2015001.008.B,Melanogrammus aeglefinus,haddock,1,42,NA
+BOF2015001.009.B,Scophthalmus aquosus,windowpane flounder,7,247,NA
+BOF2015001.01.B,Urophycis chuss,red hake,12,537,NA
+BOF2015001.011.B,Urophycis tenuis,white hake,10,541,NA
+BOF2015001.012.B,Doryteuthis pealeii,longfin inshore squid,8,268,NA
+BOF2015001.001.B,Halichondria sp.,Halichondria sp.,1,207,NA
+BOF2015001.002.B,Merluccius bilinearis,silver hake,9,758,NA
+BOF2015001.003.B,Peprilus triacanthus,butterfish,131,3271,NA
+BOF2015001.004.B,Alosa pseudoharengus,alewife,959,38381,NA
+BOF2015001.005.B,Pseudopleuronectes americanus,winter flounder,65,3819,NA
+BOF2015001.006.B,Crangon septemspinosa,sand shrimp,28,84,NA
+BOF2015001.007.B,Pandalus montagui,Montague shrimp,14,52,NA
+BOF2015001.008.B,Microgadus tomcod,Atlantic tomcod,1,12,NA
+BOF2015001.009.B,Clupea harengus,herring,5,102,NA
+BOF2015001.01.B,Asterias vulgaris,northern sea star,1,16,NA
+BOF2015001.011.B,Mercenaria mercenaria,quahog,3,28,NA
+BOF2015001.012.B,Placopecten magellanicus,deep sea scallop,1,4,NA
+BOF2015001.013.B,Osmerus mordax,smelt,39,994,NA
+BOF2015001.014.D,Malacoraja senta,smooth skate,1,215,NA
+BOF2015001.015.D,Peprilus triacanthus,butterfish,1,53,NA
+BOF2015001.016.D,Clupea harengus,herring,30,369,NA
+BOF2015001.017.D,Enchelyopus cimbrius,fourbeard rockling,1,23,NA
+BOF2015001.018.D,Urophycis chuss,red hake,1,3,NA
+BOF2015001.019.D,Urophycis tenuis,white hake,2,626,NA
+BOF2015001.001.D,Merluccius bilinearis,silver hake,2,74,NA
+BOF2015001.002.D,Pseudopleuronectes americanus,winter flounder,1,291,NA
+BOF2015001.003.D,Henricia sanguinolenta,blood star,1,2,NA
+BOF2015001.004.D,Sclerocrangon boreas,sculptured shrimp,1,7,NA
+BOF2015001.005.D,Metridium senile,frilled anemone,1,20,NA
+BOF2015001.006.D,Boltenia ovifera,stalked sea squirt,1,14,NA
+BOF2015001.007.D,Pandalus montagui,Montague shrimp,29,102,NA
+BOF2015001.008.D,Bolinopsis infundibulum,comb jelly,2,3,NA
+BOF2015001.009.D,Homarus americanus,American lobster,15,7984,NA
+BOF2015001.01.D,Alosa pseudoharengus,alewife,55,2145,NA
+BOF2015001.011.D,Homarus americanus,American lobster,216,134556,NA
+BOF2015001.012.D,Malacoraja senta,smooth skate,1,375,NA
+BOF2015001.013.D,Sebastes fasciatus,Acadian redfish,3,105,NA
+BOF2015001.014.D,Enchelyopus cimbrius,fourbeard rockling,7,321,NA
+BOF2015001.015.D,Doryteuthis pealeii,longfin inshore squid,2,148,NA
+BOF2015001.016.D,Cancer irroratus,rock crab,1,88,NA
+BOF2015001.017.D,Peprilus triacanthus,butterfish,3,179,NA
+BOF2015001.018.D,Clupea harengus,herring,1,33,NA
+BOF2015001.019.D,Melanogrammus aeglefinus,haddock,1,43,NA
+BOF2015001.02.D,Microgadus tomcod,Atlantic tomcod,3,198,NA
+BOF2015001.001.D,Scophthalmus aquosus,windowpane flounder,1,59,NA
+BOF2015001.002.D,unidentified encrusting sponge,unidentified encrusting sponge,1,192,NA
+BOF2015001.003.D,Merluccius bilinearis,silver hake,47,5028,NA
+BOF2015001.004.D,Bathypolypus arcticus,deep sea octopus,3,75,NA
+BOF2015001.005.D,Myoxocephalus octodecemspinosus,longhorn sculpin,25,3929,NA
+BOF2015001.006.D,Pseudopleuronectes americanus,winter flounder,153,15499,NA
+BOF2015001.007.D,Aspidophoroides monopterygius,Atlantic alligatorfish,2,5,NA
+BOF2015001.008.D,Urophycis chuss,red hake,3,215,NA
+BOF2015001.009.D,Crangon septemspinosa,sand shrimp,1,1,NA
+BOF2015001.01.D,Pandalus montagui,Montague shrimp,103,506,NA
+BOF2015001.011.D,Palmate sp.,Palmate sp.,1,9,NA
+BOF2015001.012.D,Urophycis tenuis,white hake,84,6362,NA
+BOF2015001.013.B,Homarus americanus,American lobster,597,486532,NA
+BOF2015001.014.B,Myoxocephalus octodecemspinosus,longhorn sculpin,131,9840,NA
+BOF2015001.015.B,Pseudopleuronectes americanus,winter flounder,410,21744,NA
+BOF2015001.016.B,Urophycis chuss,red hake,1,78,NA
+BOF2015001.017.B,Urophycis tenuis,white hake,183,12574,NA
+BOF2015001.018.B,Cancer borealis,Jonah crab,1,476,NA
+BOF2015001.019.B,Leucoraja ocellata,winter skate,1,403,NA
+BOF2015001.02.B,Leucoraja erinacea,little skate,7,319,NA
+BOF2015001.021.B,Hippoglossoides platessoides,American plaice,2,91,NA
+BOF2015001.022.B,Alosa pseudoharengus,alewife,2,73,NA
+BOF2015001.001.B,Hemitripterus americanus,sea raven,1,12,NA
+BOF2015001.002.B,Pandalus montagui,Montague shrimp,117,482,NA
+BOF2015001.003.B,Pandalus borealis,northern shrimp,1,7,NA
+BOF2015001.004.B,Pseudopleuronectes americanus,winter flounder,5,145,NA
+BOF2015001.005.B,Merluccius bilinearis,silver hake,9,1006,NA
+BOF2015001.006.B,Urophycis tenuis,white hake,1,28,NA
+BOF2015001.007.B,Microgadus tomcod,Atlantic tomcod,1,43,NA
+BOF2015001.008.B,Asterias vulgaris,northern sea star,2,42,NA
+BOF2015001.009.B,Strongylocentrotus droebachiensis,green sea urchin,29,1167,NA
+BOF2015001.01.B,unidentified encrusting sponge,unidentified encrusting sponge,2,119,NA
+BOF2016001.011.C,Alosa pseudoharengus,alewife,1,46,NA
+BOF2016001.012.C,Melanogrammus aeglefinus,haddock,1,7,NA
+BOF2016001.013.C,Crangon septemspinosa,sand shrimp,1,3,NA
+BOF2016001.014.C,Pandalus montagui,Montague shrimp,29,86,NA
+BOF2016001.015.C,Nephtys incisa,Nephtys incisa,1,3,NA
+BOF2016001.016.C,Chrysaora quinquecirrha,sea nettle,1,29,NA
+BOF2016001.017.C,Clupea harengus,herring,59,1198,NA
+BOF2016001.018.D,Pandalus borealis,northern shrimp,18,170,NA
+BOF2016001.019.D,Homarus americanus,American lobster,14,8696,NA
+BOF2016001.02.D,Ctenodiscus crispatus,mud star,6,52,NA
+BOF2016001.021.D,Cancer irroratus,rock crab,1,101,NA
+BOF2016001.022.D,Peprilus triacanthus,butterfish,10,456,NA
+BOF2016001.023.D,Lophius americanus,monkfish,1,478,NA
+BOF2016001.024.D,Osmerus mordax,smelt,1,34,NA
+BOF2016001.025.D,Urophycis tenuis,white hake,2,154,NA
+BOF2016001.026.D,Urophycis chuss,red hake,1,48,NA
+BOF2016001.001.D,Doryteuthis pealeii,longfin inshore squid,3,115,NA
+BOF2016001.002.D,Illex illecebrosus,shortfin squid,2,12,NA
+BOF2016001.003.D,Aurelia aurita,moon jelly,5,281,NA
+BOF2016001.004.D,Bolinopsis infundibulum,comb jelly,2,3,NA
+BOF2016001.005.D,Pseudopleuronectes americanus,winter flounder,47,8262,NA
+BOF2016001.006.D,Pandalus montagui,Montague shrimp,392,1003,NA
+BOF2016001.007.D,Clupea harengus,herring,111,3533,NA
+BOF2016001.008.D,Alosa pseudoharengus,alewife,13,566,NA
+BOF2016001.009.D,Hippoglossoides platessoides,American plaice,36,1653,NA
+BOF2016001.01.D,Merluccius bilinearis,silver hake,487,14636,NA
+BOF2016001.011.D,Homarus americanus,American lobster,18,14149,NA
+BOF2016001.012.D,Pandalus borealis,northern shrimp,6,68,NA
+BOF2016001.013.D,Ophiopholis aculeata,daisy brittle star,17,27,NA
+BOF2016001.014.D,Ctenodiscus crispatus,mud star,2,4,NA
+BOF2016001.015.D,Placopecten magellanicus,deep sea scallop,3,8,NA
+BOF2016001.016.D,Peprilus triacanthus,butterfish,3,124,NA
+BOF2016001.017.D,Hippoglossoides platessoides,American plaice,6,180,NA
+BOF2016001.018.D,Rajella bathyphilus,deepwater ray,1,103,NA
+BOF2016001.019.D,Leucoraja erinacea,little skate,2,7,NA
+BOF2016001.02.D,Enchelyopus cimbrius,fourbeard rockling,1,53,NA
+BOF2016001.021.D,Urophycis tenuis,white hake,8,1255,NA
+BOF2016001.022.D,Urophycis chuss,red hake,2,48,NA
+BOF2016001.001.D,Doryteuthis pealeii,longfin inshore squid,1,52,NA
+BOF2016001.002.D,Illex illecebrosus,shortfin squid,1,10,NA
+BOF2016001.003.D,Alosa pseudoharengus,alewife,1,135,NA
+BOF2016001.004.D,Melanogrammus aeglefinus,haddock,1,74,NA
+BOF2016001.005.D,Sebastes fasciatus,Acadian redfish,5,256,NA
+BOF2016001.006.D,Aurelia aurita,moon jelly,7,341,NA
+BOF2016001.007.D,Asterias vulgaris,northern sea star,1,3,NA
+BOF2016001.001.D,Unidentified sponge,Unidentified sponge,1,2,NA
+BOF2016001.002.D,Clupea harengus,herring,8,546,NA
+BOF2016001.003.D,Myoxocephalus octodecemspinosus,longhorn sculpin,2,309,NA
+BOF2016001.004.D,Hemitripterus americanus,sea raven,2,2338,NA
+BOF2016001.005.D,Zoarces americanus,ocean pout,2,546,NA
+BOF2016001.006.D,Merluccius bilinearis,silver hake,346,13837,NA
+BOF2016001.007.D,Pseudopleuronectes americanus,winter flounder,31,5914,NA
+BOF2016001.008.D,Pandalus montagui,Montague shrimp,309,1522,NA
+BOF2016001.009.B,Homarus americanus,American lobster,122,51385,NA
+BOF2016001.001.B,Cancer irroratus,rock crab,5,720,NA
+BOF2016001.002.B,Myoxocephalus octodecemspinosus,longhorn sculpin,12,1481,NA
+BOF2016001.003.B,Osmerus mordax,smelt,12,436,NA
+BOF2016001.004.B,Clupea harengus,herring,11,422,NA
+BOF2016001.005.B,Gadus morhua,Atlantic cod,1,160,NA
+BOF2016001.006.B,Doryteuthis pealeii,longfin inshore squid,4,134,NA
+BOF2016001.007.B,Leucoraja erinacea,little skate,1,209,NA
+BOF2016001.008.B,Peprilus triacanthus,butterfish,1,73,NA
+BOF2016001.009.B,Hippoglossoides platessoides,American plaice,4,160,NA
+BOF2016001.01.B,Scophthalmus aquosus,windowpane flounder,2,94,NA
+BOF2016001.011.B,Myoxocephalus octodecemspinosus,longhorn sculpin,1,15,NA
+BOF2016001.012.B,Urophycis tenuis,white hake,3,298,NA
+BOF2016001.001.B,Urophycis chuss,red hake,2,74,NA
+BOF2016001.002.B,Mytilus edulis,blue mussel,1,32,NA
+BOF2016001.003.B,encrusting sponge,encrusting sponge,1,135,NA
+BOF2016001.004.B,Pseudopleuronectes americanus,winter flounder,88,8342,NA
+BOF2016001.005.B,Alosa pseudoharengus,alewife,59,8093,NA
+BOF2016001.006.B,Merluccius bilinearis,silver hake,680,20431,NA
+BOF2016001.007.B,Cucumaria frondosa,orange-footed sea cucumber,13,3878,NA
+BOF2016001.008.B,Aurelia aurita,moon jelly,154,4154,NA
+BOF2016001.009.B,Pandalus borealis,northern shrimp,210,1716,NA
+BOF2016001.01.B,Pandalus montagui,Montague shrimp,457,1794,NA
+BOF2016001.011.A,Homarus americanus,American lobster,20,10610,NA
+BOF2016001.012.A,Cancer irroratus,rock crab,1,150,NA
+BOF2016001.013.A,Placopecten magellanicus,deep sea scallop,4,5,NA
+BOF2016001.014.A,Mercenaria mercenaria,quahog,2,12,NA
+BOF2016001.015.A,Myoxocephalus octodecemspinosus,longhorn sculpin,1,98,NA
+BOF2016001.016.A,Lophius americanus,monkfish,1,127,NA
+BOF2016001.017.A,Unidentified cucumber,Unidentified cucumber,1,503,NA
+BOF2016001.018.A,Doryteuthis pealeii,longfin inshore squid,2,150,NA
+BOF2016001.019.A,Sebastes fasciatus,Acadian redfish,1,9,NA
+BOF2016001.001.A,Alosa pseudoharengus,alewife,1,111,NA
+BOF2016001.002.A,Urophycis tenuis,white hake,9,320,NA
+BOF2016001.003.A,Urophycis chuss,red hake,9,543,NA
+BOF2016001.004.A,Unidentified sponge,Unidentified sponge,1,254,NA
+BOF2016001.005.A,Pandalus montagui,Montague shrimp,1,2,NA
+BOF2016001.006.A,Clinocardium ciliatum,Iceland cockle,1,8,NA
+BOF2016001.007.A,Pseudopleuronectes americanus,winter flounder,92,4508,NA
+BOF2016001.008.A,Merluccius bilinearis,silver hake,450,22037,NA
+BOF2016001.009.D,Homarus americanus,American lobster,319,221397,NA
+BOF2016001.01.D,Cancer irroratus,rock crab,1,247,NA
+BOF2016001.011.D,Urophycis chuss,red hake,1,42,NA
+BOF2016001.012.D,Merluccius bilinearis,silver hake,3122,156100,NA
+BOF2016001.013.D,Doryteuthis pealeii,longfin inshore squid,8,357,NA
+BOF2016001.014.D,Illex illecebrosus,shortfin squid,1,30,NA
+BOF2016001.015.D,Pseudopleuronectes americanus,winter flounder,139,8152,NA
+BOF2016001.016.D,Myoxocephalus octodecemspinosus,longhorn sculpin,2,193,NA
+BOF2016001.017.D,Lophius americanus,monkfish,1,325,NA
+BOF2016001.018.D,Peprilus triacanthus,butterfish,15,690,NA
+BOF2016001.019.D,Gadus morhua,Atlantic cod,2,203,NA
+BOF2016001.02.D,Pollachius virens,pollock,1,303,NA
+BOF2016001.001.D,Alosa pseudoharengus,alewife,3,282,NA
+BOF2016001.002.D,Clupea harengus,herring,2,170,NA
+BOF2016001.003.D,Melanogrammus aeglefinus,haddock,1,12,NA
+BOF2016001.004.D,Urophycis chuss,red hake,3,140,NA
+BOF2016001.005.D,Asterias vulgaris,northern sea star,2,134,NA
+BOF2016001.006.D,Pandalus montagui,Montague shrimp,5,17,NA
+BOF2016001.007.D,Unidentified sponge,Unidentified sponge,1,9,NA
+BOF2016001.008.D,Homarus americanus,American lobster,31,17635,NA
+BOF2016001.009.D,Lophius americanus,monkfish,2,654,NA
+BOF2016001.01.D,Hippoglossoides platessoides,American plaice,25,964,NA
+BOF2016001.011.D,Glyptocephalus cynoglossus,witch flounder,1,16,NA
+BOF2016001.012.D,Scomber scombrus,mackerel,4,330,NA
+BOF2016001.013.D,Urophycis tenuis,white hake,1,104,NA
+BOF2016001.014.D,Clupea harengus,herring,10,435,NA
+BOF2016001.015.D,Alosa pseudoharengus,alewife,3,170,NA
+BOF2016001.016.D,Melanogrammus aeglefinus,haddock,1,24,NA
+BOF2016001.017.D,Doryteuthis pealeii,longfin inshore squid,1,34,NA
+BOF2016001.018.D,Cuaudina arenata,rat-tailed sea cucumber,1,14,NA
+BOF2016001.019.D,Pandalus borealis,northern shrimp,4,38,NA
+BOF2016001.02.D,Pandalus montagui,Montague shrimp,55,166,NA
+BOF2016001.021.D,Ctenodiscus crispatus,mud star,2,12,NA
+BOF2016001.022.D,Astarte castanea,chestnut astarte,4,36,NA
+BOF2016001.001.D,Pseudopleuronectes americanus,winter flounder,33,5969,NA
+BOF2016001.002.D,Merluccius bilinearis,silver hake,2485,134200,NA
+BOF2016001.003.A,Homarus americanus,American lobster,29,14888,NA
+BOF2016001.004.A,Merluccius bilinearis,silver hake,70,3584,NA
+BOF2016001.005.A,Osmerus mordax,smelt,2,104,NA
+BOF2016001.006.A,Ophiopholis aculeata,daisy brittle star,282,355,NA
+BOF2016001.007.A,Pseudopleuronectes americanus,winter flounder,8,247,NA
+BOF2016001.008.A,Alosa sapidissima,shad,1,126,NA
+BOF2016001.009.A,Hippoglossoides platessoides,American plaice,9,153,NA
+BOF2016001.01.A,Myoxocephalus octodecemspinosus,longhorn sculpin,3,69,NA
+BOF2016001.011.A,Sclerocrangon boreas,sculptured shrimp,2,23,NA
+BOF2016001.012.A,Lebbeus groenlandicus,Greenland shrimp,2,19,NA
+BOF2016001.013.A,Pandalus montagui,Montague shrimp,1,2,NA
+BOF2016001.014.A,Hyas coarctatus,lesser toad crab,1,20,NA
+BOF2016001.015.A,Cancer irroratus,rock crab,2,133,NA
+BOF2016001.016.A,Hemitripterus americanus,sea raven,1,140,NA
+BOF2016001.017.A,Doryteuthis pealeii,longfin inshore squid,1,31,NA
+BOF2016001.018.A,Ctenodiscus crispatus,mud star,14,75,NA
+BOF2016001.019.C,Squalus acanthias,spiny dogfish,7,12854,NA
+BOF2016001.02.C,Pseudopleuronectes americanus,winter flounder,200,14618,NA
+BOF2016001.021.C,Merluccius bilinearis,silver hake,219,11424,NA
+BOF2016001.022.C,Myoxocephalus octodecemspinosus,longhorn sculpin,12,1130,NA
+BOF2016001.023.C,Lophius americanus,monkfish,2,1106,NA
+BOF2016001.024.C,Scophthalmus aquosus,windowpane flounder,3,338,NA
+BOF2016001.025.C,Osmerus mordax,smelt,1,24,NA
+BOF2016001.026.C,Asterias vulgaris,northern sea star,6,654,NA
+BOF2016001.001.C,Pandalus montagui,Montague shrimp,10,22,NA
+BOF2016001.002.C,Doryteuthis pealeii,longfin inshore squid,2,94,NA
+BOF2016001.003.C,Suberites ficus,fig sponge,1,96,NA
+BOF2016001.004.C,Clinocardium ciliatum,Iceland cockle,3,10,NA
+BOF2016001.005.C,Mercenaria mercenaria,quahog,4,54,NA
+BOF2016001.006.C,Homarus americanus,American lobster,50,43502,NA
+BOF2016001.007.C,Cancer borealis,Jonah crab,1,530,NA
+BOF2016001.008.C,Cancer irroratus,rock crab,5,544,NA
+BOF2016001.009.C,Hyas coarctatus,lesser toad crab,1,18,NA
+BOF2016001.01.C,Peprilus triacanthus,butterfish,16,725,NA
+BOF2016001.011.C,Urophycis tenuis,white hake,17,1581,NA
+BOF2016001.012.C,Urophycis chuss,red hake,11,732,NA
+BOF2016001.013.D,Homarus americanus,American lobster,107,79400,NA
+BOF2016001.014.D,Pseudopleuronectes americanus,winter flounder,115,21152,NA
+BOF2016001.015.D,Cyclopterus lumpus,lumpfish,1,180,NA
+BOF2016001.016.D,Peprilus triacanthus,butterfish,11,534,NA
+BOF2016001.017.D,Hemitripterus americanus,sea raven,1,1052,NA
+BOF2016001.018.D,Myoxocephalus octodecemspinosus,longhorn sculpin,6,833,NA
+BOF2016001.019.D,Gadus morhua,Atlantic cod,2,308,NA
+BOF2016001.02.D,Lycodes lavalaei,Laval's eelpout,1,180,NA
+BOF2016001.021.D,Hippoglossoides platessoides,American plaice,1,26,NA
+BOF2016001.022.D,Scophthalmus aquosus,windowpane flounder,1,23,NA
+BOF2016001.001.D,Leucoraja erinacea,little skate,1,66,NA
+BOF2016001.002.D,Clupea harengus,herring,2,207,NA
+BOF2016001.003.D,Cancer irroratus,rock crab,1,20,NA
+BOF2016001.004.D,Doryteuthis pealeii,longfin inshore squid,5,234,NA
+BOF2016001.005.D,Asterias vulgaris,northern sea star,7,577,NA
+BOF2016001.006.D,Pandalus montagui,Montague shrimp,18,74,NA
+BOF2016001.007.D,Urophycis tenuis,white hake,38,5070,NA
+BOF2016001.001.D,Urophycis chuss,red hake,9,465,NA
+BOF2016001.002.D,Merluccius bilinearis,silver hake,3556,177813,NA
+BOF2016001.003.B,Homarus americanus,American lobster,95,45676,NA
+BOF2016001.004.B,Merluccius bilinearis,silver hake,261,11248,NA
+BOF2016001.005.B,Rajella bathyphilus,deepwater ray,1,31,NA
+BOF2016001.006.B,Peprilus triacanthus,butterfish,4,233,NA
+BOF2016001.007.B,Asterias vulgaris,northern sea star,1,141,NA
+BOF2016001.008.B,Alosa pseudoharengus,alewife,1,67,NA
+BOF2016001.009.B,Osmerus mordax,smelt,3,117,NA
+BOF2016001.001.B,Urophycis tenuis,white hake,1,91,NA
+BOF2016001.002.B,Doryteuthis pealeii,longfin inshore squid,13,606,NA
+BOF2016001.003.B,Crangon septemspinosa,sand shrimp,1,4,NA
+BOF2016001.004.B,Pseudopleuronectes americanus,winter flounder,53,4164,NA
+BOF2016001.005.B,Scophthalmus aquosus,windowpane flounder,2,175,NA
+BOF2016001.006.C,Homarus americanus,American lobster,80,63656,NA
+BOF2016001.007.C,Pseudopleuronectes americanus,winter flounder,233,11213,NA
+BOF2016001.008.C,Merluccius bilinearis,silver hake,23,1709,NA
+BOF2016001.009.C,Asterias vulgaris,northern sea star,2,132,NA
+BOF2016001.01.C,Suberites ficus,fig sponge,2,118,NA
+BOF2016001.011.C,Pandalus montagui,Montague shrimp,8,18,NA
+BOF2016001.012.C,Crangon septemspinosa,sand shrimp,1,2,NA
+BOF2016001.001.C,Clinocardium ciliatum,Iceland cockle,8,22,NA
+BOF2016001.002.C,Astarte castanea,chestnut astarte,8,148,NA
+BOF2016001.003.C,Mercenaria mercenaria,quahog,6,52,NA
+BOF2016001.004.C,Pitar morrhuanus,false quahog,6,22,NA
+BOF2016001.005.C,Leucoraja erinacea,little skate,1,230,NA
+BOF2016001.006.C,Cyclopterus lumpus,lumpfish,1,148,NA
+BOF2016001.007.C,Scophthalmus aquosus,windowpane flounder,6,349,NA
+BOF2016001.008.C,Myoxocephalus octodecemspinosus,longhorn sculpin,7,739,NA
+BOF2016001.009.C,Cancer irroratus,rock crab,4,950,NA
+BOF2016001.01.C,Scomber scombrus,mackerel,1,118,NA
+BOF2016001.011.C,Peprilus triacanthus,butterfish,2,77,NA
+BOF2016001.012.C,Melanogrammus aeglefinus,haddock,1,32,NA
+BOF2016001.013.C,Doryteuthis pealeii,longfin inshore squid,4,136,NA
+BOF2016001.014.C,Urophycis chuss,red hake,11,920,NA
+BOF2016001.015.C,Urophycis tenuis,white hake,11,486,NA
+BOF2016001.016.C,Pseudopleuronectes americanus,winter flounder,490,44531,NA
+BOF2016001.017.C,Merluccius bilinearis,silver hake,703,50627,NA
+BOF2016001.018.C,Homarus americanus,American lobster,89,80532,NA
+BOF2016001.019.C,Leucoraja erinacea,little skate,3,397,NA
+BOF2016001.001.C,Leucoraja ocellata,winter skate,1,118,NA
+BOF2016001.002.C,Cancer irroratus,rock crab,7,1053,NA
+BOF2016001.003.C,Cancer borealis,Jonah crab,1,182,NA
+BOF2016001.004.C,Myoxocephalus octodecemspinosus,longhorn sculpin,83,2311,NA
+BOF2016001.005.C,Lophius americanus,monkfish,1,110,NA
+BOF2016001.006.C,Hemitripterus americanus,sea raven,12,5281,NA
+BOF2016001.007.C,Cucumaria frondosa,orange-footed sea cucumber,18,5430,NA
+BOF2016001.008.C,Unidentified sponge,Unidentified sponge,40,3850,NA
+BOF2016001.009.C,Hippoglossoides platessoides,American plaice,10,541,NA
+BOF2016001.01.C,Zoarces americanus,ocean pout,2,120,NA
+BOF2016001.011.C,Doryteuthis pealeii,longfin inshore squid,5,299,NA
+BOF2016001.012.C,Asterias vulgaris,northern sea star,14,900,NA
+BOF2016001.013.C,Myoxocephalus octodecemspinosus,longhorn sculpin,2,170,NA
+BOF2016001.014.C,Pandalus montagui,Montague shrimp,109,380,NA
+BOF2016001.015.C,Crangon septemspinosa,sand shrimp,1,10,NA
+BOF2016001.016.C,Clinocardium ciliatum,Iceland cockle,1,10,NA
+BOF2016001.017.C,Astarte castanea,chestnut astarte,1,16,NA
+BOF2016001.018.C,Strongylocentrotus droebachiensis,green sea urchin,2,14,NA
+BOF2016001.019.C,Urophycis chuss,red hake,62,3895,NA
+BOF2016001.02.C,Urophycis tenuis,white hake,29,1024,NA
+BOF2016001.001.B,Leucoraja erinacea,little skate,3,1247,NA
+BOF2016001.002.B,Homarus americanus,American lobster,321,156627,NA
+BOF2016001.003.B,Myoxocephalus octodecemspinosus,longhorn sculpin,278,19158,NA
+BOF2016001.004.B,Scophthalmus aquosus,windowpane flounder,10,1481,NA
+BOF2016001.005.B,Sebastes fasciatus,Acadian redfish,1,265,NA
+BOF2016001.006.B,Hemitripterus americanus,sea raven,2,104,NA
+BOF2016001.007.B,Doryteuthis pealeii,longfin inshore squid,13,699,NA
+BOF2016001.008.B,Pandalus montagui,Montague shrimp,54,260,NA
+BOF2016001.009.B,Pandalus borealis,northern shrimp,7,89,NA
+BOF2016001.01.B,Asterias vulgaris,northern sea star,3,300,NA
+BOF2016001.011.B,Strongylocentrotus droebachiensis,green sea urchin,1,10,NA
+BOF2016001.012.B,Alosa pseudoharengus,alewife,7,822,NA
+BOF2016001.013.B,Zoarces americanus,ocean pout,2,119,NA
+BOF2016001.014.B,Peprilus triacanthus,butterfish,10,499,NA
+BOF2016001.015.B,Cancer irroratus,rock crab,1,125,NA
+BOF2016001.016.B,Hippoglossoides platessoides,American plaice,8,234,NA
+BOF2016001.017.B,Suberites ficus,fig sponge,3,380,NA
+BOF2016001.018.B,Cucumaria frondosa,orange-footed sea cucumber,97,25600,NA
+BOF2016001.019.B,Urophycis chuss,red hake,29,1944,NA
+BOF2016001.02.B,Urophycis tenuis,white hake,58,1813,NA
+BOF2016001.021.B,Pseudopleuronectes americanus,winter flounder,311,17716,NA
+BOF2016001.022.A,Homarus americanus,American lobster,33,13348,NA
+BOF2016001.001.A,Gadus morhua,Atlantic cod,1,25,NA
+BOF2016001.002.A,Scomber scombrus,mackerel,1,97,NA
+BOF2016001.003.A,Hemitripterus americanus,sea raven,2,183,NA
+BOF2016001.004.A,Myoxocephalus octodecemspinosus,longhorn sculpin,2,58,NA
+BOF2016001.005.A,Aspidophoroides monopterygius,Atlantic alligatorfish,2,8,NA
+BOF2016001.006.A,Cucumaria frondosa,orange-footed sea cucumber,2,478,NA
+BOF2016001.007.A,Asterias vulgaris,northern sea star,1,34,NA
+BOF2016001.008.A,Unidentified sea spider,Unidentified sea spider,1,1,NA
+BOF2016001.009.A,Doryteuthis pealeii,longfin inshore squid,3,143,NA
+BOF2016001.01.A,Cancer irroratus,rock crab,1,79,NA
+BOF2016001.011.A,Sclerocrangon boreas,sculptured shrimp,23,111,NA
+BOF2016001.012.A,Pandalus montagui,Montague shrimp,7,12,NA
+BOF2016001.013.A,Merluccius bilinearis,silver hake,13,707,NA
+BOF2016001.014.A,Pseudopleuronectes americanus,winter flounder,15,520,NA
+BOF2016001.015.A,Lebbeus groenlandicus,Greenland shrimp,1,1,NA
+BOF2016001.016.D,Homarus americanus,American lobster,574,433940,NA
+BOF2016001.017.D,Cyclopterus lumpus,lumpfish,2,341,NA
+BOF2016001.018.D,Hippoglossus hippoglossus,Atlantic halibut,1,1405,NA
+BOF2016001.019.D,Myoxocephalus octodecemspinosus,longhorn sculpin,7,1948,NA
+BOF2016001.02.D,Cancer borealis,Jonah crab,3,598,NA
+BOF2016001.021.D,Scomber scombrus,mackerel,28,6506,NA
+BOF2016001.022.D,Clupea harengus,herring,9,534,NA
+BOF2016001.023.D,Doryteuthis pealeii,longfin inshore squid,51,1950,NA
+BOF2016001.024.D,Myoxocephalus scorpius,shorthorn sculpin,1,8,NA
+BOF2016001.025.D,Colus stimpsoni,Stimpson's whelk,1,8,NA
+BOF2016001.026.D,Hyas coarctatus,lesser toad crab,1,2,NA
+BOF2016001.001.D,Hemitripterus americanus,sea raven,2,323,NA
+BOF2016001.002.D,Gadus morhua,Atlantic cod,1,103,NA
+BOF2016001.003.D,Urophycis chuss,red hake,1,44,NA
+BOF2016001.004.D,Hyas araneus,toad crab,2,2,NA
+BOF2016001.005.D,Asterias vulgaris,northern sea star,2,46,NA
+BOF2016001.006.D,Pandalus montagui,Montague shrimp,2,5,NA
+BOF2016001.007.D,Sclerocrangon boreas,sculptured shrimp,1,1,NA
+BOF2016001.008.D,Clinocardium ciliatum,Iceland cockle,1,10,NA
+BOF2016001.009.D,Strongylocentrotus droebachiensis,green sea urchin,2,2,NA
+BOF2016001.01.D,Crangon septemspinosa,sand shrimp,1,3,NA
+BOF2016001.011.D,Pseudopleuronectes americanus,winter flounder,277,18240,NA
+BOF2016001.012.D,Melanogrammus aeglefinus,haddock,232,6491,NA
+BOF2016001.013.D,Merluccius bilinearis,silver hake,128,8293,NA
+BOF2016001.014.D,Homarus americanus,American lobster,17,18226,NA
+BOF2016001.015.D,Peprilus triacanthus,butterfish,5,348,NA
+BOF2016001.016.D,Alosa pseudoharengus,alewife,3,192,NA
+BOF2016001.017.D,Clupea harengus,herring,2,98,NA
+BOF2016001.018.D,Zoarces americanus,ocean pout,1,64,NA
+BOF2016001.019.D,Enchelyopus cimbrius,fourbeard rockling,1,30,NA
+BOF2016001.02.D,Urophycis chuss,red hake,1,62,NA
+BOF2016001.021.D,Ctenodiscus crispatus,mud star,4,28,NA
+BOF2016001.022.D,Pseudopleuronectes americanus,winter flounder,10,1318,NA
+BOF2016001.001.D,Lophius americanus,monkfish,1,284,NA
+BOF2016001.002.D,Hippoglossoides platessoides,American plaice,18,1108,NA
+BOF2016001.003.D,Ophiopholis aculeata,daisy brittle star,3,5,NA
+BOF2016001.004.D,Astarte castanea,chestnut astarte,2,48,NA
+BOF2016001.005.D,Arctica islandica,black clam,5,40,NA
+BOF2016001.006.D,Megayoldia thraciaeformis,broad yoldia,3,37,NA
+BOF2016001.007.D,Pandalus montagui,Montague shrimp,255,2764,NA
+BOF2016001.001.D,Pandalus borealis,northern shrimp,103,1459,NA
+BOF2016001.002.D,Squalus acanthias,spiny dogfish,1,2020,NA
+BOF2016001.003.D,Urophycis tenuis,white hake,11,2137,NA
+BOF2016001.004.D,Merluccius bilinearis,silver hake,445,27547,NA
+BOF2016001.005.D,Homarus americanus,American lobster,53,33210,NA
+BOF2016001.006.D,Cancer borealis,Jonah crab,1,115,NA
+BOF2016001.007.D,Alosa pseudoharengus,alewife,11,532,NA
+BOF2016001.008.D,Peprilus triacanthus,butterfish,3,196,NA
+BOF2016001.009.D,Alosa sapidissima,shad,1,118,NA
+BOF2016001.001.D,Hippoglossoides platessoides,American plaice,3,43,NA
+BOF2016001.002.D,Pandalus montagui,Montague shrimp,2,2,NA
+BOF2016001.003.D,Squalus acanthias,spiny dogfish,1,1750,NA
+BOF2016001.004.D,Merluccius bilinearis,silver hake,227,16792,NA
+BOF2016001.005.D,Pseudopleuronectes americanus,winter flounder,29,4200,NA
+BOF2016001.006.D,Urophycis tenuis,white hake,3,418,NA
+BOF2016001.007.D,Ophiopholis aculeata,daisy brittle star,14,14,NA
+BOF2016001.008.D,Ctenodiscus crispatus,mud star,2,18,NA
+BOF2016001.009.D,Squalus acanthias,spiny dogfish,1,1290,NA
+BOF2016001.01.D,Homarus americanus,American lobster,54,60003,NA
+BOF2016001.011.D,Pseudopleuronectes americanus,winter flounder,9,2236,NA
+BOF2016001.012.D,Lophius americanus,monkfish,7,2938,NA
+BOF2016001.001.D,Zoarces americanus,ocean pout,4,980,NA
+BOF2016001.002.D,Peprilus triacanthus,butterfish,9,555,NA
+BOF2016001.003.D,Clupea harengus,herring,2,74,NA
+BOF2016001.004.D,Alosa pseudoharengus,alewife,2,150,NA
+BOF2016001.005.D,Enchelyopus cimbrius,fourbeard rockling,1,12,NA
+BOF2016001.006.D,Doryteuthis pealeii,longfin inshore squid,2,112,NA
+BOF2016001.007.D,Cancer irroratus,rock crab,5,750,NA
+BOF2016001.008.D,Urophycis tenuis,white hake,24,6012,NA
+BOF2016001.009.D,Urophycis chuss,red hake,15,3054,NA
+BOF2016001.01.D,Pandalus montagui,Montague shrimp,587,1854,NA
+BOF2016001.011.D,Pandalus borealis,northern shrimp,65,506,NA
+BOF2016001.012.D,Ophiopholis aculeata,daisy brittle star,21550,29308,NA
+BOF2016001.013.D,Lyonsia hyalina,glassy lyonsia,1,1,NA
+BOF2016001.014.D,Merluccius bilinearis,silver hake,1326,78447,NA
+BOF2016001.015.D,Ctenodiscus crispatus,mud star,145,807,NA
+BOF2016001.016.D,Hippoglossoides platessoides,American plaice,149,5205,NA
+BOF2016001.017.D,Pseudopleuronectes americanus,winter flounder,197,28216,NA
+BOF2016001.018.D,Pandalus montagui,Montague shrimp,480,2495,NA
+BOF2016001.019.D,Lebbeus groenlandicus,Greenland shrimp,1,4,NA
+BOF2016001.001.D,Suberites ficus,fig sponge,6,65,NA
+BOF2016001.002.D,Unidentified sponge,Unidentified sponge,2,35,NA
+BOF2016001.003.D,Aphrodita aculeata,sea mouse,1,6,NA
+BOF2016001.004.D,Halocynthia pyriformis,sea peach,4,24,NA
+BOF2016001.005.D,Hyas coarctatus,lesser toad crab,1,5,NA
+BOF2016001.006.D,Hemitripterus americanus,sea raven,7,7321,NA
+BOF2016001.007.D,Lophius americanus,monkfish,1,357,NA
+BOF2016001.008.D,Myoxocephalus octodecemspinosus,longhorn sculpin,28,4573,NA
+BOF2016001.009.D,Homarus americanus,American lobster,86,47197,NA
+BOF2016001.01.D,Cancer irroratus,rock crab,2,248,NA
+BOF2016001.011.D,Peprilus triacanthus,butterfish,3,168,NA
+BOF2016001.012.D,Enchelyopus cimbrius,fourbeard rockling,3,111,NA
+BOF2016001.013.D,Aspidophoroides monopterygius,Atlantic alligatorfish,1,5,NA
+BOF2016001.014.D,Merluccius bilinearis,silver hake,348,23718,NA
+BOF2016001.015.D,Urophycis chuss,red hake,19,1754,NA
+BOF2016001.016.D,Urophycis tenuis,white hake,18,4137,NA
+BOF2016001.017.D,Melanogrammus aeglefinus,haddock,1,270,NA
+BOF2016001.018.D,Harmothoe imbricata,15-scale worm,1,1,NA
+BOF2016001.019.C,Sebastes fasciatus,Acadian redfish,22,4070,NA
+BOF2016001.02.C,Gadus morhua,Atlantic cod,1,424,NA
+BOF2016001.001.C,Hyas araneus,toad crab,1,68,NA
+BOF2016001.002.C,Suberites ficus,fig sponge,5,1313,NA
+BOF2016001.003.C,Mytilus edulis,blue mussel,14,593,NA
+BOF2016001.004.C,Ciona intestinalis,sea vase,1,104,NA
+BOF2016001.005.C,Boltenia ovifera,stalked sea squirt,1,55,NA
+BOF2016001.006.C,Zoarces americanus,ocean pout,1,164,NA
+BOF2016001.007.C,Homarus americanus,American lobster,31,26945,NA
+BOF2016001.008.C,Cancer irroratus,rock crab,1,244,NA
+BOF2016001.009.C,Urophycis tenuis,white hake,3,438,NA
+BOF2016001.01.C,Asterias vulgaris,northern sea star,2,230,NA
+BOF2016001.011.C,Mytilus edulis,blue mussel,20,1004,NA
+BOF2016001.012.C,Suberites ficus,fig sponge,3,48,NA
+BOF2016001.013.C,Clinocardium ciliatum,Iceland cockle,1,5,NA
+BOF2016001.014.C,Astarte castanea,chestnut astarte,1,5,NA
+BOF2016001.015.C,Mercenaria mercenaria,quahog,1,12,NA
+BOF2016001.016.C,Hiatella arctica,Arctic rock borer,1,2,NA
+BOF2016001.017.C,Pseudopleuronectes americanus,winter flounder,66,5347,NA
+BOF2016001.018.C,Urophycis chuss,red hake,1,136,NA
+BOF2016001.019.C,Gadus morhua,Atlantic cod,1,76,NA
+BOF2016001.02.C,Scomber scombrus,mackerel,1,96,NA
+BOF2016001.021.C,Sebastes fasciatus,Acadian redfish,7,1410,NA
+BOF2016001.022.C,Hippoglossoides platessoides,American plaice,1,23,NA
+BOF2016001.001.C,Doryteuthis pealeii,longfin inshore squid,2,145,NA
+BOF2016001.002.C,Peprilus triacanthus,butterfish,1,54,NA
+BOF2016001.003.C,Myoxocephalus octodecemspinosus,longhorn sculpin,1,118,NA
+BOF2016001.004.C,Scophthalmus aquosus,windowpane flounder,5,528,NA
+BOF2016001.005.C,Crangon septemspinosa,sand shrimp,1,3,NA
+BOF2016001.006.C,Hyas coarctatus,lesser toad crab,1,3,NA
+BOF2016001.007.C,Ciona intestinalis,sea vase,6,22,NA
+BOF2016001.008.C,Harmothoe imbricata,15-scale worm,1,1,NA
+BOF2016001.009.B,Bathypolypus arcticus,deep sea octopus,1,54,NA
+BOF2016001.01.B,Homarus americanus,American lobster,769,427555,NA
+BOF2016001.011.B,Myoxocephalus octodecemspinosus,longhorn sculpin,700,22620,NA
+BOF2016001.012.B,Pseudopleuronectes americanus,winter flounder,377,24492,NA
+BOF2016001.013.B,Zoarces americanus,ocean pout,2,124,NA
+BOF2016001.014.B,Gadus morhua,Atlantic cod,1,416,NA
+BOF2016001.015.B,Scomber scombrus,mackerel,3,359,NA
+BOF2016001.016.B,Alosa pseudoharengus,alewife,19,442,NA
+BOF2016001.017.B,Scophthalmus aquosus,windowpane flounder,23,324,NA
+BOF2016001.018.B,Hippoglossoides platessoides,American plaice,1,40,NA
+BOF2016001.019.B,Asterias vulgaris,northern sea star,3,340,NA
+BOF2016001.02.B,Henricia sanguinolenta,blood star,1,3,NA
+BOF2016001.021.B,Crangon septemspinosa,sand shrimp,2,1,NA
+BOF2016001.022.B,Strongylocentrotus droebachiensis,green sea urchin,45,510,NA
+BOF2016001.023.B,Pandalus montagui,Montague shrimp,30,133,NA
+BOF2016001.024.B,Harmothoe imbricata,15-scale worm,1,1,NA
+BOF2016001.025.B,Cancer irroratus,rock crab,1,46,NA
+BOF2016001.026.B,Hyas araneus,toad crab,1,27,NA
+BOF2016001.001.B,Suberites ficus,fig sponge,1,262,NA
+BOF2016001.002.B,Metridium senile,frilled anemone,1,11,NA
+BOF2016001.003.B,Ciona intestinalis,sea vase,1,1,NA
+BOF2016001.004.B,Urophycis chuss,red hake,46,6114,NA
+BOF2016001.005.B,Squalus acanthias,spiny dogfish,4,7554,NA
+BOF2016001.006.B,Hemitripterus americanus,sea raven,5,2388,NA
+BOF2016001.007.B,Leucoraja erinacea,little skate,10,6329,NA
+BOF2016001.008.B,Cucumaria frondosa,orange-footed sea cucumber,11,2194,NA
+BOF2016001.009.B,Merluccius bilinearis,silver hake,80,7684,NA
+BOF2016001.01.B,Urophycis tenuis,white hake,83,13309,NA
+BOF2016001.011.A,Homarus americanus,American lobster,18,6717,NA
+BOF2016001.012.A,Scomber scombrus,mackerel,55,5402,NA
+BOF2016001.013.A,Alosa pseudoharengus,alewife,372,22338,NA
+BOF2016001.014.A,Merluccius bilinearis,silver hake,35,3645,NA
+BOF2016001.015.A,Zoarces americanus,ocean pout,1,196,NA
+BOF2016001.016.A,Microgadus tomcod,Atlantic tomcod,1,242,NA
+BOF2016001.017.A,Myoxocephalus scorpius,shorthorn sculpin,1,64,NA
+BOF2016001.018.A,Myoxocephalus octodecemspinosus,longhorn sculpin,3,94,NA
+BOF2016001.019.A,Pseudopleuronectes americanus,winter flounder,23,492,NA
+BOF2016001.02.A,Cucumaria frondosa,orange-footed sea cucumber,1,202,NA
+BOF2016001.021.A,Modiolus modiolus,horse mussel,1,160,NA
+BOF2016001.022.A,Osmerus mordax,smelt,7,496,NA
+BOF2016001.001.A,Doryteuthis pealeii,longfin inshore squid,1,94,NA
+BOF2016001.002.A,Sclerocrangon boreas,sculptured shrimp,6,32,NA
+BOF2016001.003.A,Crangon septemspinosa,sand shrimp,47,96,NA
+BOF2016001.004.A,Hyas araneus,toad crab,1,4,NA
+BOF2016001.005.A,Placopecten magellanicus,deep sea scallop,6,36,NA
+BOF2016001.006.A,Pandalus montagui,Montague shrimp,42,124,NA
+BOF2016001.007.A,Henricia sanguinolenta,blood star,1,1,NA
+BOF2016001.001.A,Metridium senile,frilled anemone,1,13,NA
+BOF2016001.002.A,Ciona intestinalis,sea vase,11,53,NA
+BOF2016001.003.D,Homarus americanus,American lobster,176,78553,NA
+BOF2016001.004.D,Myoxocephalus octodecemspinosus,longhorn sculpin,21,2157,NA
+BOF2016001.005.D,Squalus acanthias,spiny dogfish,6,11954,NA
+BOF2016001.006.D,Doryteuthis pealeii,longfin inshore squid,2,214,NA
+BOF2016001.007.D,Gadus morhua,Atlantic cod,1,156,NA
+BOF2016001.008.D,Prionotus corolinus,northern sea robin,2,408,NA
+BOF2016001.009.D,Hemitripterus americanus,sea raven,2,1348,NA
+BOF2016001.001.D,Scophthalmus aquosus,windowpane flounder,1,12,NA
+BOF2016001.002.D,Leucoraja ocellata,winter skate,1,666,NA
+BOF2016001.003.D,Malacoraja senta,smooth skate,1,130,NA
+BOF2016001.004.D,Enchelyopus cimbrius,fourbeard rockling,2,86,NA
+BOF2016001.005.D,Lophius americanus,monkfish,2,26,NA
+BOF2016001.006.D,Cancer irroratus,rock crab,1,158,NA
+BOF2016001.007.D,Pholis gunnellus,rock gunnel,1,6,NA
+BOF2016001.008.D,Crangon septemspinosa,sand shrimp,5,8,NA
+BOF2016001.009.D,Pandalus montagui,Montague shrimp,8,32,NA
+BOF2016001.01.D,Flabellina pellucida,red-gilled nudibranch,1,2,NA
+BOF2016001.011.D,Sclerocrangon boreas,sculptured shrimp,1,4,NA
+BOF2016001.012.D,Clupea harengus,herring,1,54,NA
+BOF2016001.001.D,Scomber scombrus,mackerel,1,88,NA
+BOF2016001.002.D,Asterias vulgaris,northern sea star,1,12,NA
+BOF2016001.003.D,Ciona intestinalis,sea vase,1,6,NA
+BOF2016001.004.D,Hiatella arctica,Arctic rock borer,1,2,NA
+BOF2016001.005.D,Unidentified sponge,Unidentified sponge,3,860,NA
+BOF2016001.006.D,Suberites ficus,fig sponge,5,94,NA
+BOF2016001.007.D,Unidentified bryozoan,Unidentified bryozoan,1,514,NA
+BOF2016001.008.D,Pseudopleuronectes americanus,winter flounder,50,5364,NA
+BOF2016001.009.D,Merluccius bilinearis,silver hake,27,2774,NA
+BOF2016001.01.D,Urophycis chuss,red hake,89,8132,NA
+BOF2016001.011.D,Urophycis tenuis,white hake,23,3236,NA
+BOF2016001.012.B,Homarus americanus,American lobster,13,8397,NA
+BOF2016001.013.B,Pseudopleuronectes americanus,winter flounder,18,754,NA
+BOF2016001.014.B,Merluccius bilinearis,silver hake,11,850,NA
+BOF2016001.015.B,Illex illecebrosus,shortfin squid,2,173,NA
+BOF2016001.016.B,Crangon septemspinosa,sand shrimp,536,2212,NA
+BOF2016001.017.B,Ophiopholis aculeata,daisy brittle star,1,1,NA
+BOF2016001.018.B,Ciona intestinalis,sea vase,1,1,NA
+BOF2016001.019.B,Osmerus mordax,smelt,26,956,NA
+BOF2016001.001.B,Scomber scombrus,mackerel,34,3242,NA
+BOF2016001.002.B,Alosa pseudoharengus,alewife,146,798,NA
+BOF2016001.003.B,Placopecten magellanicus,deep sea scallop,1,2,NA
+BOF2017001.004.D,Pseudopleuronectes americanus,winter flounder,43,6496,NA
+BOF2017001.005.D,Merluccius bilinearis,silver hake,156,9344,NA
+BOF2017001.006.D,Pandalus montagui,Montague shrimp,119,1407,NA
+BOF2017001.007.D,Pandalus borealis,northern shrimp,1,14,NA
+BOF2017001.008.D,Terebratulina septentrionalis,northern lamp shell,2,2,NA
+BOF2017001.009.D,Cyclopterus lumpus,lumpfish,1,278,NA
+BOF2017001.01.D,Homarus americanus,American lobster,41,23780,NA
+BOF2017001.011.D,Urophycis chuss,red hake,7,1106,NA
+BOF2017001.012.D,Sebastes fasciatus,Acadian redfish,5,476,NA
+BOF2017001.013.D,Enchelyopus cimbrius,fourbeard rockling,1,44,NA
+BOF2017001.014.D,Zoarces americanus,ocean pout,1,44,NA
+BOF2017001.015.D,Suberites ficus,fig sponge,1,166,NA
+BOF2017001.016.D,Placopecten magellanicus,deep sea scallop,1,2,NA
+BOF2017001.017.D,Astarte castanea,chestnut astarte,1,10,NA
+BOF2017001.018.D,Chrysaora quinquecirrha,sea nettle,4,226,NA
+BOF2017001.019.D,Homarus americanus,American lobster,10,4278,NA
+BOF2017001.02.D,Chrysaora quinquecirrha,sea nettle,3,663,NA
+BOF2017001.001.D,Clupea harengus,herring,5,188,NA
+BOF2017001.002.D,Pseudopleuronectes americanus,winter flounder,5,443,NA
+BOF2017001.003.D,Hippoglossoides platessoides,American plaice,1,26,NA
+BOF2017001.004.D,Scomber scombrus,mackerel,1,224,NA
+BOF2017001.005.D,Alosa pseudoharengus,alewife,2,18,NA
+BOF2017001.006.D,Merluccius bilinearis,silver hake,4,265,NA
+BOF2017001.007.D,Melanogrammus aeglefinus,haddock,3,19,NA
+BOF2017001.008.D,Henricia sanguinolenta,blood star,1,5,NA
+BOF2017001.009.D,Crangon septemspinosa,sand shrimp,3,12,NA
+BOF2017001.01.D,Pandalus montagui,Montague shrimp,8,14,NA
+BOF2017001.011.D,Balanus crenatus,crenate barnacle,3,1,NA
+BOF2017001.012.D,Terebratulina septentrionalis,northern lamp shell,1,1,NA
+BOF2017001.013.D,Unidentified tunicate,Unidentified tunicate,1,5,NA
+BOF2017001.014.D,Hyperia galba,big-eye amphipod,1,1,NA
+BOF2017001.015.B,Pseudopleuronectes americanus,winter flounder,62,5078,NA
+BOF2017001.016.B,Osmerus mordax,smelt,334,8377,NA
+BOF2017001.017.B,Crangon septemspinosa,sand shrimp,515,1340,NA
+BOF2017001.018.B,Myoxocephalus octodecemspinosus,longhorn sculpin,6,535,NA
+BOF2017001.019.B,Homarus americanus,American lobster,87,28082,NA
+BOF2017001.02.B,Leucoraja ocellata,winter skate,1,700,NA
+BOF2017001.021.B,Myoxocephalus octodecemspinosus,longhorn sculpin,1,90,NA
+BOF2017001.022.B,Scophthalmus aquosus,windowpane flounder,4,566,NA
+BOF2017001.001.B,Melanogrammus aeglefinus,haddock,1,9,NA
+BOF2017001.002.B,Urophycis tenuis,white hake,1,22,NA
+BOF2017001.003.B,Merluccius bilinearis,silver hake,6,209,NA
+BOF2017001.004.B,Mercenaria mercenaria,quahog,4,19,NA
+BOF2017001.005.B,Scomber scombrus,mackerel,131,21025,NA
+BOF2017001.006.B,Alosa pseudoharengus,alewife,6,169,NA
+BOF2017001.007.B,Illex illecebrosus,shortfin squid,1,3,NA
+BOF2017001.008.B,Clupea harengus,herring,565,1604,NA
+BOF2017001.009.B,Merluccius bilinearis,silver hake,18,524,NA
+BOF2017001.01.B,Pseudopleuronectes americanus,winter flounder,12,1101,NA
+BOF2017001.011.B,Pandalus montagui,Montague shrimp,843,2700,NA
+BOF2017001.012.B,Chrysaora quinquecirrha,sea nettle,3,312,NA
+BOF2017001.013.B,Hemitripterus americanus,sea raven,7,5538,NA
+BOF2017001.014.B,Leucoraja erinacea,little skate,5,948,NA
+BOF2017001.015.B,Myoxocephalus octodecemspinosus,longhorn sculpin,7,663,NA
+BOF2017001.016.B,Scomber scombrus,mackerel,2,562,NA
+BOF2017001.017.B,Cucumaria frondosa,orange-footed sea cucumber,3,1575,NA
+BOF2017001.018.B,Cancer irroratus,rock crab,2,208,NA
+BOF2017001.019.B,Homarus americanus,American lobster,31,26447,NA
+BOF2017001.02.B,Sebastes fasciatus,Acadian redfish,1,256,NA
+BOF2017001.021.B,Peprilus triacanthus,butterfish,1,80,NA
+BOF2017001.022.B,Urophycis chuss,red hake,4,238,NA
+BOF2017001.023.B,Illex illecebrosus,shortfin squid,3,84,NA
+BOF2017001.024.B,Melanogrammus aeglefinus,haddock,1,4,NA
+BOF2017001.025.B,Lebbeus groenlandicus,Greenland shrimp,1,6,NA
+BOF2017001.026.B,Placopecten magellanicus,deep sea scallop,5,20,NA
+BOF2017001.001.B,Mytilus edulis,blue mussel,2,10,NA
+BOF2017001.002.B,Asterias rubens,northern sea star,1,18,NA
+BOF2017001.003.A,Myoxocephalus octodecemspinosus,longhorn sculpin,4,209,NA
+BOF2017001.004.A,Cancer irroratus,rock crab,1,247,NA
+BOF2017001.005.A,Cucumaria frondosa,orange-footed sea cucumber,2,766,NA
+BOF2017001.006.A,Metridium senile,frilled anemone,3,80,NA
+BOF2017001.007.A,Placopecten magellanicus,deep sea scallop,3,10,NA
+BOF2017001.008.A,Homarus americanus,American lobster,14,8522,NA
+BOF2017001.009.A,Alosa pseudoharengus,alewife,2,59,NA
+BOF2017001.01.A,Urophycis chuss,red hake,1,26,NA
+BOF2017001.011.A,Mercenaria mercenaria,quahog,1,5,NA
+BOF2017001.012.A,Unidentified sponge,Unidentified sponge,1,12,NA
+BOF2017001.013.A,Asterias rubens,northern sea star,1,41,NA
+BOF2017001.014.A,Littorina sp.,Littorina sp.,1,6,NA
+BOF2017001.015.A,Crangon septemspinosa,sand shrimp,21,49,NA
+BOF2017001.016.A,Pandalus montagui,Montague shrimp,20,83,NA
+BOF2017001.017.A,Sclerocrangon boreas,sculptured shrimp,3,14,NA
+BOF2017001.018.A,Cyclopterus lumpus,lumpfish,3,250,NA
+BOF2017001.019.A,Pseudopleuronectes americanus,winter flounder,12,355,NA
+BOF2017001.02.A,Merluccius bilinearis,silver hake,33,1194,NA
+BOF2017001.021.A,Osmerus mordax,smelt,10,275,NA
+BOF2017001.022.D,Homarus americanus,American lobster,7,5169,NA
+BOF2017001.001.D,Cancer borealis,Jonah crab,1,354,NA
+BOF2017001.002.D,Cancer irroratus,rock crab,1,176,NA
+BOF2017001.003.D,Placopecten magellanicus,deep sea scallop,1,1,NA
+BOF2017001.004.D,Alosa sapidissima,shad,5,372,NA
+BOF2017001.005.D,Hippoglossoides platessoides,American plaice,16,1841,NA
+BOF2017001.006.D,Pseudopleuronectes americanus,winter flounder,3,1190,NA
+BOF2017001.007.D,Melanogrammus aeglefinus,haddock,3,15,NA
+BOF2017001.001.D,Doryteuthis pealeii,longfin inshore squid,1,45,NA
+BOF2017001.002.D,Clupea harengus,herring,11,374,NA
+BOF2017001.003.D,Urophycis chuss,red hake,5,364,NA
+BOF2017001.004.D,Ctenodiscus crispatus,mud star,72,420,NA
+BOF2017001.005.D,Alosa pseudoharengus,alewife,44,2743,NA
+BOF2017001.006.D,Merluccius bilinearis,silver hake,502,29970,NA
+BOF2017001.007.D,Pandalus montagui,Montague shrimp,44,158,NA
+BOF2017001.008.D,Pandalus borealis,northern shrimp,24,215,NA
+BOF2017001.009.D,Ophiopholis aculeata,daisy brittle star,6742,8090,NA
+BOF2017001.001.D,Hyas coarctatus,lesser toad crab,1,40,NA
+BOF2017001.002.D,Homarus americanus,American lobster,3,4980,NA
+BOF2017001.003.D,Cancer borealis,Jonah crab,2,468,NA
+BOF2017001.004.D,Alosa sapidissima,shad,3,182,NA
+BOF2017001.005.D,Scomber scombrus,mackerel,1,136,NA
+BOF2017001.006.D,Melanogrammus aeglefinus,haddock,1,6,NA
+BOF2017001.007.D,Urophycis tenuis,white hake,2,270,NA
+BOF2017001.008.D,Ctenodiscus crispatus,mud star,6,36,NA
+BOF2017001.009.D,Pseudopleuronectes americanus,winter flounder,2,488,NA
+BOF2017001.01.D,Hippoglossoides platessoides,American plaice,5,388,NA
+BOF2017001.011.D,Pandalus borealis,northern shrimp,7,54,NA
+BOF2017001.012.D,Chrysaora quinquecirrha,sea nettle,2,226,NA
+BOF2017001.001.D,Merluccius bilinearis,silver hake,208,9186,NA
+BOF2017001.002.D,Clupea harengus,herring,11,867,NA
+BOF2017001.003.D,Pandalus montagui,Montague shrimp,60,220,NA
+BOF2017001.004.D,Alosa pseudoharengus,alewife,31,2223,NA
+BOF2017001.005.D,Cyclopterus lumpus,lumpfish,1,102,NA
+BOF2017001.006.D,Homarus americanus,American lobster,16,9548,NA
+BOF2017001.007.D,Cancer borealis,Jonah crab,3,1278,NA
+BOF2017001.008.D,Myoxocephalus octodecemspinosus,longhorn sculpin,4,559,NA
+BOF2017001.009.D,Zoarces americanus,ocean pout,1,60,NA
+BOF2017001.01.D,Scomber scombrus,mackerel,1,168,NA
+BOF2017001.011.D,Alosa pseudoharengus,alewife,1,180,NA
+BOF2017001.012.D,Melanogrammus aeglefinus,haddock,5,182,NA
+BOF2017001.013.D,Hemitripterus americanus,sea raven,1,1136,NA
+BOF2017001.014.D,Clupea harengus,herring,3,206,NA
+BOF2017001.015.D,Urophycis chuss,red hake,4,554,NA
+BOF2017001.016.D,Placopecten magellanicus,deep sea scallop,6,26,NA
+BOF2017001.017.D,Unidentified sponge,Unidentified sponge,8,964,NA
+BOF2017001.018.D,Henricia sanguinolenta,blood star,1,1,NA
+BOF2017001.019.D,Astarte castanea,chestnut astarte,1,6,NA
+BOF2017001.001.D,Boltenia ovifera,stalked sea squirt,1,22,NA
+BOF2017001.002.D,Unidentified polychaete,Unidentified polychaete,1,3,NA
+BOF2017001.003.D,Pseudopleuronectes americanus,winter flounder,53,10659,NA
+BOF2017001.004.D,Hippoglossoides platessoides,American plaice,1,84,NA
+BOF2017001.005.D,Merluccius bilinearis,silver hake,230,19409,NA
+BOF2017001.006.D,Pandalus montagui,Montague shrimp,695,3254,NA
+BOF2017001.007.D,Pandalus borealis,northern shrimp,69,646,NA
+BOF2017001.008.B,Homarus americanus,American lobster,182,76794,NA
+BOF2017001.009.B,Myoxocephalus octodecemspinosus,longhorn sculpin,75,7679,NA
+BOF2017001.01.B,Cancer irroratus,rock crab,3,565,NA
+BOF2017001.011.B,Merluccius bilinearis,silver hake,337,23253,NA
+BOF2017001.012.B,Urophycis chuss,red hake,3,199,NA
+BOF2017001.013.B,Urophycis tenuis,white hake,17,189,NA
+BOF2017001.014.B,Doryteuthis pealeii,longfin inshore squid,1,18,NA
+BOF2017001.015.B,Scomber scombrus,mackerel,22,3007,NA
+BOF2017001.016.B,Alosa pseudoharengus,alewife,111,2242,NA
+BOF2017001.017.B,Clupea harengus,herring,97,327,NA
+BOF2017001.018.B,Crangon septemspinosa,sand shrimp,322,1061,NA
+BOF2017001.019.B,Osmerus mordax,smelt,736,27980,NA
+BOF2017001.02.B,Scophthalmus aquosus,windowpane flounder,32,3501,NA
+BOF2017001.001.B,Pseudopleuronectes americanus,winter flounder,76,6581,NA
+BOF2017001.002.B,Cucumaria frondosa,orange-footed sea cucumber,129,49370,NA
+BOF2017001.003.B,Merluccius bilinearis,silver hake,121,6624,NA
+BOF2017001.004.B,Pseudopleuronectes americanus,winter flounder,125,7881,NA
+BOF2017001.005.B,Alosa pseudoharengus,alewife,10,1177,NA
+BOF2017001.006.B,Osmerus mordax,smelt,31,912,NA
+BOF2017001.007.B,Scophthalmus aquosus,windowpane flounder,7,281,NA
+BOF2017001.008.B,Pandalus montagui,Montague shrimp,3387,13753,NA
+BOF2017001.009.B,Homarus americanus,American lobster,306,105563,NA
+BOF2017001.01.B,Myoxocephalus octodecemspinosus,longhorn sculpin,120,10032,NA
+BOF2017001.011.B,Hemitripterus americanus,sea raven,4,1983,NA
+BOF2017001.012.B,Zoarces americanus,ocean pout,7,808,NA
+BOF2017001.013.B,Leucoraja erinacea,little skate,8,1092,NA
+BOF2017001.014.B,Scomber scombrus,mackerel,2,318,NA
+BOF2017001.015.B,Sebastes fasciatus,Acadian redfish,2,191,NA
+BOF2017001.016.B,Urophycis chuss,red hake,63,3167,NA
+BOF2017001.017.B,Urophycis tenuis,white hake,156,3093,NA
+BOF2017001.018.B,Melanogrammus aeglefinus,haddock,1,14,NA
+BOF2017001.019.B,Doryteuthis pealeii,longfin inshore squid,2,76,NA
+BOF2017001.02.B,Placopecten magellanicus,deep sea scallop,7,88,NA
+BOF2017001.021.B,Strongylocentrotus droebachiensis,green sea urchin,7,90,NA
+BOF2017001.022.B,Unidentified sponge,Unidentified sponge,3,148,NA
+BOF2017001.001.B,Cancer irroratus,rock crab,1,14,NA
+BOF2017001.002.C,Hippoglossus hippoglossus,Atlantic halibut,1,305,NA
+BOF2017001.003.C,Merluccius bilinearis,silver hake,214,13454,NA
+BOF2017001.004.C,Pseudopleuronectes americanus,winter flounder,322,17112,NA
+BOF2017001.005.C,Mercenaria mercenaria,quahog,4,66,NA
+BOF2017001.006.C,Clinocardium ciliatum,Iceland cockle,2,8,NA
+BOF2017001.007.C,Asterias rubens,northern sea star,3,210,NA
+BOF2017001.008.C,Crangon septemspinosa,sand shrimp,2,6,NA
+BOF2017001.009.C,Scomber scombrus,mackerel,1,132,NA
+BOF2017001.01.C,Alosa pseudoharengus,alewife,221,8392,NA
+BOF2017001.011.C,Homarus americanus,American lobster,34,36982,NA
+BOF2017001.012.C,Cancer irroratus,rock crab,4,1880,NA
+BOF2017001.013.C,Myoxocephalus octodecemspinosus,longhorn sculpin,17,1586,NA
+BOF2017001.014.C,Lophius americanus,monkfish,2,1400,NA
+BOF2017001.015.C,Alosa sapidissima,shad,4,862,NA
+BOF2017001.016.C,Glyptocephalus cynoglossus,witch flounder,1,16,NA
+BOF2017001.017.C,Urophycis tenuis,white hake,38,1516,NA
+BOF2017001.018.C,Urophycis chuss,red hake,7,672,NA
+BOF2017001.019.C,Melanogrammus aeglefinus,haddock,1,24,NA
+BOF2017001.02.C,Clupea harengus,herring,1,24,NA
+BOF2017001.021.C,Scophthalmus aquosus,windowpane flounder,9,1688,NA
+BOF2017001.022.B,Myoxocephalus octodecemspinosus,longhorn sculpin,17,1783,NA
+BOF2017001.023.B,Asterias rubens,northern sea star,2,134,NA
+BOF2017001.024.B,Alosa sapidissima,shad,3,274,NA
+BOF2017001.025.B,Cancer irroratus,rock crab,1,108,NA
+BOF2017001.026.B,Osmerus mordax,smelt,36,1578,NA
+BOF2017001.001.B,Melanogrammus aeglefinus,haddock,1,10,NA
+BOF2017001.002.B,Scophthalmus aquosus,windowpane flounder,5,284,NA
+BOF2017001.003.B,Glyptocephalus cynoglossus,witch flounder,1,19,NA
+BOF2017001.004.B,Scomber scombrus,mackerel,7,1073,NA
+BOF2017001.005.B,Peprilus triacanthus,butterfish,12,261,NA
+BOF2017001.006.B,Urophycis tenuis,white hake,45,1743,NA
+BOF2017001.007.B,Urophycis chuss,red hake,4,347,NA
+BOF2017001.008.B,Pseudopleuronectes americanus,winter flounder,169,13190,NA
+BOF2017001.009.B,Alosa pseudoharengus,alewife,72,4099,NA
+BOF2017001.01.B,Clupea harengus,herring,82,922,NA
+BOF2017001.011.B,Homarus americanus,American lobster,111,47496,NA
+BOF2017001.012.B,Merluccius bilinearis,silver hake,129,10323,NA
+BOF2017001.013.B,Pandalus montagui,Montague shrimp,42,152,NA
+BOF2017001.014.B,Dichelopandalus leptocerus,bristled longbeak,47,132,NA
+BOF2017001.015.B,Pandalus borealis,northern shrimp,11,116,NA
+BOF2017001.016.B,Crangon septemspinosa,sand shrimp,43,119,NA
+BOF2017001.017.A,Cyclopterus lumpus,lumpfish,1,236,NA
+BOF2017001.018.A,Scomber scombrus,mackerel,1,134,NA
+BOF2017001.019.A,Urophycis chuss,red hake,1,44,NA
+BOF2017001.02.A,Urophycis tenuis,white hake,1,58,NA
+BOF2017001.021.A,Scophthalmus aquosus,windowpane flounder,2,92,NA
+BOF2017001.022.A,Myoxocephalus scorpius,shorthorn sculpin,1,10,NA
+BOF2017001.001.A,Clupea harengus,herring,1,3,NA
+BOF2017001.002.A,Cucumaria frondosa,orange-footed sea cucumber,1,192,NA
+BOF2017001.003.A,Metridium senile,frilled anemone,5,47,NA
+BOF2017001.004.A,Dichelopandalus leptocerus,bristled longbeak,3,9,NA
+BOF2017001.005.A,Pandalus montagui,Montague shrimp,7,26,NA
+BOF2017001.006.A,Sclerocrangon boreas,sculptured shrimp,5,30,NA
+BOF2017001.007.A,Asterias rubens,northern sea star,7,289,NA
+BOF2017001.001.A,Osmerus mordax,smelt,1,37,NA
+BOF2017001.002.A,Cancer irroratus,rock crab,1,288,NA
+BOF2017001.003.A,Cancer borealis,Jonah crab,1,494,NA
+BOF2017001.004.A,Alosa pseudoharengus,alewife,3,142,NA
+BOF2017001.005.A,Pseudopleuronectes americanus,winter flounder,56,1503,NA
+BOF2017001.006.A,Homarus americanus,American lobster,28,9111,NA
+BOF2017001.007.A,Merluccius bilinearis,silver hake,18,1067,NA
+BOF2017001.008.B,Pseudopleuronectes americanus,winter flounder,314,20402,NA
+BOF2017001.009.B,Scomber scombrus,mackerel,7,1015,NA
+BOF2017001.001.B,Alosa pseudoharengus,alewife,200,8015,NA
+BOF2017001.002.B,Osmerus mordax,smelt,3,112,NA
+BOF2017001.003.B,Peprilus triacanthus,butterfish,1,18,NA
+BOF2017001.004.B,Merluccius bilinearis,silver hake,178,8726,NA
+BOF2017001.005.B,Urophycis tenuis,white hake,50,2336,NA
+BOF2017001.006.B,Homarus americanus,American lobster,69,48939,NA
+BOF2017001.007.B,Cancer irroratus,rock crab,5,620,NA
+BOF2017001.008.B,Lophius americanus,monkfish,1,328,NA
+BOF2017001.009.B,Myoxocephalus octodecemspinosus,longhorn sculpin,9,752,NA
+BOF2017001.01.B,Scophthalmus aquosus,windowpane flounder,25,1555,NA
+BOF2017001.011.B,Urophycis chuss,red hake,7,714,NA
+BOF2017001.012.B,Crangon septemspinosa,sand shrimp,12,36,NA
+BOF2017001.001.B,Asterias rubens,northern sea star,6,507,NA
+BOF2017001.002.B,Cyclocardia borealis,northern cardita,2,10,NA
+BOF2017001.003.D,Alosa pseudoharengus,alewife,813,26035,NA
+BOF2017001.004.D,Pseudopleuronectes americanus,winter flounder,52,9177,NA
+BOF2017001.005.D,Scomber scombrus,mackerel,8,1240,NA
+BOF2017001.006.D,Merluccius bilinearis,silver hake,83,5290,NA
+BOF2017001.007.D,Leucoraja erinacea,little skate,1,656,NA
+BOF2017001.008.D,Lophius americanus,monkfish,1,1280,NA
+BOF2017001.009.D,Homarus americanus,American lobster,87,44893,NA
+BOF2017001.01.D,Alosa sapidissima,shad,8,874,NA
+BOF2017001.011.D,Scophthalmus aquosus,windowpane flounder,1,286,NA
+BOF2017001.012.D,Hippoglossoides platessoides,American plaice,4,236,NA
+BOF2017001.013.D,Doryteuthis pealeii,longfin inshore squid,5,446,NA
+BOF2017001.014.D,Clupea harengus,herring,8,450,NA
+BOF2017001.015.D,Peprilus triacanthus,butterfish,12,154,NA
+BOF2017001.016.D,Urophycis tenuis,white hake,5,610,NA
+BOF2017001.017.D,Urophycis chuss,red hake,2,502,NA
+BOF2017001.018.D,Glyptocephalus cynoglossus,witch flounder,1,8,NA
+BOF2017001.019.D,Crangon septemspinosa,sand shrimp,3,6,NA
+BOF2017001.001.D,Dichelopandalus leptocerus,bristled longbeak,1,2,NA
+BOF2017001.002.D,Asterias rubens,northern sea star,3,324,NA
+BOF2017001.003.C,Hemitripterus americanus,sea raven,1,200,NA
+BOF2017001.004.C,Homarus americanus,American lobster,191,100076,NA
+BOF2017001.005.C,Cancer borealis,Jonah crab,4,1104,NA
+BOF2017001.006.C,Cancer irroratus,rock crab,7,1378,NA
+BOF2017001.007.C,Myoxocephalus octodecemspinosus,longhorn sculpin,8,756,NA
+BOF2017001.008.C,Enchelyopus cimbrius,fourbeard rockling,1,32,NA
+BOF2017001.009.C,Hyas araneus,toad crab,1,20,NA
+BOF2017001.01.C,Suberites ficus,fig sponge,1,94,NA
+BOF2017001.011.C,Osmerus mordax,smelt,79,3393,NA
+BOF2017001.012.C,Scomber scombrus,mackerel,7,1130,NA
+BOF2017001.013.C,Scophthalmus aquosus,windowpane flounder,6,476,NA
+BOF2017001.014.C,Clupea harengus,herring,1,102,NA
+BOF2017001.015.C,Peprilus triacanthus,butterfish,3,56,NA
+BOF2017001.016.C,Melanogrammus aeglefinus,haddock,2,42,NA
+BOF2017001.017.C,Hippoglossoides platessoides,American plaice,1,38,NA
+BOF2017001.018.C,Doryteuthis pealeii,longfin inshore squid,1,52,NA
+BOF2017001.019.C,Urophycis chuss,red hake,13,986,NA
+BOF2017001.02.C,Placopecten magellanicus,deep sea scallop,115,1061,NA
+BOF2017001.001.C,Urophycis tenuis,white hake,51,2334,NA
+BOF2017001.002.C,Merluccius bilinearis,silver hake,426,30722,NA
+BOF2017001.003.C,Pseudopleuronectes americanus,winter flounder,242,12140,NA
+BOF2017001.004.C,Astarte castanea,chestnut astarte,12,99,NA
+BOF2017001.005.C,Clinocardium ciliatum,Iceland cockle,4,6,NA
+BOF2017001.006.C,Arctica islandica,black clam,129,794,NA
+BOF2017001.007.C,Crangon septemspinosa,sand shrimp,11,29,NA
+BOF2017001.008.C,Dichelopandalus leptocerus,bristled longbeak,108,380,NA
+BOF2017001.009.C,Pandalus montagui,Montague shrimp,93,367,NA
+BOF2017001.01.D,Squalus acanthias,spiny dogfish,1,2537,NA
+BOF2017001.011.D,Scomber scombrus,mackerel,153,22848,NA
+BOF2017001.012.D,Alosa pseudoharengus,alewife,16,725,NA
+BOF2017001.013.D,Merluccius bilinearis,silver hake,138,9752,NA
+BOF2017001.014.D,Homarus americanus,American lobster,158,61149,NA
+BOF2017001.015.D,Myoxocephalus octodecemspinosus,longhorn sculpin,1,124,NA
+BOF2017001.016.D,Hemitripterus americanus,sea raven,1,614,NA
+BOF2017001.017.D,Cancer borealis,Jonah crab,4,630,NA
+BOF2017001.018.D,Hippoglossus hippoglossus,Atlantic halibut,1,140,NA
+BOF2017001.019.D,Osmerus mordax,smelt,2,146,NA
+BOF2017001.02.D,Gadus morhua,Atlantic cod,1,60,NA
+BOF2017001.021.D,Peprilus triacanthus,butterfish,1,18,NA
+BOF2017001.022.D,Triglops murrayi,moustache sculpin,1,14,NA
+BOF2017001.001.D,Placopecten magellanicus,deep sea scallop,3,6,NA
+BOF2017001.002.D,Pollachius virens,pollock,3,859,NA
+BOF2017001.003.D,Melanogrammus aeglefinus,haddock,427,17954,NA
+BOF2017001.004.D,Halichondria panicea,bread-crumb sponge,1,4,NA
+BOF2017001.005.D,Clupea harengus,herring,101,3646,NA
+BOF2017001.006.D,Alosa pseudoharengus,alewife,1,28,NA
+BOF2017001.007.D,Pseudopleuronectes americanus,winter flounder,135,7302,NA
+BOF2017001.008.D,Hippoglossoides platessoides,American plaice,25,1628,NA
+BOF2017001.009.D,Merluccius bilinearis,silver hake,252,22463,NA
+BOF2017001.01.D,Alosa pseudoharengus,alewife,366,14273,NA
+BOF2017001.011.D,Pseudopleuronectes americanus,winter flounder,37,6903,NA
+BOF2017001.012.D,Acipenser oxyrinchus,Atlantic sturgeon,1,35e3,NA
+BOF2017001.013.D,Squalus acanthias,spiny dogfish,2,253,NA
+BOF2017001.014.D,Homarus americanus,American lobster,240,170902,NA
+BOF2017001.015.D,Scophthalmus aquosus,windowpane flounder,4,553,NA
+BOF2017001.016.D,Alosa sapidissima,shad,14,1752,NA
+BOF2017001.017.D,Clupea harengus,herring,3,103,NA
+BOF2017001.018.D,Glyptocephalus cynoglossus,witch flounder,1,20,NA
+BOF2017001.019.D,Gadus morhua,Atlantic cod,1,39,NA
+BOF2017001.02.D,Melanogrammus aeglefinus,haddock,1,40,NA
+BOF2017001.021.D,Doryteuthis pealeii,longfin inshore squid,1,262,NA
+BOF2017001.022.D,Pandalus borealis,northern shrimp,3,28,NA
+BOF2017001.023.D,Dichelopandalus leptocerus,bristled longbeak,8,48,NA
+BOF2017001.024.D,Pandalus montagui,Montague shrimp,40,155,NA
+BOF2017001.025.D,Peprilus triacanthus,butterfish,139,7234,NA
+BOF2017001.026.D,Urophycis chuss,red hake,3,267,NA
+BOF2017001.001.D,Urophycis tenuis,white hake,38,3478,NA
+BOF2017001.002.D,Scomber scombrus,mackerel,11,1746,NA
+BOF2017001.003.B,Pseudopleuronectes americanus,winter flounder,238,12609,NA
+BOF2017001.004.B,Scomber scombrus,mackerel,8,1220,NA
+BOF2017001.005.B,Urophycis tenuis,white hake,54,4293,NA
+BOF2017001.006.B,Alosa pseudoharengus,alewife,41,1915,NA
+BOF2017001.007.B,Myoxocephalus octodecemspinosus,longhorn sculpin,12,1116,NA
+BOF2017001.008.B,Homarus americanus,American lobster,228,159815,NA
+BOF2017001.009.B,Hemitripterus americanus,sea raven,1,260,NA
+BOF2017001.01.B,Leucoraja erinacea,little skate,2,36,NA
+BOF2017001.011.B,Cancer irroratus,rock crab,1,210,NA
+BOF2017001.012.B,Melanogrammus aeglefinus,haddock,9,380,NA
+BOF2017001.013.B,Hippoglossoides platessoides,American plaice,2,80,NA
+BOF2017001.014.B,Cucumaria frondosa,orange-footed sea cucumber,3,576,NA
+BOF2017001.015.B,Merluccius bilinearis,silver hake,38,5018,NA
+BOF2017001.016.B,Pandalus montagui,Montague shrimp,5,22,NA
+BOF2017001.017.B,Dichelopandalus leptocerus,bristled longbeak,130,609,NA
+BOF2017001.018.D,Homarus americanus,American lobster,231,135352,NA
+BOF2017001.019.D,Urophycis tenuis,white hake,8,500,NA
+BOF2017001.02.D,Pseudopleuronectes americanus,winter flounder,39,2943,NA
+BOF2017001.021.D,Peprilus triacanthus,butterfish,3,96,NA
+BOF2017001.022.D,Clupea harengus,herring,3,77,NA
+BOF2017001.001.D,Melanogrammus aeglefinus,haddock,1,29,NA
+BOF2017001.002.D,Osmerus mordax,smelt,1,27,NA
+BOF2017001.003.D,Hippoglossoides platessoides,American plaice,1,158,NA
+BOF2017001.004.D,Gadus morhua,Atlantic cod,2,66,NA
+BOF2017001.005.D,Scophthalmus aquosus,windowpane flounder,5,266,NA
+BOF2017001.006.D,Alosa pseudoharengus,alewife,29,793,NA
+BOF2017001.007.D,Merluccius bilinearis,silver hake,18,2021,NA
+BOF2017001.001.C,Cyclopterus lumpus,lumpfish,1,366,NA
+BOF2017001.002.C,Homarus americanus,American lobster,92,74072,NA
+BOF2017001.003.C,Myoxocephalus octodecemspinosus,longhorn sculpin,7,934,NA
+BOF2017001.004.C,Scophthalmus aquosus,windowpane flounder,11,858,NA
+BOF2017001.005.C,Cancer irroratus,rock crab,3,604,NA
+BOF2017001.006.C,Cancer borealis,Jonah crab,2,394,NA
+BOF2017001.007.C,Asterias rubens,northern sea star,4,956,NA
+BOF2017001.008.C,Strongylocentrotus droebachiensis,green sea urchin,2,96,NA
+BOF2017001.009.C,Suberites ficus,fig sponge,1,85,NA
+BOF2017001.001.C,Hippoglossoides platessoides,American plaice,5,72,NA
+BOF2017001.002.C,Peprilus triacanthus,butterfish,6,90,NA
+BOF2017001.003.C,Pseudopleuronectes americanus,winter flounder,683,51908,NA
+BOF2017001.004.C,Gadus morhua,Atlantic cod,1,22,NA
+BOF2017001.005.C,Melanogrammus aeglefinus,haddock,1,27,NA
+BOF2017001.006.C,Urophycis tenuis,white hake,90,7446,NA
+BOF2017001.007.C,Merluccius bilinearis,silver hake,281,26700,NA
+BOF2017001.008.C,Scomber scombrus,mackerel,11,1898,NA
+BOF2017001.009.C,Alosa pseudoharengus,alewife,785,31411,NA
